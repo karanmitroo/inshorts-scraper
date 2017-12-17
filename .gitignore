@@ -1,0 +1,7 @@
+.venv/
+aws results
+*.py~
+*.pyc
+nohup.out
+min_news_id.txt
+
