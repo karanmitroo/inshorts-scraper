@@ -7,7 +7,6 @@ def text_to_json(data):
 
 	all_news = soup.findAll("div", {"class" : "news-card z-depth-1"})
 
-
 	data = []
 	count = len(all_news)
 	for each_news in all_news:
