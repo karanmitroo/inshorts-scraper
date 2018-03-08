@@ -1,0 +1,1 @@
+US-based security firm ERPScan has discovered a vulnerability that would allow hackers to buy a MacBook for as less as $1. In addition to access to sale terminals of SAP which allows them to change prices, the bug also gives total control over the servers. The servers do not perform authentication checks that require user identity, researchers said. 

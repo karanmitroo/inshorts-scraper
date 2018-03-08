@@ -1,0 +1,1 @@
+Mobile app called 'Dawai Dost' has been developed by 17-year-old Aryaman Kunzru that reminds old people of their medicine schedules. The app gives reminders through voice notifications and also gives audio tutorials. It allows users to either take a photo of the medicine or feed its name manually and set an alarm for when the medicines are to be consumed.

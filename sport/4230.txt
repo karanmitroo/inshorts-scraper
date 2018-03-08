@@ -1,0 +1,1 @@
+The official scoreboard in the 1976 Montreal Olympics was not programmed to display the perfect 10 score in gymnastics, which was first achieved by Romania's Nadia Comaneci on July 18 that year. The scoreboard displayed it as '1.00', instead of 10.0. Nine-time Olympic medalist Nadia was awarded the first perfect 10 in gymnastics for her routine on uneven bars.

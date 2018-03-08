@@ -1,0 +1,1 @@
+Boeing has secured a patent for a hacker-proof internet from the US patent office. Using quantum communication, Boeing has developed a technology that prevents intermediate servers from being hacked, thus disabling hackers from accessing any traffic passing through them. Further, once a hacked intermediate server is detected, all traffic is routed away from it.

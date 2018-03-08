@@ -1,0 +1,1 @@
+Programmers have developed a tool called 'Spellf*cker' which can distort text in a way that humans can read it but not computer bots. The tool uses a random method of replacing letter combinations in a word to similar-sounding combinations. For example, the phrase, "I wish you an amazing Monday" could be distorted to "I whysh jou amazyngue Mondei."

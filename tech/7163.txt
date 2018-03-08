@@ -1,0 +1,1 @@
+Yahoo researchers have developed a new online abuse detecting algorithm. Most current abuse filters use a combination of blacklisted terms or expressions to catch hate speech online, but the new method applies machine learning as well. The system, with a reported 90% accuracy, can recognize an offensive string of words, even when individual words are inoffensive on their own.

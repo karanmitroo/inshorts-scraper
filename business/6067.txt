@@ -1,0 +1,1 @@
+Digital currency company and Bitcoin rival Zcoin has revealed that one typographical error in its code led to the theft of cryptocurrency worth over ₹4.6 crore. By selling most of the stolen Zcoins, the attacker made a profit of about ₹3 crore. The company explained that the theft could've been avoided if the code used "=" sign instead of "==".

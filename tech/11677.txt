@@ -1,0 +1,1 @@
+Nvidia, the largest graphics chips manufacturer, unveiled a set-top box called Shield for streaming games over the Internet. The android-based device uses the new Tegra X1 mobile processor, and will go on sale in May for $199. Shield aims to change the games industry so that devices are connected to data centers, instead of running on disks and dedicated hardware.

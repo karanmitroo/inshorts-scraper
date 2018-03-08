@@ -1,0 +1,1 @@
+Japanese Volleyball Association is using robot volleyball players to help out the national team players with training and drills. The robots, which simulate the opponent team's blockers, consist of three pairs of hands fixed to mobile torsos, which can move back and forth on a fixed track behind the net. The robots also help train against various defensive formations.

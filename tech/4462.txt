@@ -1,0 +1,1 @@
+Facebook on Thursday announced that it will let users secure their accounts using a physical USB key. Facebook claims the key will act as a more reliable alternative to the two-factor authentication codes received via SMS. After registering the compatible Universal 2nd Factor (U2F) keys to their accounts, users can access Facebook by tapping the plugged-in hardware device.

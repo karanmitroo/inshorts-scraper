@@ -1,0 +1,1 @@
+Engineers from the Massachusetts Institute of Technology (MIT) have designed a portable measurement system that monitors the amount of electricity used by each household appliance and electronic device. The device can also be used to detect when an equipment needs maintenance or replacement. A connected app can be used to track the data in real-time.

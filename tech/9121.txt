@@ -1,0 +1,1 @@
+The University of California on Friday launched a new Android app 'MyShake', that uses smartphone's sensors to track earthquake tremors and provides the quake's location, magnitude and origin time. The app will eventually provide early warnings prior to shaking. It also gives out safety tips to stay safe during an earthquake.

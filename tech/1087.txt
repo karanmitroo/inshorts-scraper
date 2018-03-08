@@ -1,0 +1,1 @@
+Germany-based researchers have developed an augmented reality (AR) system that superimposes a virtual image on the skin of the patient to pinpoint the exact position of cancerous tumours to the surgeon. The AR system, based on the use of data glasses, helps surgeons locate tumours with the aid of virtual markers created by injecting a fluorescent dye into the patient.

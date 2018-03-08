@@ -1,0 +1,1 @@
+Technology giant Google has said it will soon be able to automatically remove unwanted objects from photos. In a demo at its annual developer conference Google I/O, the American multinational showed a chain-link fence being removed from the foreground of a picture. The company has not announced a date for the rollout of the feature.

@@ -1,0 +1,1 @@
+A new device called BrainPort V100 allows blind people to process visual images with their tongues to help them identify location, shape and size of various objects. The users have to interpret the signals from intra-oral device fitted on their tongues to determine the physiognomy of the object and to determine whether the object is moving or stationary. 

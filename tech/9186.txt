@@ -1,0 +1,1 @@
+A supercomputer Deep Blue defeated world chess champion Garry Kasparov for the first time on February 10, 1996. Deep Blue was an IBM computer which was capable of evaluating 200 million moves per second. While the 6-match tournament that year was won by Kasparov, he lost the 1997 tournament. Kasparov had previously defeated another IBM supercomputer Deep Thought in 1989. 

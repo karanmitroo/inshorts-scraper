@@ -1,0 +1,1 @@
+E-commerce giant Alibaba's mobile browser UCWeb could be banned in India for allegedly sending users' mobile data to servers in China. The browser reportedly retains control of the Domain Name System (DNS) of a user's device, even if a user has uninstalled the app or cleaned browsing data. However, UCWeb claims its end-user licensing agreement encrypts and protects user data.

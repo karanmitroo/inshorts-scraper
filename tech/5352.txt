@@ -1,0 +1,1 @@
+Microsoft has announced that it is launching its primary coding interface, Visual Studio, on Mac computers. This could encourage Mac and iOS developers to make more apps for Windows, as they will no longer be restricted by choice of platform. The move comes with Microsoft shifting its focus to its profit-making cloud service.

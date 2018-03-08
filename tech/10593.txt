@@ -1,0 +1,1 @@
+According to a post on Google+ by François Beaufort, Google Chrome is working on a way to partially control autoplay media. It has rolled out a feature in Chrome’s Dev version where an autoplay media will load as soon as its page is opened, but will only play the file when that particular tab is being looked at.

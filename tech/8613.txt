@@ -1,0 +1,1 @@
+UK-based mental health organisation Headspace has built a Google Chrome browser extension named 'Reword', which strikes out abusive words with a red line, as a user types. It works on popular sites like Facebook and Twitter to identify abusive words, phrases or sentences in real-time. The tool also allows contribution of such words from users to add to its database.

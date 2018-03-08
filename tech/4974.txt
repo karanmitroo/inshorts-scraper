@@ -1,0 +1,1 @@
+Apple has pulled the latest watchOS update following reports that the update was bricking watches, rendering them useless. A day after the update was released, some users reported that their watches were showing a red exclamation mark with a text asking them to visit Apple's help page. The problem is said to mostly affect the Apple Watch Series 2.

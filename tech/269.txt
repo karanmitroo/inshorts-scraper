@@ -1,0 +1,1 @@
+Facebook-owned messaging app WhatsApp has rolled out its digital payments service via UPI platform in India. It is activated by verifying the phone number via SMS and choosing a bank. Available as 'Payment' option under the Attachment tab on a chat window, the feature allows transfer of money only to contacts who have received the UPI WhatsApp update.

@@ -1,0 +1,1 @@
+A vulnerability attack on an 11-year-old flaw in the Linux operating system, that grants any user exploiting it unauthorised access privileges, has reportedly been found. Dubbed as "Dirty COW," the bug can break memory operations in the Linux kernel. Experts have warned that the bug could be used to gain root server access.

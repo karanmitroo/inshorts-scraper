@@ -1,0 +1,1 @@
+Some Reddit and Twitter users have shared screenshots of SMS text messages they have received that seem to be from 2003. However, users have speculated that this issue, being faced by Vodafone and EE users in the UK, could be because of an SMS protocol that makes it possible to "fake absolutely everything" about SMS including sender details and dates.

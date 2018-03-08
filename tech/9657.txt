@@ -1,0 +1,1 @@
+Taiwan researchers have developed 'Infant Cries Translator', an app that decodes what a baby is crying for. The app can distinguish four separate crying sounds, including hunger, sleep, and pain, in 15 seconds. Users need to record the crying sound for 10 seconds and the app will compare it to a database of 2,00,000 crying sounds collected from 100 babies.

@@ -1,0 +1,1 @@
+Researchers at the Pwn2Own hacking competition this week won over ₹18 lakh for successfully hijacking the Touch Bar display on an Apple MacBook Pro laptop. The hacking duo attacked Apple's Safari web browser to gain access to macOS and display "pwned by nikolasb & saelo" on the Touch Bar. However, the vulnerability used has now been fixed by Apple.

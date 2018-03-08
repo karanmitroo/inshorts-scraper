@@ -1,0 +1,1 @@
+'The Shadow Brokers' group, which had released a number of Windows exploits earlier this year, has threatened to leak more hacking tools in the coming months. An exploit from the group's leak was used to unleash the global 'WannaCry' ransomware attack last week that hit 150 countries. The group claims that the hacks are stolen from US spy agency NSA.

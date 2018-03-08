@@ -1,0 +1,1 @@
+A New York-based undergraduate student and her professor are developing an app to detect early signs of the developmental disorder, autism. The app tracks eye movements of a child looking at pictures of social scenes to determine, in less than a minute, if a child is showing signs of autism spectrum disorder. Initial tests reported accuracies of up to 94%.

@@ -1,0 +1,1 @@
+Researchers at Disney, Pittsburgh have developed a new technique that is capable of simulating 3D geometric features on touch screen surfaces and allow people to 'feel' the texture of the objects viewed on a touchscreen. The latest technique involves transferring small vibrations via the display that offers users a feel of shallow bumps, ridges and edges of an object.

@@ -1,0 +1,1 @@
+Google has released an image compression technology that claims to save up to 75% internet data to show a high-resolution image. The technology analyses both low and high-quality versions of the same image and then simulates the differences on the smaller version. Overall, Google has said the tool will save a third of the users' total bandwidth.

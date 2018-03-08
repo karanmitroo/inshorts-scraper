@@ -1,0 +1,1 @@
+A University of Utah professor has created a pair of smart glasses with liquid lenses that automatically focus on whatever the wearer is looking at. A distance sensor placed on the bridge of the glasses uses infrared light to calculate the distance between the glasses and an object. The sensor then tells actuators to reshape the curves of the lenses.

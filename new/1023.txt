@@ -1,0 +1,1 @@
+Swedish automaker Volvo has developed a new system for its electric buses that will automatically detect pedestrians and cyclists on the road, and alert the driver about the same. It constantly monitors the bus surroundings and emits a gentle warning sound to signify that a vehicle is approaching. On detecting a clear collision risk, the system issues a loud warning.

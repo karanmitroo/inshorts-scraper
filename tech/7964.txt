@@ -1,0 +1,1 @@
+Samsung recently showcased a prototype of a rollable OLED display at the 2016 SID Annual Meeting in San Francisco. It is a 5.7-inch screen offering 1920x1080 full HD resolution and 386 pixels-per-inch pixel density. The company claimed that the screen is 0.3 mm thick, weighs five grams and can be rolled into a tube of radius 10 mm.

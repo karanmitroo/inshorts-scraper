@@ -1,0 +1,1 @@
+Researchers have found that a smart car gadget by German electronics company Bosch can be hacked to let attackers remotely turn off a car's engine while it is being driven. The hack, which works if the moving car is within Bluetooth range, exploits how the gadget pairs with users' smartphone apps. However, Bosch has outlined a fix for the hack.

@@ -1,0 +1,1 @@
+The Central Bank of the Russian Federation on Tuesday said that hackers stole more than ₹110 crore from Russian banks using the Cobalt Strike security-testing tool last year. Over 240 credit organisations were hit by 21 "waves of attacks", the bank added. Notably, the Cobalt Strike security tool is used to test the strength of an organisation's cyber defences.

@@ -1,0 +1,1 @@
+Snapchat filters are created using the technology of Ukraine-based startup 'Looksery' which the company acquired in 2015. A five-minute video explains that the technology focuses on computer vision to detect the face position and facial features to create a digital mask. The mask is then manipulated to apply the augmented reality filters.

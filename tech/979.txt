@@ -1,0 +1,1 @@
+Technology giant Google has launched Datally app that lets users control and monitor their data usage in real-time. The app which is available to all Android users, lets users turn on the 'Data Saver' tab to block background data usage for the same purpose. The app also helps users save data by notifying them about nearby public Wi-Fi connections.

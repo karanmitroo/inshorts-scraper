@@ -1,0 +1,1 @@
+To avoid 'WannaCry' ransomware from spreading, RBI has asked banks to not operate ATMs till their software is updated, reports said. In this regard, RBI has asked banks to update specific Windows patches on ATMs urgently. The advice comes as over 60% of ATMs in India run on an outdated version of Windows and hence, are vulnerable to the attack.

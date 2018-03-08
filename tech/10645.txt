@@ -1,0 +1,1 @@
+Slack, a software designed to help teams improve communication, has announced the integration of e-mails to its channels for Standard and Plus plan customers. To set this up, customers have to pick the channel to which they would like to send their email messages and they’ll be given a secret e-mail address that will route directly to that Slack channel.

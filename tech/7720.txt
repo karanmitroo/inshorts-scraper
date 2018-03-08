@@ -1,0 +1,1 @@
+Researchers at the MIT have developed a machine learning-based software that can turn any smartphone into an eye-tracking device. It runs an application that continuously captures images of the user's face using the phone's front camera. The team claimed to have brought down the error margin down to 1.5 centimetres, a two-fold improvement over previous experimental systems.

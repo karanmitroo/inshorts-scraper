@@ -1,0 +1,1 @@
+UK-based augmented reality (AR) startup 6D.ai is working on a technology to build a crowdsourced 3D map of the world. The technology will use users' smartphone cameras to gather 3D data of their surroundings while they play AR-based games such as Pokémon GO. This means that a web of phones will begin building a 3D cloud map of the world.

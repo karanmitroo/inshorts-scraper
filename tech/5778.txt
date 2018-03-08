@@ -1,0 +1,1 @@
+Chrome's experimental Canary browser has been made available on Android. Users will get to experience the new mobile browsing features alongside existing version of Chrome on Android devices. However, the browser will be automatically updated every weekday without human testing, so it is expected to be unstable or fail to run some times, the company claimed.

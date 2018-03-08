@@ -1,0 +1,1 @@
+Microsoft on Tuesday announced a new tool called Windows Defender Advanced Threat Protection designed to help detect threats to Windows 10 machines after it breaches the network. The tool uses machine learning to search for problems on a Windows 10 machine and compares the found problems with a vast repository of security data that the company has accumulated.

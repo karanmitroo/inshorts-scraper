@@ -1,0 +1,1 @@
+US-based startup Inirv React has created a smart stove knob called 'React' that lets users control the stove through their smartphone even when they are away from home. The smart knob comes with a sensor that is installed on the ceiling above the stove, which automatically shuts off active burners on detection of gas, smoke or prolonged inactivity.

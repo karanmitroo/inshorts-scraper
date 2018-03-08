@@ -1,0 +1,1 @@
+Scientists in Spain have developed an artificial intelligence (AI) system that can predict the likelihood of corruption in a government as well as the conditions that favour their appearance. The computer model based on neural networks claims that the probabilities of corruption increase when the same political party stays in power for more number of years.

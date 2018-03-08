@@ -1,0 +1,1 @@
+New York-based startup Flux IoT has developed a robot called 'Eddy' that allows growing plants without soil. Built with military-grade sensors and image processing technology, the robot measuring less than a foot is placed inside a transparent bio-dome. The robot's users can stay updated on their plants' progress via a dedicated mobile app.

@@ -1,0 +1,1 @@
+Technology giant Google earlier this week announced an update for Gmail to convert users' contact information like phone numbers and email addresses into clickable links. With the update on Android and iOS, users can click on the address hyperlink to open it in Google Maps. It will also open an email composition window by clicking on the email addresses.

@@ -1,0 +1,1 @@
+Google is testing a feature to help users identify battery levels in their connected Bluetooth headphones, speakers, or other accessories. The feature for "retrieving battery level information of a remote device" will reportedly appear as a notification in the status bar. However, Android devices by companies like Samsung, LG, and OnePlus already support this feature. 

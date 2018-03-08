@@ -1,0 +1,1 @@
+A beta version of WhatsApp shows that the messaging application is working on bringing back the text status feature it had ditched for photo and video status updates that expire in 24 hours. The beta update, which is only available for Android testers currently, shows text status updates working the same way as before alongside the new status feature.

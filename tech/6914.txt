@@ -1,0 +1,1 @@
+A house in the US got linked to over 600 million IP addresses after internet mapping firm MaxMind chose it as the default spot for IPs because of being close to the geographical centre of US. The owners have sued MaxMind for $75,000 after they were investigated for crimes including suicides, thefts and tax evasions linked to the IP addresses.

@@ -1,0 +1,1 @@
+A Chinese team on Friday successfully hacked technology giant Google's latest Pixel smartphone in less than 60 seconds at the PwnFest hacking competition in South Korea. The hack launched Google Play Store on the device and displayed a message that read "Pwned by 360 Alpha Team" on its screen. The team was awarded $120,000 (₹81 lakh) for the hack.

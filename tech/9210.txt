@@ -1,0 +1,1 @@
+Norway-based Emil Kalstø has built a small remote-controlled car that functions anywhere it can pick up a 3G or a 4G network. The car has a camera that can turn approximately 230° and is powered by two batteries that can last for 20 hours of continuous use. The rover’s forward, reverse, and steering are all controlled using an Xbox controller.

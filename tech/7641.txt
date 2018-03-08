@@ -1,0 +1,1 @@
+An app called 'Btrfly' lets users discover and connect with like-minded people at the airports in UK and Canada. On providing flight details or airport, the app lets users connect, chat and meet up with other people scheduled to travel on their flight or just passing through the same airport. Users can also share cabs through the app's community.

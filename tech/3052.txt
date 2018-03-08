@@ -1,0 +1,1 @@
+Technology major Google on Thursday announced that it had quadrupled the reward for running a specific exploit in Android to over ₹1 crore. No researcher has ever claimed the top reward for the remote exploit chain, Google said. Further, the company disclosed that it had awarded researchers over ₹9.6 crore in two years for finding other Android bugs.

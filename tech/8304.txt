@@ -1,0 +1,1 @@
+Researchers from the Massachusetts Institute of Technology (MIT) said that they have developed a control algorithm that can enable groups of flying drones to navigate obstacles. The researchers added that using the fourth dimension of time, their decentralized algorithm allows drones to predict the trajectory of moving obstacles and accordingly re-route their own formations.

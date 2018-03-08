@@ -1,0 +1,1 @@
+Cloud-based instant messaging service Telegram’s founder Pavel Durov will give away $1 million in the form of grants to developers who “create an impressive bot” using Telegram’s Bot API. The series of grants will start at $25,000 each. The company said that the areas developers should focus on include integrations, tools for bot builders, AI and natural language processing.

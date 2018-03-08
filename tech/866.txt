@@ -1,0 +1,1 @@
+Technology giant Google has announced that it will officially shut down its augmented reality (AR) platform called Project Tango on March 1, 2018. Google also said it will continue its AR development with recently launched ARCore product. Project Tango was introduced in 2014 to bring AR to smartphones equipped with external 3D sensors to track motion and depth.

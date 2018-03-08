@@ -1,0 +1,1 @@
+Microsoft has revealed the name for its Windows 10 browser as Microsoft Edge. The name is in line with the new rendering engine, EdgeHTML, used for Windows 10 browser. The browser will be basic and minimalistic for usage on portable mobile devices. It will replace Internet Explorer and have features like digital ink annotation and built-in reading lists.

@@ -1,0 +1,1 @@
+Microsoft has launched an iPhone app called 'Seeing AI' that lets blind and partially-sighted people point the camera at any object to get its description. For example, the app can narrate menus and give a physical description of a person facing the user. It also tells users to move the camera left or right to get the target in shot.

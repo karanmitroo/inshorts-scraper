@@ -1,0 +1,1 @@
+Technology major Apple has received a patent to adjust users' alarm clocks based on their sleep pattern. The system would use device's sensors to determine when the user has actually gone off to sleep, and would change the alarm to ensure they get the pre-set amount of sleep, unless a calendar event requires them to be woken up earlier.

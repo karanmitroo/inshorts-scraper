@@ -1,0 +1,1 @@
+Researchers have built a 3D printer capable of building with 10 photopolymer materials at once, using off-the-shelf components. The printer was built for less than $7,000 as compared to $250,000 incurred for building systems that print with three materials at one time. It can deliver resolution of up to 40 microns- less than half the width of a human hair.

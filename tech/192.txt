@@ -1,0 +1,1 @@
+Apple has confirmed that a bug, which causes any Apple device to crash if a Telugu script character is sent to the device or is pasted in any app, has been found. Apple's iMessage and third-party applications including WhatsApp were also found to be affected by it. Apple has fixed the issue in current beta versions of the operating systems.

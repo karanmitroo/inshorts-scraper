@@ -1,0 +1,1 @@
+A website called 'Spoil Your Enemies' anonymously texts TV show spoilers to 'enemies' of its users in exchange for ₹130. Users can add six people's phone numbers and choose which shows the spoilers should be from, like 'The Walking Dead' and 'Game of Thrones'. However, reports suggested the website cannot process a large number of messages at a time.

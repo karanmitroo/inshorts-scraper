@@ -1,0 +1,1 @@
+A US court has ordered Google to obey FBI search warrants for emails stored on servers outside the US. The ruling goes against a recently upheld judgement in a similar case involving Microsoft which reached the opposite conclusion. The court held that transferring emails from foreign servers for a domestic fraud probe did not qualify as a seizure.

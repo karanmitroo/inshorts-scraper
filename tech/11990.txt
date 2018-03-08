@@ -1,0 +1,1 @@
+Microsoft has released Skype 7 for Windows with improved features following complaints from users regarding the screen space that the app consumes. Skype 7 comes with a more touch-friendly interface and a new compact mode to help cut down on the screen space. Microsoft said that it has included a new compact view in response to the feedback from users.

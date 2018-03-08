@@ -1,0 +1,1 @@
+British financial major Lloyds Banking Group suffered an online attack that lasted for two days as cyber criminals attempted to block access to 2 crore UK accounts. The bank received millions of fake requests, which were designed to bring the group’s systems to a halt. However, no accounts were hacked during the attack, and Lloyds did not pay a ransom.

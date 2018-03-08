@@ -1,0 +1,1 @@
+BMW has introduced what it claims to be the first smart emergency technology for motorbikes, called Intelligent Emergency Call. IEC's acceleration and lean angle sensors can detect a bike crash, and automatically call for help. Further, it times the call based on the severity of the accident, and sends the bike’s location as well in case of a serious accident. 

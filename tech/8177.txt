@@ -1,0 +1,1 @@
+Engineers from MasterCard have created 'MenuMe', an app that recognises the text in a menu and translates it into an image of the food item. By pointing a phone at the restaurant’s menu, the app's image recognition functionality displays the food items in 3D through augmented reality. Developers said that the app will help travellers visiting a foreign country.

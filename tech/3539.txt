@@ -1,0 +1,1 @@
+Users of Google's Pixel smartphones have complained that the latest Android Nougat update has caused the fingerprint sensors on some devices to 'brick' or stop working. Some Nexus 6P and Nexus 5X owners have also reported the same issue. The 7.1.2 update was meant to fix bugs such as early shutdown, audio cracking and pink bands on the camera screen.

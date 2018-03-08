@@ -1,0 +1,1 @@
+Microsoft on Tuesday confirmed that it's not shutting down its long-standing basic graphics editing program 'MS Paint'. "Today, we've seen an incredible outpouring of support and nostalgia around MS Paint," it said in a blog post. Clarifying that Paint will still be available in Windows Store, Microsoft added that its main functions will be integrated into the Paint 3D program.

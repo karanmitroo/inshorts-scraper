@@ -1,0 +1,2 @@
+Bengaluru-based personal assistant app Helpchat has launched a new ‘pollution meter’ feature, that lets users track the air quality in their surroundings. The feature indexes air quality into six colour-coded categories ranging from Good to Severe. The app also sends an alert to the user if the air quality drops below a certain point.
+

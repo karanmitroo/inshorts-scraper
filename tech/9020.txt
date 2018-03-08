@@ -1,0 +1,1 @@
+US-based startup Remidi has developed a smart glove 'T8', which makes music through fingertips, palm and motion of the user's hand. Connected through an app, the glove comes with eight pressure-sensitive sensors that use hand gestures to create and control sound effects. It tracks the intensity of pressure and speed of hand movement to control the tempo of music created.

@@ -1,0 +1,1 @@
+Google has confirmed that it is improving the quality of audio and video calls made through Hangouts. A new update to Hangouts directly connects the user's call using peer-to-peer (P2P) connections instead of connecting the call through Google’s servers. The update has reportedly been rolled out on all platforms including Android, iOS and web browsers.

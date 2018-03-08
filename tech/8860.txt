@@ -1,0 +1,1 @@
+Craig Federighi, Apple’s Senior Vice President of Software Engineering, has said that FBI's demand to unlock and decrypt data from a San Bernardino shooter's iPhone will risk the safety of all iOS users. "FBI’s request would create a security hole that could be exploited by criminals," Craig said, adding that it would also negate years of work by Apple engineers. 

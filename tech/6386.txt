@@ -1,0 +1,1 @@
+Several people complained that the iOS 10 software update released on Tuesday bricked their iPhones and iPads. A number of users took to Twitter claiming that after the update was complete, a message prompted to connect the device to a computer, making the device unusable until connected. Apple later confirmed the glitch and issued a fix.

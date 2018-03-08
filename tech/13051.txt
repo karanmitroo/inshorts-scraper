@@ -1,0 +1,1 @@
+Google has launched a hands-free conversational search to Chrome through the Google Voice Search Hotword extension (in Beta). The new feature allows users to ask Google questions by speaking with the search engine in a conversational manner, eliminating the need to type in search terms manually. Notably, the feature is available in English and only in the US.

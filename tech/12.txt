@@ -1,0 +1,1 @@
+Photo-sharing platform Instagram is reportedly working on its own 'Portrait Mode' camera feature for its users. Analysis of Instagram's code revealed an icon referred to as 'portrait shutter icon' which would seemingly appear on the Instagram Stories camera interface. The feature would add blurred backgrounds and various other photography modes to pictures.

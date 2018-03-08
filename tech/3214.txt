@@ -1,0 +1,1 @@
+The 'WannaCry' ransomware that hit 150 countries reportedly affected Russia, China, and India the most due to pirated software. Microsoft issued a patch for the exploit used by the attackers in March, but systems running illegal software remained vulnerable. According to a 2016 survey, 70% computers in China ran pirated software, followed by 64% in Russia, and 58% in India.

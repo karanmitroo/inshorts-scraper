@@ -1,0 +1,2 @@
+The new Microsoft ad showcasing the technology major's recently unveiled Surface Studio all-in-one PC was shot using a robotic arm and an Xbox controller. Microsoft made use of KIRA, 
+a robotic camera arm that was connected to a Windows app and controlled it using the Xbox One Elite controller to focus, iris, and zoom for every shot.

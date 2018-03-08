@@ -1,0 +1,1 @@
+A software engineer working at Google, Max Braun has developed an Android-powered mirror which displays important information such as date, time, news and weather. It also sports Google's voice search feature. Posting the results of his project on Medium, Braun said that the display is a couple of millimeters thin and is embedded into a double-layered mirror glass.

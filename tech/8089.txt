@@ -1,0 +1,1 @@
+Microsoft has announced to add support for fingerprint authentication in its Windows 10 Mobile update this summer. Until now, the company only supported alternative log-in options of facial and iris recognition. So far, the only known Windows 10 phone that is supposed to include a fingerprint sensor is the upcoming HP Elite X3, which can double as a psuedo-laptop and a desktop.

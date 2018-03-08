@@ -1,0 +1,1 @@
+Less than a day after Amazon dropped its on-device encryption support for the Fire OS, the company announced to restore the feature. A spokesperson said, “We will return the option for full disk encryption with a Fire OS update coming this spring”. Notably, the decision to drop the said feature was met with criticism by a majority of customers.

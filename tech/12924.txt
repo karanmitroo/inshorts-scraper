@@ -1,0 +1,1 @@
+Using artificial intelligence, Microsoft Research has designed an elevator which can figure out the floor a person wants to go, based on their history and other factors. "If its lunch time and if you had spoken the previous day to a colleague about having lunch on the 2nd floor, the elevator without any help will take you there," said Microsoft.

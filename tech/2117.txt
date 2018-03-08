@@ -1,0 +1,1 @@
+Researchers from the University of Washington recently demonstrated how music from smart devices can be used to spy on users. The system is based on sonar and uses a device's built-in microphone as a receiver to pick up sound waves. It can then transmit information to hackers about the movement of people who are close to the audio source.

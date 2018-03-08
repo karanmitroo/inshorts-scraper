@@ -1,0 +1,1 @@
+Facebook has admitted that it buys stolen passwords from hackers on the black market to protect users who may use the same password across multiple online accounts. Facebook Chief Security Officer Alex Stamos at a recent conference said that the social network compares its own password database against the stolen passwords to alert users who are using insecure passwords. 

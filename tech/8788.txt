@@ -1,0 +1,1 @@
+According to a new research by Google, the company is working on a new personalized artificial intelligence (AI) system for voice commands that can be made to work when a phone is offline. The new system, which was found to run on an average seven times faster than real-time, was trained using around 2,000 hours of Google voice search traffic.

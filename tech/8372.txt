@@ -1,0 +1,1 @@
+According to Italian publication Repubblica, Marco Marsala, who earlier claimed to have deleted his company by deploying a wrong code, has said "it was just a joke”. Marsala revealed that the story of his erased company was a viral marketing scheme for his startup. The coder added that the code "rm -rf" is harmless until used in the right situation.

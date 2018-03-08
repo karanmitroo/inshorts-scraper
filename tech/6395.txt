@@ -1,0 +1,1 @@
+Online ad blocking software Adblock Plus on Tuesday launched a beta version of 'Acceptable Ads Platform' which will let publishers display whitelisted ads on their sites. The ads will be visible to Adblock Plus users who visit the site. However, Adblock Plus has issued a clarification stating that users will be given options to block even the whitelisted ads.

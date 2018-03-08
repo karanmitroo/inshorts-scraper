@@ -1,0 +1,1 @@
+Google's Go-playing AI, AlphaGo defeated the Go world champion, China's 19-year-old Ke Jie by half a point in the first of the three-match Go series on Tuesday. It is the second time AlphaGo has gone head-to-head with a master Go player in a public competition, after defeating South Korean grandmaster Lee Sedol four games to one.

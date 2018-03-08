@@ -1,0 +1,1 @@
+An iOS bug is causing iPhones to crash when it receives a message containing the words "effective power" followed by a string of Arabic characters. "We are aware of an iMessage issue caused by a specific series of unicode characters and we will make a fix available in a software update," an Apple spokesperson said.

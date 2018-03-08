@@ -1,0 +1,1 @@
+Microsoft will let users protect certain files from ransomware attack in an upcoming Windows 10 update. The tool only allows specific apps to access users' folders and will notify them if an app attempts to make changes to the protected files. The update comes as Windows computer systems around the world have been hit by ransomware like Petya and WannaCry.

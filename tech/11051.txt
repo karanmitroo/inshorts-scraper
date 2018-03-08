@@ -1,0 +1,1 @@
+German security researchers have reportedly found a flaw in the way mobile applications store user data online. Researchers found 56 million items of unprotected data in the applications they studied and claimed the actual number “will likely be in billions”. The problem reportedly was found in the way developers authenticated users when storing their data online.

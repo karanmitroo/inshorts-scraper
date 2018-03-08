@@ -1,0 +1,1 @@
+A 17-year-old student in the US has created a coin-operated vending machine inside his school locker. The student used equipment such as Arduino electronics platform, an LCD screen, a coin acceptor and an electrical switch worth about ₹11,000 ($160) in total to create the soda dispenser. The vending machine requires exact change and is claimed to be completely theft-proof.

@@ -1,0 +1,1 @@
+Microsoft on Thursday released the app 'Fetch!' which identifies breeds from photos of dogs using artificial intelligence. Available for free on the Apple App Store, the app allows users to learn more about each breed. Notably, pictures of humans, if uploaded on the app for analysis, will show the closest resembling breed of dog to that particular human face.

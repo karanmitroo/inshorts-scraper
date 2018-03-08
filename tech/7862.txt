@@ -1,0 +1,1 @@
+According to a published paper, Google is developing a new framework that will act as an off switch for the Artificial Intelligence (AI) technology. It would keep AI from learning how to prevent human interruption in its work. "Safe interruptibility can be useful to take control of a robot that is misbehaving and may lead to irreversible consequences", researchers said.

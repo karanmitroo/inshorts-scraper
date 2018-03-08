@@ -1,0 +1,1 @@
+In order to augment Siri, Apple acquired UK-based software startup VocalIQ at an undisclosed sum. The startup has built a self-learning dialogue API - putting real, natural conversation between people and their devices. Since Siri's launch in 2011, Apple has been trying to improve it by adding several features such as getting sports scores and setting reminders, among others.

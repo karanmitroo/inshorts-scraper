@@ -1,0 +1,1 @@
+Google on Monday made Safe Browsing a default feature on its Chrome browser being accessed through Android devices. The feature alerts users, through a red web page displaying warning messages, about a potential malware or a dangerous URL. Earlier, users had to turn on Chrome’s relatively unknown data compression feature to receive the aforementioned alerts.

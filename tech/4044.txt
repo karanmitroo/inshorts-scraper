@@ -1,0 +1,1 @@
+The servers of New York's Stewart International Airport were left exposed to the public without a password for a year after they were misconfigured in April 2016. The 760 GB of exposed data included government letters of investigation, social security numbers, internal airport schematics and emails. The matter is under investigation and no security breach has been reported.

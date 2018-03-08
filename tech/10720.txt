@@ -1,0 +1,1 @@
+For the first time, researchers at Princeton University have calculated the rate at which water crystallises into ice in a computer model of water molecules. The simulations, which were carried out on supercomputers, are expected to provide a precise knowledge of the initial steps of freezing. This could eventually help improve weather forecasts and climate models.

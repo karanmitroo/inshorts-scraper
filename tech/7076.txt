@@ -1,0 +1,1 @@
+Security researchers from Princeton University have revealed that an HTML5 tool that lets site owners tell how much battery life is left on a device can also be used to track the device. The researchers confirmed an earlier finding of similar nature by successfully identifying two tracking scripts that used the tool to “fingerprint” a specific device and monitor it.

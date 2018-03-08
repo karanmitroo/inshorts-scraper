@@ -1,0 +1,1 @@
+A dating website called 'Words of Heart' provides a platform for users to match with people based on similar passwords they use. However, the website, created by Krzysztof Zając, warns users not to use real or important passwords. It does not have a chat feature but users can register their social media accounts to receive messages from other users.

@@ -1,0 +1,1 @@
+Twitter on Tuesday announced that it will now autoplay all native videos and GIFs in timelines and across its site. When users scroll through their feeds and see a video, it will be automatically played in mute. A click on the video will play it in a full-screen view with sound. The feature is currently available for iOS and Web.

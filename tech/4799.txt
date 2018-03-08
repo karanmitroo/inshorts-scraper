@@ -1,0 +1,1 @@
+Smart speakers by electronics company Sonos were affected by a bug on Friday which made all alarms set for December 31 set off on December 30. Users were also unable to turn off the wake-up calls, and could only do so by deleting all alarms from Sonos' app. The bug was caused by the system's handling of a leap year.

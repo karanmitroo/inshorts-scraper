@@ -1,0 +1,1 @@
+A YouTube video posted on Thursday by user EverythingApplePro shows a ₹32,000 device that can crack iPhone 7 and 7 Plus passcodes. The device exploits a loophole in iPhone's data recovery state that allows it to continuously guess a series of passcodes until it finds the one that can unlock it. Reportedly, the loophole will be fixed in iOS 11.

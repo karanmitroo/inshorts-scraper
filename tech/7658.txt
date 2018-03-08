@@ -1,0 +1,1 @@
+An iOS app called 'I SEA' which claimed to let users spot and rescue refugee boats has been pulled out from Apple's App Store after it was revealed as fake. It claimed using real-time satellite footage to identify refugee boats and report them for help. However, the app reportedly showed a static image of a portion of the sea.

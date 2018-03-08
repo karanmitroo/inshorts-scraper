@@ -1,0 +1,1 @@
+According to cybersecurity firm Proofpoint, hackers are using fake Game of Thrones spoilers to spread malware by email. The emails contain the subject line "Wanna see the Game of Thrones in advance?" with a Microsoft Word attachment that contains the malware. Once downloaded, the attachment attempts to install a Trojan malware that could gain remote access to the user's computer.

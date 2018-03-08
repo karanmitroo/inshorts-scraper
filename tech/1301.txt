@@ -1,0 +1,1 @@
+Google on Wednesday announced the opening of its first Google Cloud Platform (GCP) region in Mumbai to provide Big Data, Storage and Networking services. Users will be able to buy these services directly in Indian currency, according to Google. GCP enables the developers to build, test and deploy applications on the infrastructure that Google uses for its end-user products.

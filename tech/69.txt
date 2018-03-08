@@ -1,0 +1,1 @@
+The majority of mobile malware detected in 2017 were ad clicker Trojans, which manipulate mobile ads to generate revenue for the author of the app, according to a report by cybersecurity firm McAfee. The report revealed that 16 million mobile malware infections were detected in the third quarter. The report added 2018 could be the year of mobile malware.

@@ -1,0 +1,1 @@
+Intel on Tuesday announced its first 10-core desktop CPU, the Core i7-6950X Extreme Edition, priced at $1,723. The processor, which runs at 3 GHz with boost speeds up to 3.5 GHz, will feature 25 MB of cache and will be capable of running 20 simultaneous work threads. This edition of i7 processors will also come in 8-core and 6-core variants.

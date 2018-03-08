@@ -1,0 +1,1 @@
+An app named 'Babee on Board' has been launched in the UK that helps pregnant women find a seat in the public transports across the country. It comes with an alert button, which when pressed, alerts nearby people of a pregnant woman who requires a seat. The app uses the handset's Bluetooth, location and notification services to alert others.

@@ -1,0 +1,2 @@
+A robot made by engineers from the Netherlands-based Delft University of Technology has won the second annual Amazon Picking Challenge of packing and storing warehouse items. The flexible robot features an arm with seven degrees of freedom, high-quality 3D cameras and an in-house developed gripper. It is controlled by an advanced software based on artificial intelligence techniques.
+

@@ -1,0 +1,1 @@
+Microsoft’s Technical Evangelist Bruce Harris has revealed that HoloLens, the company’s upcoming augmented reality (AR) headset, will be “totally wireless”. The device will have a battery life of 5.5 hours and the ability to connect with other units. This means that two HoloLens owners will be able to share their experiences and view an object together at the same time.

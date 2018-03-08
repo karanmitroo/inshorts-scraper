@@ -1,0 +1,1 @@
+Microsoft has decided to discontinue its collaboration feature OneDrive Groups by October 16, after which a user will no longer be able to access his shared files and documents. Microsoft had already limited the feature earlier like not being able to create new groups or add people to existing ones. However, the company's Office 365 Groups won’t be affected.

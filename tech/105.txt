@@ -1,0 +1,1 @@
+Researchers at MIT have created a tool called 'Veil' which patches security loopholes in web browsers' private-browsing functions by encrypting the websites. Veil works by encrypting a website before showing it on a user's screen and can be used on any browser. Veil also has a decryption algorithm embedded in its pages, without which, the websites will be unintelligible.

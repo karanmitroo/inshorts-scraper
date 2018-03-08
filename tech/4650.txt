@@ -1,0 +1,1 @@
+Waymo, the self-driving startup spun-off from Google last year, will be deploying its fully self-driving fleet of minivans made with Fiat Chrysler on public roads for the first time later this month. The minivans will be deployed in California and Arizona's Phoenix. All the self-driving technology including cameras, sensors, and mapping has been developed in-house by Waymo.

@@ -1,0 +1,1 @@
+Microsoft Corp released its final security updates for Windows XP and Office 2003 on Apr-8, and with this Microsoft has ended its support for XP, which was released in Oct, 2001. Security firms estimate that 15-25% of the world's PCs still run on XP. And sadly, two-third of the world's 2.2 million ATMs still use XP.

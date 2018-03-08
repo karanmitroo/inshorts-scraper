@@ -1,0 +1,1 @@
+US-based IoT startup Onion has built a $5 tiny computer that is suited to develop complex hardware projects with ease. The Onion Omega2, which begins to ship in November, is Arduino-compatible but also runs Linux natively. It comes with built-in Wi-Fi and supports cellular, Bluetooth and GPS connections. The base model has 32 MB RAM and 16 MB storage.

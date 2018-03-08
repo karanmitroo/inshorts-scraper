@@ -1,0 +1,1 @@
+Jani, a 10-year old boy from Helsinki, has received $10,000 from Facebook for identifying a security bug in Facebook-owned Instagram. Jani discovered a flaw that allowed him to delete any written content on the social media platform by altering the code. This makes him the youngest person to be paid through Facebook’s bug bounty program, till date.

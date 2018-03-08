@@ -1,0 +1,1 @@
+The usernames and passwords of about 4.93 million Google accounts were uploaded to a Russian online forum by hackers late Tuesday. The posters claimed about 60% of the accounts were active, and could be accessed successfully using the leaked credentials. However, Google has denied it saying, there is “no evidence that our systems have been compromised.”

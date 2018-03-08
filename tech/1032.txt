@@ -1,0 +1,1 @@
+Chrome extension called 'Icebox' prevents users from making 'impulse purchase' by replacing the 'Buy' tab on e-commerce websites with its own tab, 'Put it on ice'. Once items are placed on its tab, it holds the purchase for a period of time, pre-defined by users. The extension also keeps a tally of the money saved from items that weren't purchased.

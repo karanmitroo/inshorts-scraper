@@ -1,0 +1,1 @@
+Recent analysis on the data from Equation Group, an NSA-associated hacking outfit, has revealed that the US security agency used a specialised tool called 'BenignCertain' to spy on Cisco firewalls for years. Cisco confirmed in a post that its secure virtual private network (VPN) data was read by extracting encryption keys on old firewalls, which were last supported in 2009.

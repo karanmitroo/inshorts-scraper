@@ -1,0 +1,1 @@
+Google on Thursday released the experimental Delhi Public Transport App to help Delhi commuters navigate through public transport. The app that would be built in Google Maps provides information about the timetables and routes of DMRC metro and DTC buses, even when offline. The application will also send news alerts about service issues. 

@@ -1,0 +1,1 @@
+Belgium-based researchers have discovered an attack technique, HEIST (HTTP Encrypted Information can be Stolen Through TCP-Windows), that can compromise an encrypted website using a JavaScript file hidden in an ad or page. They said the only way to prevent such attacks in the short term is to disable third-party cookies, which is usually turned off by default in most browsers.

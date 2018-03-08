@@ -1,0 +1,1 @@
+Apple on Monday launched CareKit, a new developer tool that will make it easier to build healthcare apps for iOS devices. The platform can be used to monitor symptoms, track treatment progress and keep tabs on medication schedules. The first app created with the open-source platform, to be available in April, will be tailored for people with the Parkinson’s disease.

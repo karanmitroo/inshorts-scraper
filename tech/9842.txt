@@ -1,0 +1,1 @@
+Facebook is testing a feature where it notifies users when a friend is typing a comment in real-time. The company said, “[W]e are testing adding a line above the comment box of a post that indicates when a friend is typing". Since November, a few iOS users have already reported coming across a “A friend is writing a comment” notification.

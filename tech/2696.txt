@@ -1,0 +1,1 @@
+A cyber security researcher has developed a tool that lets users check if their computer systems are vulnerable to the 'EternalBlue' exploit behind cyberattacks like Petya and WannaCry. The 'one-button' tool lets users see which systems in their entire network could be at risk of such an attack. The 'EternalBlue' exploit was allegedly stolen from a US security agency.

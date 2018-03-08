@@ -1,0 +1,1 @@
+Researchers in Germany have developed a new technology that can help swimmers improve their technique through a process called "sonification". The process takes in several data points, including changes in flow pressure, and converts them into sound for the swimmers to hear. With this, the swimmer would be able to know how to produce more thrust with the same energy.

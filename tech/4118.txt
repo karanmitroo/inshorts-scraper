@@ -1,0 +1,1 @@
+Mobile chipmaker Qualcomm on Tuesday unveiled Snapdragon X20 LTE modem, which offers download speed of up to 1.2 Gbps, a 20% improvement over the previous generation. To achieve such a speed, Qualcomm's modem downloads 12 unique data streams of up to 100 Mbps each. The upload speed of the X20 LTE modem will be up to 150 Mbps.

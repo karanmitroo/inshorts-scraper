@@ -1,0 +1,1 @@
+US-based Lytro has introduced 'Lytro Cinema', a camera that can capture images in 755 megapixels in RAW and 40K resolution, and videos in 300 frames-per-second. The technology separates objects in a picture by depth and stores them in a 3D grid, creating a 'depth screen' that allows filmmakers to capture green screen shots without actually placing a background green screen.

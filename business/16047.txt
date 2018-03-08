@@ -1,0 +1,1 @@
+In a bid to compete with giants Microsoft Corp and Google Inc, Amazon has announced its own email and scheduling service, named as WorkMail. It has been developed by Amazon's cloud-computing unit, Amazon Web Services (AWS). The aim is to get larger enterprises to use AWS, which will seek to provide a wider range of services akin to Google's Gmail.

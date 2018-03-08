@@ -1,0 +1,1 @@
+According to Google's updated Android Developer dashboard, only 7.5% of active Android devices runs on the latest Android 6.0 Marshmallow, which was released in October 2015, up from 4.6% a month ago. The list was topped by the Android 5.0 Lollipop version with 35.6% share followed by Android 4.4 KitKat at 32.5% and Android Jelly Bean at 20.1%.

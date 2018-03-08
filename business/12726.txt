@@ -1,0 +1,1 @@
+A cybersecurity firm found that Russian-language hackers used a virus to infect a regional bank and manipulate the ruble-dollar rate by over 15% in December. Over 14 minutes, the exchange rate varied between 55 and 66 rubles per dollar, significantly different from the market rate (currently around 78). The bank claimed losses of around $3.2 million due to the attack.

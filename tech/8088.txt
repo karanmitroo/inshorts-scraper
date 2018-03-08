@@ -1,0 +1,1 @@
+A Finnish electronics company has made 'iSocket 3G', a $199 power socket that texts the user when the electricity goes out. The device includes a small battery backup, a cellular radio and a SIM card to text the user about the power outage. An additional $9 temperature sensor can be added to the socket to get text alerts on temperature.

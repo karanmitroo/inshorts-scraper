@@ -1,0 +1,1 @@
+Paris-based startup Heek has created an interactive web service that lets users build their own websites by talking to a chatbot. Using a chat interface, the bot asks the users questions about themselves, their business and the kind of site they need, presenting step-by-step, various designs for the users to customise. Users need no coding expertise to build their websites.

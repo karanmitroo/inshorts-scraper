@@ -1,0 +1,1 @@
+Statistician Curious Gnu compiled a database of Reddit threads covering roughly 4.6 million comments, and scanned them for mentions of the words "Hitler" or "Nazi." Gnu found that after a thread hit over 1,000 comments, the probability of a Hitler mention rose to over 70%. However, once a thread hit 101 comments, there was 15% chance of a Hitler mention.

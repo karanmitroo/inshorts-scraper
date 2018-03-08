@@ -1,0 +1,1 @@
+A clause in the end-user license agreement of the latest Windows 10 (Build 10240) preview reads that Microsoft will send automatic updates to users without any additional notice. The updates will be sent to maintain the product’s newness and users on a capped network will not realise that updates are being downloaded. Windows 10 will release for public on July 29.

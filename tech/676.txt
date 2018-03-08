@@ -1,0 +1,1 @@
+A variant of Android.Fakeapp malware is targeting Android users using a fake version of the Uber app to steal login and password data, according to US-based cybersecurity firm Symantec. The malware immediately sends the credentials to its remote server after users log in. It also displays a screen of the original Uber app with users' current location to appear convincing.

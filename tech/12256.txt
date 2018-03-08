@@ -1,0 +1,1 @@
+The username and password of around 7 million dropbox accounts have been hacked, a anonymous hacker has claimed. They were apparently hacked from third-party apps that users allowed to access their accounts. The hacker has released a list of 400 username passwords to prove the claim. However, Dropbox said the service had not been hacked and these passwords were expired.

@@ -1,0 +1,1 @@
+Reddit on Wednesday introduced a new 'Block user' button that allows users to hide private messages, replies and comments from other Reddit users. The feature does not actually prevent blocked users from replying but hides their replies from the users who blocked them. However, admins and moderators of any subreddit would be able to see all the messages and replies.

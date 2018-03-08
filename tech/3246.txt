@@ -1,0 +1,1 @@
+LA-based startup Skin Motion has developed 'Soundwave Tattoos' which make a sound when scanned with a connected smartphone application. Users can upload the required audio to the app, which is generated into the form of a soundwave. Once the tattoo is done, scanning it with a smartphone camera will 'play' it as the app translates the tattoo's wavelengths into sound.

@@ -1,0 +1,1 @@
+Netherlands-based researchers have created a microscopic storage system that can encode every bit on a single atom. Claimed as the densest storage system, the new development can store a kilobyte in under 100 nanometers – equivalent to about 500 TB per square inch. Every bit consists of two positions on a surface of copper atoms, representing 1s and 0s.

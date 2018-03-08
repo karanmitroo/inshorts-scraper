@@ -1,0 +1,1 @@
+According to a report by Finland-based security and privacy company F-Secure, India suffered the fifth-highest Domain Name System (DNS) hijacks in 2015. DNS hijacks' basic motive is to alter the configurations of their targets to monitor and manipulate the internet traffic. The majority of the observed hijacks in the year occurred in Italy followed by Poland, Egypt and Sweden.

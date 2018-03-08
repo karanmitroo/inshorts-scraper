@@ -1,0 +1,1 @@
+A supercomputer at the University of Texas at Austin recently published a 200 TB proof of a maths problem, making it the world's largest proof. The supercomputer proved that the 'Boolean Pythagorean triples problem', which asks "Is it possible to color all the integers either red or blue so that no Pythagorean triple are all the same color?", was false.

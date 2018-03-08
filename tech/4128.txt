@@ -1,0 +1,1 @@
+Israeli researchers have developed a method that records exactly how a user presses a smartphone's touchscreen to identify an unauthorised user in just 14 seconds or in under 35 touches. It records where users touch the screen the most and how much of the finger touches the screen. "A thief cannot steal another user's behaviour," the method claims.

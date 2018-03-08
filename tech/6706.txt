@@ -1,0 +1,1 @@
+Apple has filed a patent for a system that will capture biometric information like fingerprints, photos and audio of iPhone thieves along with their GPS location. The information will then be transmitted to servers to identify the unauthorised users. The system will use the existing Touch ID sensor, front camera and microphone on Apple's devices to collect the information.

@@ -1,0 +1,1 @@
+Microsoft has announced that Windows 10 will be available worldwide on July 29 as a free upgrade for users of Windows 7, 8 and 8.1. Windows 10 features a new mode called 'Continuum' which allows for a seamless transition of the user interface irrespective of the device. It also features a brand new web browser called 'Edge'.

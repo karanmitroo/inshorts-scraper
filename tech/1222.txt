@@ -1,0 +1,1 @@
+Two German users exploited a Twitter bug by writing a 35,000-character long tweet instead of the usual 140 characters. The users were able to post beyond the word limit by formatting the long message as a URL. Twitter temporarily suspended the users' accounts and confirmed that the exploit has been fixed.

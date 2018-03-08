@@ -1,0 +1,1 @@
+At the Consumer Electronics Show in Las Vegas, Intel unveiled an SD-card sized PC called Edison, which is based on Quark technology designed for wearable smart devices like a health tracker or smart watch. Edison supports multiple operating systems and has built-in support for Bluetooth and Wi-Fi. Moreover, the tiny “full Pentium-class PC” can connect to its own app store.

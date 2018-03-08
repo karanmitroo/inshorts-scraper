@@ -1,0 +1,1 @@
+An eleven-year-old Indian-American girl, Mira Modi, is the founder of 'Diceware Passwords' which makes and sells secure passwords. According to a two-minute video, Mira uses a methodology called Diceware to build secure passwords using a string of numbers obtained by rolling dice. It produces random passwords that have a lot of entropy, which means it is difficult to hack them.

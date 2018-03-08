@@ -1,0 +1,1 @@
+A YouTuber called Sudomod has designed a fully-functioning gaming device inside a box of Altoids mint candy using a Raspberry Pi microcomputer. The WiFi-enabled console has 3D printed parts, an integrated hinge that holds the screen up, and a USB sound card. It runs RetroPie operating system and can be used to play games like Donkey Kong.

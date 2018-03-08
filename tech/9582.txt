@@ -1,0 +1,1 @@
+In its new video, DNews has discussed Brain-Computer Interfaces (BCI) which can enable an individual to move physical objects with their thoughts. The video explains the BCI use Electroencephalogram (EEG) to pick up electrical signals in the brain and translate them into a single command which can direct a programmed device (a prosthetic limb or even a car) to move. 

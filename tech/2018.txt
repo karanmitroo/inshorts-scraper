@@ -1,0 +1,1 @@
+Google has removed about 300 apps from its Play Store after they were found to contain malware that hijacked the devices. The apps, which offered services like ringtones, hacked users' Android devices to provide traffic for distributed denial of service (DDoS) attacks on other devices. Under DDoS attacks, an internet-connected device is flooded with data, making it unusable.

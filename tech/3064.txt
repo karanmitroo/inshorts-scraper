@@ -1,0 +1,1 @@
+A malware named 'Judy' has attacked over 3.65 crore Android users through simple fashion and cooking game apps on Google Play Store, according to security firm Check Point. Once these apps are installed, the malware uses the infected phone to click on certain Google Ads to increase the attacker's revenue. Play Store has taken down most of the concerned apps.

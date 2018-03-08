@@ -1,0 +1,1 @@
+Researchers have created a prototype device 'Anti AI AI' worn on the ear that sends chills down wearer's neck on detecting the voice of a robot impersonating a human. The device uses Google's machine learning software to differentiate between synthetic and human voices. A demo showed the device distinguishing a recording of Donald Trump's voice from a fake AI version.

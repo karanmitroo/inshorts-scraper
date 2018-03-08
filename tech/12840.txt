@@ -1,0 +1,1 @@
+A major flaw in Apple's iOS mobile operating system could allow hackers to intercept email and other communications that are meant to be encrypted, the company said. To fix the flaw, Apple has released software patches. The company was recently stung by leaked intelligence documents claiming that authorities had 100% success rate in breaking into iPhones. 

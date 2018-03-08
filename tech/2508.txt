@@ -1,0 +1,1 @@
+A smart vending machine has been made to dispense restricted goods like alcohol, weed and even ammunition to the authorised users. These machines use a biometric sensor that gives access to the users by identifying the veins in their fingers. These machines are currently being used in California's marijuana dispensaries. 

@@ -1,0 +1,1 @@
+A YouTube video shows a robotic arm using a stylus to bypass an 'I am not a robot' CAPTCHA, a computer program to distinguish human from machine input. CAPTCHA, which is short for 'Completely Automated Public Turing Test To Tell Computers and Humans Apart' is used to prevent spam and other automated attacks from websites.

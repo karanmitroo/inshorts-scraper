@@ -1,0 +1,1 @@
+Google has adopted a new approach to updating apps through Play Store on Android devices to make average updates 65% smaller than the full app. The system only downloads differences between the current and new version, using which users can save a total of 6 million GB daily. For instance, Maps update has dropped from 32.7 MB to 9.6 MB.

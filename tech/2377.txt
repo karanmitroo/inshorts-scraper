@@ -1,0 +1,2 @@
+Researchers from security company IOActive have demonstrated how an ATM can be hacked to discharge cash till it's empty. They found an opening near the ATM's speakers that could be loosened by hackers to expose a USB port. IOActive's team plugged a netbook into the port and added a code into the ATM which tricked it to empty the cash. 
+

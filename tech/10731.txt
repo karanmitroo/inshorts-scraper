@@ -1,0 +1,1 @@
+Disney Research has developed a new performance capture method that enables one to personalise a video game character. The method can realistically incorporate details like deepening forehead wrinkles and crow's feet around the eyes. It requires only a single video camera and is the first to operate in real-time and to capture facial features in high resolution.

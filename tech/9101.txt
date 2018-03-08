@@ -1,0 +1,1 @@
+Micro-blogging site Twitter today showed Jammu as a part of Pakistan and Jammu and Kashmir as a part of People's Republic of China in its location services. Twitter's location services lets users select their location automatically through GPS, or manually by typing. The site is facing criticism from Indian users on social media for the bug. 

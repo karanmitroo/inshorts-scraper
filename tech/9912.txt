@@ -1,0 +1,1 @@
+Researchers in China's Nankai University have developed a car that can be controlled by using signals from the brain. The car can move, turn and stop using 16 sensors connected to the driver's brain. A computer analyses the EEG (electroencephalogram) signals collected wirelessly from the sensors and gives commands to the car, researchers said.

@@ -1,0 +1,1 @@
+A team of MIT researchers has developed a new machine learning algorithm that can predict when two people will high-five, hug, kiss or shake hands. The algorithm, which was trained on 600 hours of YouTube videos and TV shows, was able to correctly guess the greetings in about 43% of the situations, compared to the 71% accuracy by humans.

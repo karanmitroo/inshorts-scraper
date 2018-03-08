@@ -1,0 +1,1 @@
+Two Chile-based entrepreneurs, Anibal Madrid and Manuel Ramirez, have created an app 'SOSmart', that automatically detects a car crash. The app uses the smartphone's internal sensors to detect crash and sends exact location of the car to set of contacts. It also includes a panic button for emergencies, a list of nearby hospitals and monitors the car's speed and acceleration.

@@ -1,0 +1,1 @@
+Google has doubled up the Gmail attachment size from 25 MB to 50 MB for incoming emails, allowing users to receive and open up to 50 megabytes of attachments directly in their inbox at once. Google, however, has kept the sending file size limit the same at 25 MB. "You can use Google Drive to send larger attachments," said Google.

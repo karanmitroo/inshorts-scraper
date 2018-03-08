@@ -1,0 +1,1 @@
+Microsoft on Wednesday announced that they will discontinue support for older versions of their web browser Internet Explorer (IE) from 12th January. They have recently launched a patch for IE 8, 9, and 10 labelled "End of Life" upgrade notification feature which  will ask its users to upgrade to the latest IE 11 or Microsoft Edge.

@@ -1,0 +1,1 @@
+Technology giant Google has rolled out its 'Accelerated Mobile Pages' (AMP) functionality to search results for mobile users, which will label quick-loading pages with a lightning icon without changing the order of the results. Google has said that AMP pages take a median time of under a second to load and use 10 times less data than non-AMP pages.

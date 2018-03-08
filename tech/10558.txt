@@ -1,0 +1,1 @@
+Music streaming application Saavn has been made available on the Windows Universal platform. The app, which will only be supported by the Windows 10 OS, is scheduled to launch on Windows phone devices reportedly later this year, after Microsoft introduces its Windows 10 mobile. The improved app's tile can be resized and even snapped while simultaneously working on other apps.

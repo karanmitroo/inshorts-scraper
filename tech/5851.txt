@@ -1,0 +1,1 @@
+Facebook Messenger is currently testing a 'Data Saver' mode for its Android app. With the data saving mode, Messenger, which automatically downloads the media files that a user receives, downloads a file only when a user taps on it. The data saver mode also comes with a counter, which shows the user how much data it has saved.

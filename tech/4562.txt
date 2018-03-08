@@ -1,0 +1,1 @@
+Sweden is testing a new technology for its ambulances that halts the music being played in the nearby cars to issue a voice warning. The technology requires the car's FM tuner to support the Radio Data System format, which is common in most of the cars. The technology aims at clearing the roads to get patients to the hospital sooner.

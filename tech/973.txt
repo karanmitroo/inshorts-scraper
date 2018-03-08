@@ -1,0 +1,1 @@
+Technology giant Google has launched a lightweight Android Oreo Go edition operating system designed for devices with RAM up to 1 GB. According to Google, the Android Go offers 30% faster startup time and up to 2 times optimisation of storage space. There's also a Go version of the Play store with lightweight apps including YouTube Go and Gmail Go.

@@ -1,0 +1,1 @@
+Researchers from the MIT Computer Science and Artificial Intelligence Lab have developed 'MegaMIMO 2.0', a system that can increase wireless data transfer speeds by three times while doubling the signal's range. The team claims the system will help tackle the problem of 'spectrum crunch', wherein the crowding of devices on a network results in limited bandwidth and slow speeds.

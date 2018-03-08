@@ -1,0 +1,1 @@
+Chinese web giant and one of Tesla's largest investors Tencent Holdings' division Keen Security Lab announced on Thursday that its technicians had hacked Tesla's Model X car. Keen Security Lab remotely opened the Model X's doors and controlled its brakes and lights. The team had also hacked Tesla's Model S last year, prompting the Elon Musk-led company to issue patches.

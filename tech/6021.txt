@@ -1,0 +1,1 @@
+San Francisco-based entrepreneur Eugenia Kuyda created a software bot to resemble her friend who had died in an accident. Kuyda gathered up her friend's old text messages and fed them into a neural network built by developers at her artificial intelligence startup. The entrepreneur initially had doubts about the project, but followed on with it.

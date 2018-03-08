@@ -1,0 +1,1 @@
+Facebook on Wednesday announced its partnership with security software firm Kaspersky Lab to help its users detect and clean malware from their computers. In a statement, Facebook said that in the past three months, Kaspersky Lab has helped protect more than 2 mn people accessing Facebook from malware. Upon logging in, user will now see a warning page offering security scan.

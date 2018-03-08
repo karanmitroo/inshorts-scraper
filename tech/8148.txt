@@ -1,0 +1,1 @@
+Google on Wednesday rolled out an update for its Google Translate service on Android, with a feature called 'Tap to Translate', that lets users get an instant language translation of the selected text in any application. In addition, the company also rolled out offline support on iOS for Google Translate, a feature which was released on Android in 2013.

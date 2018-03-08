@@ -1,0 +1,1 @@
+An app named WeCroak sends notifications at random intervals to its users five times a day to remind them that they will die. The app is based on a Bhutanese folk saying, which suggests that humans should contemplate death five times daily in order to be happy. The app displays quotes about death from philosophers when a notification is opened.

@@ -1,0 +1,1 @@
+Scientists and engineers at the Harvard University have developed an insect-like robot that can both fly as well as swim. The robot RoboBee, which is smaller than a paperclip, has its design inspired by the puffin bird which can swim as well as fly. However, while the robot can move from air to water easily, it cannot do the reverse. 

@@ -1,0 +1,1 @@
+An outage of Amazon Web Services (AWS), world's biggest cloud-services provider, caused 'Is It Down Right Now', a website that tells users when websites are down, to be inaccessible. Nearly 1.5 lakh websites in the US like Quora, ESPN and AOL were affected by the outage on Tuesday. Amazon's web servers were back online after over four hours of disruption.

@@ -1,0 +1,1 @@
+Security researchers have discovered a Facebook password-stealing malware that steals data from attackers rather than the victims it targets. The password stealer injects malicious code in the attackers' systems once downloaded, making them vulnerable to having their own credentials stolen. Researchers said the password stealer was distributed via spam, pop-ups, and porn sites.

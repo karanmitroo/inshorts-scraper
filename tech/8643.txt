@@ -1,0 +1,1 @@
+Researchers have created a face-detection technology called 'Face2Face', which lets users impose facial expressions on other people in a video. The technology uses a personalised webcam to capture the live expressions of the user and creates a 3D model of the user's face. These expressions are further transferred in real-time to another face in the video.

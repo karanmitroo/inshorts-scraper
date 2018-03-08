@@ -1,0 +1,1 @@
+Google has integrated its cast technology directly into the latest version of its Chrome browser, avoiding the need to download any additional Chrome extensions. The update would also allow its users to cast to other apps like Google Hangouts. Launched in 2014, Google Cast enables users to mirror audio and video from their device's screen to Chromecast-enabled TVs and speakers.

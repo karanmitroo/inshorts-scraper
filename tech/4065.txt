@@ -1,0 +1,1 @@
+German developer Tobias Block has made 'Keep or Delete', an iOS app that shows users their tweets in a Tinder-like interface and helps them delete tweets they no longer wish to keep. The users can swipe right to keep or left to delete a tweet. Tobias developed the app after his friend was rejected for job over an old tweet.

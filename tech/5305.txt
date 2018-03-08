@@ -1,0 +1,1 @@
+American security researcher Samy Kamkar has built a ₹340 device named 'PoisonTap', that he claims can get access to a password-protected computer in 30 seconds. The device uses a free software and a Raspberry Pi Zero microcomputer. On connecting the device to a computer's USB port, the lock screen is bypassed and a backdoor to access the computer is created.

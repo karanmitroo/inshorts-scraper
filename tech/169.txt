@@ -1,0 +1,1 @@
+The US Air Force recently conducted its second security hackathon and paid out a total $103,883 for finding bugs across around 300 of its public websites. The event, which found 106 vulnerabilities, set a record for the highest amount for a single bug ($12,500) paid by a federal program and speed where hackers fixed 55 potential exploits in 9 hours.

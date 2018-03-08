@@ -1,0 +1,1 @@
+A team of Chinese researchers was able to wirelessly access a high-tech Tesla Model S sedan and take control of its brakes, door locks and dashboard computer screen, from 19 km away. To gain access, the car was connected to a malicious Wi-Fi hotspot set up by the team. Tesla acknowledged the vulnerability and fixed it through a software update.

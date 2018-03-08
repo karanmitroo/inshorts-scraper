@@ -1,0 +1,1 @@
+A US-based startup has developed 'Nimb', a $150 smart ring with a panic button to send alert to family, friends, nearby people, police and emergency services during a threat situation. The app-connected ring has a button which needs to be pressed to send emergency alert to the pre-selected contacts. It also sends the user's GPS location to the selected contacts.

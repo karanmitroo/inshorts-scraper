@@ -1,0 +1,1 @@
+Facebook has rolled out the ability to upload and view live photos on its iOS app for some users. While adding live photos, users have to manually tick a ‘live’ box, otherwise it uploads as a static image. For viewing such photos, users have to press and hold a set of concentric circles at the bottom right of an image.

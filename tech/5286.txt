@@ -1,0 +1,1 @@
+Cybersecurity blogger Rob Graham on Friday shared on Twitter that his internet-connected security camera was infected by malware within 98 seconds of plugging it in. The camera was attacked by a malware that knew the default login and password for the device and was similar to the kind of bug that recently took down major websites like Twitter and Amazon.

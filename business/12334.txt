@@ -1,0 +1,1 @@
+The Bombay Stock Exchange (BSE) will conduct a mock trading session on Saturday, March 12, to test software related to trading and risk management, including algorithmic-based trade. BSE has asked trading members with user IDs approved for algorithmic-based trades to participate in the session, which will be held for currency and equity derivatives, and the equity segment. 

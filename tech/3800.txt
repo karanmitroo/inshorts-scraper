@@ -1,0 +1,1 @@
+Virtual Reality (VR) is a simulated, 3D environment that gives a user the feeling of being in that environment, instead of the one they're actually in. In order for the brain to perceive the environment, a VR headset creates an immersive experience through stereoscopy. Additionally, sensory stimulation such as eye-movement tracking and sound is incorporated to produce the effect.

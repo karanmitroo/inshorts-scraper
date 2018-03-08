@@ -1,0 +1,1 @@
+Domino's Australia with Australian startup Marathon Robotics has turned a military robot into a pizza delivery robot named 'DRU'. It can speed up to 20 kmph, identify obstacles and calculate the shortest path to reach its destination. DRU has a temperature-controlled box to keep pizzas hot and drinks cold, which lets customers collect their meal on providing a unique code.

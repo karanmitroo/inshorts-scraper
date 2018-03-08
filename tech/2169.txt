@@ -1,0 +1,1 @@
+Indian-origin researchers have developed an app named 'Entrupy' to help users detect fake branded products. The system developed using artificial intelligence is connected to the app to analyse the images of the products and provide results in real-time. A database of three million images of objects and materials is fed into the system and claims accuracy of more than 98%.

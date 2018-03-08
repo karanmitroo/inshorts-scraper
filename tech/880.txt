@@ -1,0 +1,1 @@
+Inspired by the bionic hand of Luke Skywalker in Star Wars, Georgia Tech researchers have created an ultrasonic sensor that allows amputees to control all the prosthetic fingers individually. Using the sensor which predicts finger movement from residual arm muscles, a musician was able to play piano for the first time since losing part of his arm in 2012.

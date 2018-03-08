@@ -1,0 +1,1 @@
+Malware 'Judy' that hit 3.65 crore Android users, is an auto-clicking adware found on 41 apps developed by a Korean company, which were available for download on Google Play Store. The malware generates large amounts of fraudulent clicks on advertisements, generating revenues for the people behind it. Formatting an affected device is the only option to remove the malware.

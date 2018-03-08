@@ -1,0 +1,1 @@
+Technology giant Apple has released an iOS 10.0.2 update to fix a bug that shut down the physical controls of Lightning headphones after a period of inactivity. The bug was reported soon after iPhone 7's launch last week. It fixes two other bugs including the one which caused Photos to quit when some users switched on iCloud Photo Library.

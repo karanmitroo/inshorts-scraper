@@ -1,0 +1,1 @@
+According to media reports, WhatsApp's end-to-end encryption is vulnerable to hacker attacks as its uses a 1970's system of sending SMS messages to verify users. Researchers at Positive Technology, a computer and network security company, claim they successfully impersonated WhatsApp targets in various tests. Cyber-thieves can also reportedly steal users' chat histories.

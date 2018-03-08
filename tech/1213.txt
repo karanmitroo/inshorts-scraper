@@ -1,0 +1,1 @@
+Google has rolled out a feature in its digital assistant called 'Google Assistant' to identify songs playing around users. The Assistant will pull up a card with information about the song on asking "what song is this?" or "what song is playing?" The card will also have links to YouTube, Google Play Music and Spotify streaming links of the song.

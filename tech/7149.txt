@@ -1,0 +1,1 @@
+Google on Friday announced that it has started redirecting HTTP web requests for pages on its search engine through the more secure HTTPS protocol. The “S” at the end of HTTPS stands for “secure”, which means the connection between computers and Google is encrypted. This protects the computers from several virus attacks and hacks.

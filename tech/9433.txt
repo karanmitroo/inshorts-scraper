@@ -1,0 +1,1 @@
+Software engineers Jay Flatland and Paul Rose have built the world's fastest Rubik's Cube solving robot, made up of stepper motors, 3D-printed frames and four USB webcams. The video shows the robot solving the cube in 1.196 seconds, 1.152 seconds, 1.047 seconds and 1.019 seconds, respectively. The current machine record for solving the Rubik’s Cube stands at 3.253 seconds.

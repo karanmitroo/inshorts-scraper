@@ -1,0 +1,1 @@
+Four Indian engineering students have created a working prototype of an earphone-like device 'NeuroBuds', which detects when a user panics, and sends an SOS alert or a call for help. The device eliminates the need to physically make calls or press buttons on the smartphone. Once a panic signal is detected, a 10-second gap is given to dismiss an alert.

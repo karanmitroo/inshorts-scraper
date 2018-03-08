@@ -1,0 +1,2 @@
+
+London’s transportation fare collection agency, Cubic Transportation System, is developing an app that will wake users early in case there is traffic congestion on their daily routes. The app will maintain a single account for train, bus, road, pedestrian and cycling routes and collect user-specific data, including whether one prefers to sit on a train, to give updates.

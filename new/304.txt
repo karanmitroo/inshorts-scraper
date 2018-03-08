@@ -1,0 +1,1 @@
+US-based startup Waylens is working on a camera for car dashboards that shoots 360-degree videos and alerts users if someone tries to steal their car. The camera lets users check on their cars via live stream on their phones. It is also fitted with an accelerometer and gyroscope to detect movements which would prompt it to send alerts to owners.

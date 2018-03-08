@@ -1,0 +1,1 @@
+A group of doctors in Thane have developed an app, called 'Heart Health Meter', that helps users monitor heart conditions by calculating the risks and giving recommendations on how to avert heart conditions in future. Through the app, one can know the current status of the heart. The app is available for free on Google Play Store. 

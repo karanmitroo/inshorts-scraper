@@ -1,0 +1,1 @@
+Messaging app WhatsApp will reportedly start the facility for instant money transfer via the Unified Payments Interface (UPI), according to a new beta update of the app. The description of the new beta version mentions "WhatsApp Payments: the immediate bank-to-bank transfer with UPI". A few platforms like Hike Messenger already support the UPI payments feature.

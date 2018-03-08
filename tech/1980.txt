@@ -1,0 +1,1 @@
+A recent update to Google Assistant will let users take screenshots using their voice. The users can say "take a screenshot" and the Share panel will pop up, allowing them to capture whatever their screen displays. The screenshots taken will only show what is active on the display screen by cropping out navigation buttons and status bar. 

@@ -1,0 +1,1 @@
+Google security researchers have disclosed a bug in an antivirus software built for Apple's Mac computers. The flaw in ESET’s Endpoint Antivirus 6 for macOS allowed attackers to remotely access devices by exploiting an outdated code, giving them the ability to remotely root users' computers. ESET has since issued an update for its app to fix the issue. 

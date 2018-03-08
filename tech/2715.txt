@@ -1,0 +1,1 @@
+The global Petya cyber attack that began on June 27 is believed to have started via an infected update by Ukrainian software company 'MeDoc'. It paralysed systems across Ukraine, Russia, India, and US. The ransomware is also a type of worm, meaning it can spread to all connected computers in an organisation's network, even if a single machine is out-of-date.

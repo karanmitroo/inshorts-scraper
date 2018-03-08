@@ -1,0 +1,1 @@
+WhatsApp is reportedly working on a feature that notifies users of spam messages which have been forwarded many times. If users receive one of these messages, there will be a "Forwarded Many Times" tag under the sender's name. It also alerts users if they are about to forward spam messages with the message appearing at the top of the screen. 

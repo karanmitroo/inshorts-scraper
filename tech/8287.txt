@@ -1,0 +1,1 @@
+The Raspberry Pi Foundation has updated the camera board of its Raspberry Pi microcomputer, a credit card-sized device, to 8 MP from 5 MP for the same price of $25. The camera module, available in infrared and visible light variants, is powered by the Sony IMX219 sensor, that can shoot images in the 3280x2464 resolution and record videos in full-HD.

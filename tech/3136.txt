@@ -1,0 +1,1 @@
+Qualcomm this week demonstrated a technology called dynamic electric vehicle charging (DEVC) that charges electric vehicles via a road-embedded system while they're being driven. The technology was tested on a 100-metre test track with Renault cars. The track can charge vehicles driving at a speed of over 100 kmph while going forward or reverse at up to 20 kW.

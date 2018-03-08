@@ -1,0 +1,1 @@
+American researchers have developed the world's smallest diode using a DNA molecule. The used DNA molecule had 11 base pairs, as compared to 3 billion pairs that are present in a human genome. A diode is a component that conducts electricity primarily in one direction and has low (ideally zero) resistance. This advancement could eventually lead to more nanoscale electronics.

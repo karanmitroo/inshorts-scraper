@@ -1,0 +1,1 @@
+Comma.ai, founded by George Hotz who is known for cracking the iPhone and PlayStation 3, has developed a $1,000 self-driving car kit that can transform any car into a smart self-driving car. Unlike Tesla or Google's self-driving tech, Comma.ai's system tracks driving data, feeds it back into the company database and then instructs the car to emulate the driving habits.

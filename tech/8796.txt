@@ -1,0 +1,1 @@
+VR screen-sharing company BigScreen has developed a software that allows users to bring their entire Windows desktops into a virtual reality setting. This lets users access conventional apps on one part of their virtual monitors, while still being able to watch movies or play games on the other. The software currently supports the HTC Vive and the Oculus Rift headsets.

@@ -1,0 +1,1 @@
+US-based company IBM has released a visual recognition demo of its Watson Artificial Intelligence (AI) system, which lets users feed the AI with an image for it to guess the picture's contents. The users can also train the system by uploading photos in bulk and classifying them. The company has made the same demo available as an open source project.

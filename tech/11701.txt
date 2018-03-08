@@ -1,0 +1,1 @@
+Lenovo has published its step-by-step guide for users to manually fix the Superfish adware, and also released a tool to help users remove the software from their laptops. Besides, the company's chief technology officer Peter Hortensius has admitted to Re/Code that “We messed up." Lenovo had pre-installed Superfish, a virus-like software which made laptops vulnerable to hackers.

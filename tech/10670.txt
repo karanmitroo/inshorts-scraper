@@ -1,0 +1,1 @@
+Aran Khanna, a student at the Harvard University, has been denied internship by Facebook after he pointed out a major privacy flaw in its mobile messaging app. Khanna had released a Chrome extension "Marauder’s Map" in May that used location data to show where the message sender was. Facebook denied him internship saying he has violated the company's user agreement.

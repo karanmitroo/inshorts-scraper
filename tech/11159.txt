@@ -1,0 +1,1 @@
+Apple has confirmed that the irregular behaviour faced by users in the latest update of Apple Watch OS 1.0.1 is intentional and not a bug. In OS 1.0, the user’s heart-rate is recorded every 10 minutes. Apple has clarified that in the latest version, the Watch will still do the same, but won’t record anything “when user's arm is moving”.

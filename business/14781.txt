@@ -1,0 +1,1 @@
+A startup called SpaceVR has built its own virtual reality camera in an attempt to bring outer space to the masses. The camera, once on the International Space Station, can shoot a 4K video, stitch the footage together into a VR video sphere, and beam it back to Earth. This would mean 624 GB of data for every two-hour recording. 

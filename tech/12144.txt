@@ -1,0 +1,1 @@
+Developers of a new app 'Deadline' claim it can determine the date of death of the users. The app uses iPhone's Healthkit to "determine your date of expiration". Healthkit tool records statistical information, like the user's height and diastolic blood pressure, and monitors their sleep and other such details; the app uses these to calculate the approximate day of demise.

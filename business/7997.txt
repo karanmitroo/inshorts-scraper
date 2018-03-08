@@ -1,0 +1,1 @@
+Online tool 'CMS ATM Finder' helps users find ATMs that are currently dispensing cash in a particular location. It lists ATMs of banks like SBI, Axis Bank, PNB, Bank of Baroda, and ICICI, among others. The tool has been created by CMS Infosystems, a company that manages over 50,000 out of the total 2.2 lakh ATMs in the country. 

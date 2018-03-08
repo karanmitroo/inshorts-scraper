@@ -1,0 +1,1 @@
+Google Photos has censored the 'gorilla' tag from its image-labelling technology, after it was found it classified people of colour under the category in Photos. According to a test by Wired, Google Photos did not derive results when "gorilla" was searched in a collection of 40,000 animal images. Google confirmed and added the technology is "nowhere near perfect."

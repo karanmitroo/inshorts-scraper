@@ -1,0 +1,1 @@
+Georgia Institute of Technology students have unveiled Quixote, a prototype artificial intelligence (AI) system that can learn human values and social conventions by reading simple stories. According to a co-author of the study, the AI system runs many virtual simulations of any given situation in which it gets rewarded if it does an action similar to something in the story.

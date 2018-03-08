@@ -1,0 +1,1 @@
+The Telecom Regulatory Authority of India (TRAI) on Tuesday launched an app called 'MySpeed' that measures mobile's data speed of the users and sends results to the regulatory body. Available on Android and iOS platforms, it also sends device's location and other network information to TRAI. It does not share any personal information of its users and sends reports anonymously.

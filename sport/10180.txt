@@ -1,0 +1,1 @@
+Hawk-Eye technology, part of the Umpire Decision Review System, is a complex computer system used to visually track the trajectory of the cricket ball. The technology uses several cameras placed around the ground to create a 3-D image which shows how the ball will travel after it has hit the batsman. Hawk-Eye finds its main use in reviewing LBW decisions.

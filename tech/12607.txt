@@ -1,0 +1,1 @@
+The Android app of Gmail reached the massive 1 billion download milestone on Google Play last week, the first app to do so. To be specific however, the 1 billion downloads figure, displayed on Google Play, is actually a tally of total unique accounts or installs, and not the total number of devices or users that downloaded the app.

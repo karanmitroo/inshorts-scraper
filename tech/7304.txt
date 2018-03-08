@@ -1,0 +1,1 @@
+A US researcher has developed 'Dreambit', a face-swapping search engine app. The app allows users to click and upload a selfie and searches for images matching the user's search term, like "curly hair". It then looks for images where the subject’s face is positioned similar to the user's face, and returns the images with the user's face swapped on.

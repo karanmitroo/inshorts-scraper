@@ -1,0 +1,1 @@
+Google's DeepMind artificial intelligence (AI) project has announced a partnership with game developer Blizzard to develop AI players for the 'StarCraft II' video game. Blizzard will release an API early next year that will allow researchers and hobbyists around the world to build and train their own AI agents to play StarCraft II, a DeepMind scientist said.

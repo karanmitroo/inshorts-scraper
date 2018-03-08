@@ -1,0 +1,1 @@
+To make online tatkal bookings easier, IRCTC has introduced two high-capacity servers that will double peak-time efficiency. The Linux-enabled servers will raise the booking capacity to over 14,000 tickets per minute from the existing 7,200. With the addition of two new servers, IRCTC has now 17 servers and the existing 1.4 GB bandwidth has increased by 25%. 

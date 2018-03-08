@@ -1,0 +1,1 @@
+In a bid to play a prank on April Fool's Day, Google turned its mapping service into a gaming ground inspired by the classic game Pac-Man. It allows users to play the game by turning streets into a labyrinth to gobble up pellets and ghosts. Reportedly, the game can not be played if the 'searched place' is without enough roads.

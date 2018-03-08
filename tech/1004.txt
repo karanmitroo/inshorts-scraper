@@ -1,0 +1,1 @@
+Researchers at the University of Maryland have designed a quantum simulator composed up to 53 qubits, the basic unit of information for quantum computers, using ytterbium ions. While classical computers use bits, which can store either 0 or 1, quantum simulators use qubits, which can store superposed states like 00, 01, 10, 11, to simulate complex interactions between particles.

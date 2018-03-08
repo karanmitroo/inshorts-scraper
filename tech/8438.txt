@@ -1,0 +1,1 @@
+Google Calendar has launched a new feature called Goals that uses machine learning to help users set personal goals. To set up goals, users need to select a category, such as 'Exercise', 'Build a Skill' or 'Me Time', and then a specific activity. The Calendar will then automatically find open slots, fill them with the goals and send reminders.

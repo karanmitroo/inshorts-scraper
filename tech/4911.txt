@@ -1,0 +1,1 @@
+A video states how passwords are stored as a set of encrypted characters called hashes, further explaining how hackers crack passwords. Hacker communities use 'lookup tables' and 'rainbow tables', which store data files of common passwords that are pre-hashed, to gain access to accounts. The video adds that some hackers set up fake 'Free WiFi' points to get common passwords.

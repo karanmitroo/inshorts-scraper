@@ -1,0 +1,1 @@
+Cloud storage provider Dropbox on Thursday launched their Windows 10 application for computers and tablets which will be available for download in the coming days. The new application would allow the users to directly drag and drop their files from the Windows file explorer. It will also feature fingerprint, face and iris scanner as authentication for unlocking the app.

@@ -1,0 +1,1 @@
+Apple has admitted to sending wrong details on app installs and ad spends to iOS developers, citing 'processing error' as the cause of the problem. In an email to developers, Apple said it will only send alerts by email, while other details will be available in respective accounts. The details shared included number of app installs, cost-per-install, and total spend. 

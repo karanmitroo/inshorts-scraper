@@ -1,0 +1,1 @@
+A software developer from Dundee, Andy Herd has created an artificial intelligence network that, when provided with all the scripts from the popular comedy series 'Friends', could produce new scenes for the show. The network was able to create back-and-forth conversations between the six lead members of the show and was capable of adding their appropriate character traits.

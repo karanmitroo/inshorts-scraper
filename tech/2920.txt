@@ -1,0 +1,1 @@
+Google's cloud storage tool Google Drive will be launching a new app called Backup and Sync on June 28. The tool will allow users to choose folders they want to backup instead of having to place them inside the Drive folder. However, users will only be able to backup data up to 15 GB on the Drive for free.

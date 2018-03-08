@@ -1,0 +1,1 @@
+Google has launched Android Pay, its second mobile wallet service after Google Wallet. Currently accepted at more than 1 million locations in the US, the application will run on NFC-enabled devices with Android 4.4 KitKat. In a major competition to Apple Pay and Samsung Pay, Android Pay is reportedly safer when adding retailers to make contactless payments directly via phone.

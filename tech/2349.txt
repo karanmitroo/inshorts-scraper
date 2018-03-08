@@ -1,0 +1,1 @@
+IBM scientists have captured a record 330 terabytes of uncompressed data, equal to 33 crore books, into a palm-sized cartridge. The record of 201 gigabits per square inch on magnetic tape is over 20 times the areal density of current commercial tape drives. Areal recording density is amount of information that can be stored on a given area of surface.

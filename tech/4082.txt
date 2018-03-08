@@ -1,0 +1,1 @@
+In a first, quantum computers based on different technologies were pitted against each other. IBM and the University of Maryland tested their respective quantum computers to run on same algorithms. Maryland achieved 77.1% accuracy, while IBM only reached 35.1% accuracy, but was up to 1,000 faster than its competitor, resulting in a split decision.

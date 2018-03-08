@@ -1,0 +1,1 @@
+A Gmail phishing scam was discovered early on Thursday that targeted around 100 crore users worldwide. The phishing attack, which arrived in users' inboxes posing as an email from a trusted contact, asked users to check a Google Docs file. Clicking 'Allow' on the file gave the phishing email access to users' emails and spread itself to all their contacts.

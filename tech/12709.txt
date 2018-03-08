@@ -1,0 +1,1 @@
+A major security flaw (dubbed Heartbleed) of the internet may have been exposing users' personal information and passwords to hackers for the past two years, it has been revealed this week. The bug, which exists in OpenSSL, is one of the biggest security issues in the internet world so far. Half a million sites are thought to have been affected.

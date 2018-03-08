@@ -1,0 +1,1 @@
+A map under Google's 'Project Sunroof' will be showing which houses across the US are viable for solar roofs or have enough unshaded area for solar panels. Google uses visual data from Google Maps and Google Earth to generate 3D models of the total sunlight that reaches a roof. Google data says Houston is the city with most solar potential.

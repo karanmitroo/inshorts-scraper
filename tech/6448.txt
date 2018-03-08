@@ -1,0 +1,1 @@
+Business-oriented social networking platform LinkedIn has rolled out a change to its search algorithm following reports that searches for common female names yielded suggestions for male names, but not vice-versa. While LinkedIn denies that the algorithm was gender biased, the change enables it to recognise popular names, so that the algorithm doesn't try to correct them.

@@ -1,0 +1,1 @@
+Adobe on Tuesday announced that it will stop updating and distributing Flash Player plug-in by the end of 2020. Flash technology was once one of the most widely used ways to watch videos and play games online. In recent years, browsers such as Google Chrome, Microsoft Edge, and Safari have been deprecating Flash in favour of its alternative HTML5.

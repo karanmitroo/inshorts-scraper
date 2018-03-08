@@ -1,0 +1,1 @@
+None of the mobile payment apps or digital wallets in the country are fully secure, mobile technologies leader Qualcomm has claimed. These apps actually run completely in Android mode and do not have hardware level security, which in turn can be used to compromise users' password or fingerprint, said Qualcomm.

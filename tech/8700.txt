@@ -1,0 +1,1 @@
+Technology giant Microsoft on Thursday rolled out Windows 10 mobile, sporting features like Windows Hello, Cortana and Continuum. The update has been rolled out for select Windows Phone 8.1 devices including a series of Lumia and BLU handsets. Microsoft has also created an 'UpdateAdvisor' mobile application that will let the users know if the update is ready for their handsets.

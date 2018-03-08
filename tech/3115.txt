@@ -1,0 +1,1 @@
+Zomato has revealed that 1.7 crore of its user records were accessed by a hacker last week using a web hosting service's database that was leaked in 2015. A Zomato developer had an account with the service, login credentials of which had been leaked. The developer used the same login details for GitHub, where Zomato's code was developed.

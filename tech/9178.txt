@@ -1,0 +1,1 @@
+Google on Tuesday added a security feature to its Gmail service on the web that will warn users about potentially unsafe messages. The new security feature shows a 'red broken lock' icon when a user receives a mail from potentially unsafe sources. Also, Gmail users will see a 'red question mark' in the place of such sender's profile photo.

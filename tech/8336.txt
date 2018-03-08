@@ -1,0 +1,1 @@
+Facebook on Thursday announced an update to its News Feed that will factor in how much time a user spends on reading an article. With this algorithm tweak, that will not consider the article loading time, Facebook aims to better understand which stories it should surface in users' News Feeds. The update will completely roll out over the coming weeks.

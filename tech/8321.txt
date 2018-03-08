@@ -1,0 +1,1 @@
+Robotics company DFRobot has built a $59 DIY robot, called Antbo, that can be assembled in less than an hour. Aimed at teaching coding and entry-level robotics, the six-legged insect robot can also learn and mimic human emotional responses. For instance, it might tremble if frightened by something, or respond by looking back and forth to signify it's feeling inquisitive.

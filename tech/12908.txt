@@ -1,0 +1,1 @@
+Tech giant Google will offer a total of $2.7 million to researchers who can hack its browser-based operating system Chrome OS as part of its Pwnium hacking contest to be held in March this year. The Pwnium-4, will be hosted at the CanSecWest security conference in Vancouver, Canada. Last year, Google had put $3.14159 million in the pot for Pwnium-3.

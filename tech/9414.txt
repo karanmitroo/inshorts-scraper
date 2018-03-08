@@ -1,0 +1,1 @@
+Google is removing the requirement for users of Google Play Games to sign in to the service using a Google+ account. This means that players will only have to log in to Play Games once per account, instead of once per game. Further, once the players sign in for the first time, they will be automatically signed in for all future games.

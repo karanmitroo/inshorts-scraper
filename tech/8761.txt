@@ -1,0 +1,1 @@
+Sony's R&D group Future Lab has made a prototype projector "Interactive Tabletop", that turns any flat surface into a touch-sensitive display. The projector uses depth sensors and motion tracking to track the movements of objects placed on the table. Sony also demonstrated how animations can be moved around the projected surface and made to interact with physical objects.

@@ -1,0 +1,1 @@
+Sony’s PlayStation VR headset will not accept games rendered below 60 frames per second. The company is implementing a ‘frame reprojection’ technology that tricks the brain into thinking that content is running between 90 and 120 frames per second, the ideal frequency for VR headsets. To execute this, the rendered scene has to be at least 60 frames per second.

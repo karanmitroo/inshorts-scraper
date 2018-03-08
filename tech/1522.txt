@@ -1,0 +1,1 @@
+Technology giant Google has introduced the 'Do Not Disturb' (DND) feature in Pixel 2 and Pixel 2 XL phones through an app called Pixel Ambient Services. The app features an automatic DND mode which is activated when a user is driving. According to Google, the smartphones will use bluetooth and device motion to determine the DND mode activation.

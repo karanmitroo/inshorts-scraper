@@ -1,0 +1,1 @@
+US-based startup Mema engineering has developed a smart bike light which senses when a bike rider is slowing down or accelerating, automatically signalling any vehicle behind the bike. Called the 'Lucnt SRL1', it uses multiple sensors and smart algorithms to signal. The USB-sized light also gets automatically activated by the magnets in the bike mount.

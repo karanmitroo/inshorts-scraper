@@ -1,0 +1,1 @@
+Swedish technology firm Semcon has developed a concept for a 'smiling' self-driving car that lets pedestrians know when it is safe to cross the street. When the car's sensors detect a pedestrian, a signal is sent to its front-facing display that lights up like a smile, confirming that the car will stop at a safe distance.

@@ -1,0 +1,1 @@
+Google-owned Artificial Intelligence (AI) company DeepMind has partnered with the National Health Service (NHS) to create a machine learning system that can recognise early signs of eye diseases. The team will use one million anonymised eye scans to train the system. DeepMind Co-founder estimated that up to 98% of diabetes-caused sight loss can be prevented with early treatments.

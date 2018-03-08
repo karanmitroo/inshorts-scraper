@@ -1,0 +1,1 @@
+According to government estimates, there has been a 51% decrease in malware infections in all networks in India since the launch of Botnet Cleaning and Malware Analysis Centre. The botnet infections in the banking sector reduced by 74.3% during June to November 2017. The Centre analyses malware characteristics to detect systems infected by bots to notify the end users.

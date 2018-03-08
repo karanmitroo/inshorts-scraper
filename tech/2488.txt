@@ -1,0 +1,1 @@
+Technology major Apple has released a security update to patch a vulnerability that would have let hackers control a user's iPhone via WiFi. The bug generally affects chips made by Broadcom which are used in devices made by various companies including HTC, LG, Google, Samsung, and Apple. Google has also released a patch for the vulnerability on Android devices.

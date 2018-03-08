@@ -1,0 +1,1 @@
+Researchers at UC Santa Barbara have developed a system that uses two drones and a Wi-Fi antenna to 'see' through solid brick walls. One drone blasts Wi-Fi through a building-like structure and another picks up the signal. The drones fly around the structure to map the differences in wave strength and create a 3D model of the building's internals.

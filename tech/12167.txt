@@ -1,0 +1,1 @@
+Phone directory application Truecaller has launched a new app, Truedialer, which offers user details of a person before the outgoing call gets connected. The app can be downloaded from Google Play store. If the users are dialing a number that is not saved on their phone, the name and profile photo of whom they are about to call will appear.

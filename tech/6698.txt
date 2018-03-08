@@ -1,0 +1,1 @@
+According to data security provider Blancco Technology Group, Apple’s iOS failure rate was higher than Google’s Android for the first time ever in the second quarter of 2016. With issues like crashing apps and WiFi connectivity, iOS failure rate rose to 58% from 25% in the previous quarter. In comparison, 35% of devices running Android had problems, down from 44%.

@@ -1,0 +1,1 @@
+Russian software firm Elcomsoft has revealed that call histories of iPhone users are stored for four months on Apple's servers if iCloud is enabled. In addition to phone calls, Apple also stores FaceTime history and missed calls from apps like WhatsApp and Skype in iOS 10. Elcomsoft has claimed the data sharing cannot be stopped unless users deactivate iCloud altogether.

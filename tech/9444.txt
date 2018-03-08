@@ -1,0 +1,1 @@
+Skype on Thursday launched an update for its desktop and mobile versions that lets users hide their IP address from other Skype users. The IP addresses of the Skype users will be hidden by default through the update. The update will protect gamers and streamers from online trolls who obtain IP addresses through their Skype IDs.

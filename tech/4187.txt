@@ -1,0 +1,1 @@
+A 3D-printed object is created using additive processes, in which material is added layer by layer to form a structure. When the printer receives the blueprint of a design, it constructs the object by pulling the material through a tube and melting it before depositing it on the plate. The material on the plate instantly cools, forming the required object.

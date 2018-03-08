@@ -1,0 +1,1 @@
+Taxi-hailing app Uber on Thursday confirmed testing its self-driving cars in Pittsburgh, the US. The car is a hybrid Ford Fusion which includes sensors like radars, laser scanners, and high resolution cameras to map details of the environment up to 100 meters in any direction. However, a trained driver will monitor operations when a car's self-driving mode is turned on.

@@ -1,0 +1,1 @@
+AIIMS doctor Deepak Agrawal, in collaboration with Delhi-based robotics researcher Diwakar Vaish, has developed a pocket-sized ventilator that can be controlled with an Android app. The ventilator can run on natural air flow without a dedicated oxygen supply. It would be priced around ₹15,000, whereas, other portable ventilators cost above ₹2.5 lakhs in the market.

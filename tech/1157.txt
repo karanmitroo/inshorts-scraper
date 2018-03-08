@@ -1,0 +1,1 @@
+Users have reported that their Pixel 2 XL smartphones have not been registering touches along the curved edges of the screen. A user claimed that sliding a finger along the screen's edges worked as expected, but taps are not always registered. Google has acknowledged the issue and said that it is working on a fix.

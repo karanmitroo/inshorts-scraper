@@ -1,0 +1,1 @@
+A payment glitch on retailer 'Overstock.com' allowed customers to pay using either Bitcoin or Bitcoin Cash interchangeably. A user had made a purchase by sending 0.00475574 Bitcoin Cash instead of Bitcoin, which the website accepted. This led to him making a $78 purchase by sending $12 worth of Bitcoin Cash, as Bitcoin's price was $15,000 compared to Bitcoin Cash's $2,400.

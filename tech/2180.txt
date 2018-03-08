@@ -1,0 +1,1 @@
+A website called '😁.to', that displays available single Emoji domains in a list, has listed the 'Heart Eyes' emoji domain name '😍.to' for ₹6.4 lakh. However, browsers such as Chrome or Opera cannot display emoji in the address bar currently. Further, the website only lists domains with a Tongan '.to' top-level domain.

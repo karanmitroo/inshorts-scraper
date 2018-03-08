@@ -1,0 +1,1 @@
+Scientists at the University of Lincoln (UK) are working on a mobile technology that could enable visually-impaired people to 'see' through their smartphone or tablet. The team, funded by a Google Faculty Research Award, plans to use colour and depth sensor technology inside new smartphones and tablets to enable 3D mapping and localization, navigation and object recognition.

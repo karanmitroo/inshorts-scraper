@@ -1,0 +1,1 @@
+The MCA21 portal of Ministry of Corporate Affairs, which is used by companies for making filings, was hit by the WannaCry ransomware attack last month, according to an official document. The attack was "presumably" one of the first such attacks on a Government of India portal. As per the document, the system servers were formatted and the systems were redeployed.

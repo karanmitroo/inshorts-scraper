@@ -1,0 +1,1 @@
+A recent feature by technology major Google shows a virtual fidget spinner on both the mobile as well as the desktop version of Search. The spinner appears on searching for "fidget spinner" and lets users click the designated 'Spin' button to make it rotate. The virtual spinner's speed can also be controlled using the 'Spin' button.

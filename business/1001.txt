@@ -1,0 +1,1 @@
+Shares of American chipmaker Intel fell by 2% on Thursday after researchers found a security flaw in the company's chips, that could affect computers and phones globally. The vulnerability could allow hackers to steal data including a user's passwords, personal photos and messages. While Intel admitted the flaw, it said the exploits do not have the potential to delete data.

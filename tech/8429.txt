@@ -1,0 +1,1 @@
+Google has announced the beta launch of Voice Access, an app that allows people to use speech recognition to control Android devices. Users can say ‘open Chrome’ or ‘go home’ to navigate around the phone, or interact with the screen by saying ‘click next’ or ‘scroll down'. The app has been designed keeping in mind people with disabilities like paralysis.

@@ -1,0 +1,1 @@
+Facebook is shutting down its Parse developer platform, a service it acquired for a reported $85 million in 2013. Parse will operate until January 28, 2017, giving developers some time to move their products to other platforms. Notably, some developers have around 6,00,000 apps built on the platform. Parse has been one of Facebook's key developer services since 2013.

@@ -1,0 +1,1 @@
+Researchers at the Insilico Medicine, US, have used Artificial Intelligence (AI) to create programmes that can predict a person's age with 84% accuracy by analysing​ their blood sample. The biotech company created a database of 60,000 blood samples and found the most significant biomarkers to predict the age, such as red blood cell count, glucose levels and protein albumin.

@@ -1,0 +1,1 @@
+Independent developer Justin Fincher has designed an Android app called Skyline which shows a user's live location on the map as the smartphone wallpaper. Skyline uses satellite and aerial photos through GPS to create interactive images for the wallpapers. The app also shifts the image while unlocking the phone or swiping through launcher pages.

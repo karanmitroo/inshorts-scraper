@@ -1,0 +1,1 @@
+In an email to app developers, Google has said that it will remove apps from its Play Store which are found misusing its Accessibility Services. Google also stated that unless developers can describe how the app properly uses their services, it will also remove requests for the same. Accessibility Services allow developers to improve the apps for users with disabilities.

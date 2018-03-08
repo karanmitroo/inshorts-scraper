@@ -1,0 +1,1 @@
+Cyber security agency Indian Computer Emergency Response Team (CERT-In) has issued a red alert in the country against 'WannaCry' ransomware that hit 150 countries. While the agency has warned users to not pay the demanded ransom, cybersecurity experts said the victims of the malware attack may grow on Monday. The malware locks up files and makes them inaccessible on desktops.

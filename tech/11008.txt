@@ -1,0 +1,1 @@
+Undo send, one of Gmail’s experimental features, is now officially available to all after being a Gmail Labs feature since March 2009. The feature gives an option to retract an email within a pre-set amount of time, between 5 to 30 seconds, after a user hits “send”. The feature is now available under the “General” tab in Gmail’s settings.

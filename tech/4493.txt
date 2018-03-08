@@ -1,0 +1,1 @@
+Google has started testing 'Instant Apps' that can be used without downloading over half a year after first announcing the feature. Apps are broken into very small packets that can run almost instantly by tapping on a URL. The limited test by Google includes apps from BuzzFeed and live video streaming startup Periscope.

@@ -1,0 +1,1 @@
+Researchers at the University of Bristol have developed a technology called 'PowerShake',  that allows sharing of power between mobile and wearable devices. The device consists of flexible copper coils that allows transferring of power at 3.1W. A three-second charge from the device claims to provide 15 seconds of talk time on a smartphone. 

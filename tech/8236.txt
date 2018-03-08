@@ -1,0 +1,1 @@
+Google on Wednesday launched a ‘Find a Time’ feature in its Calendar service on Android. It helps users schedule meetings by automatically finding time slots that work for everyone, even for people in different time-zones, based on their availability in the Calendar. If there are no mutually available time slots, the feature suggests meetings that can most easily be rescheduled.

@@ -1,0 +1,1 @@
+Apple has added a new data restore feature to its cloud storage service iCloud.com, enabling users to rollback accidentally deleted documents, calendar changes, and contacts. Hidden under the Advanced Settings pane, this is the first time it has introduced a way to carry out such an action as there is no equivalent to the Trash Folder on iCloud.

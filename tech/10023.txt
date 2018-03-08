@@ -1,0 +1,1 @@
+An experimental testing of LiFi internet has reportedly proved that it can send up to 1GB data per second, about 100 times faster compared to the WiFi. Discovered by Professor Harald Haas of the University of Edinburgh in 2011, Lifi uses light to broadcast information via air. In next 3-4 years, Lifi can be launched commercially, the report added. 

@@ -1,0 +1,1 @@
+Siberia-based S7 Airlines has teamed up with Russia's Alfa-Bank to issue passenger tickets on a blockchain. Implementation of Ethereum blockchain-based platform aims to reduce settlement time between the airline and the agent to 23 seconds from around 2 weeks now. The airline has reportedly already used the new blockchain-based system to sell over 100 tickets.

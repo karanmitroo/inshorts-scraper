@@ -1,0 +1,1 @@
+White hat hackers at the annual DEF CON conference successfully hacked into the voting machines that were used in US elections under 90 minutes. They found that while some machines were running on old software, others had open ports which could be used to install malicious software and tamper with the voting. Notably, some also had poorly secured Wi-Fi connectivity.

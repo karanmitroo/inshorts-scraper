@@ -1,0 +1,1 @@
+Google on Wednesday launched the first developer preview of its latest Android N operating system. The updates in Android N include improved notifications, split-screen view, picture-in-picture mode, improved Java 8 language support and better battery saving ability. Notably, Google plans to roll out Android N previews in five phases before finally releasing it in Q3 2016.

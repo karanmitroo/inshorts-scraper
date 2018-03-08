@@ -1,0 +1,1 @@
+Computer utility software CCleaner, which is owned by cybersecurity company Avast, was hacked to inject and spread malware to its users. The malware gave hackers unauthorised access to the infected computer's personal information. Avast-owned Piriform, which runs the CCleaner software, later solved the issue and claimed that the malware did not harm any user.

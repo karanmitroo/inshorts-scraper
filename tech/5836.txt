@@ -1,0 +1,1 @@
+Samsung has announced a new competition for mobile game developers worldwide, in a bid to promote its new Tizen operating system. Developers with Android or iOS games made with the Unity engine and having at least 10,000 downloads can participate in the contest. The contest, with a top prize of $20,000, requires the developers to port their games to Tizen.

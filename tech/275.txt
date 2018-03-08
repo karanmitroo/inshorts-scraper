@@ -1,0 +1,1 @@
+Technology giant Apple has confirmed that its three-year-old iOS source code was leaked, after it was posted on internet hosting service GitHub. Apple said that the security of its products doesn't depend on the secrecy of its source code. However, the source code has been pulled down after Apple filed a notice asking for the same. 

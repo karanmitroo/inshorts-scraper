@@ -1,0 +1,1 @@
+Facebook is testing a feature which automatically alerts a user if another user is impersonating the account using the same name and profile photo. On detecting impersonation, Facebook will alert the user of potential risk and ask for verification. The feature, which Facebook started testing in November 2015, is now live on 75% of its accounts.

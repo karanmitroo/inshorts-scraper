@@ -1,0 +1,1 @@
+Apple has issued an update to tackle the 'Pegasus' malware distributed by Israeli spyware company NSO. Pegasus remotely jailbreaks iPhones at the tap of a link to steal and intercept all data and communication going through them. The malware was noticed when a man received an SMS with a link claiming to reveal "secrets about torture in UAE state prisons".

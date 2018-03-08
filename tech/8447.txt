@@ -1,0 +1,1 @@
+At the F8 developer conference on Tuesday, Facebook announced a bot platform that allows developers to build chatbots for Messenger. A Messenger bot has the ability to perform actions like sending links, showing images and providing detailed descriptions of products and services. The company also announced that it has opened up its live streaming API for developers.

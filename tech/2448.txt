@@ -1,0 +1,1 @@
+Microsoft has announced its long-standing basic graphics editing program 'MS Paint' will no longer be available with the next Windows 10 update called the Autumn Creators Update. The program was first released with the very first version of Windows 1.0 in 1985. MS Paint's removal is a part of Microsoft's plan to shut programs that are "not in active development."

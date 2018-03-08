@@ -1,0 +1,1 @@
+Google has released a new machine learning project, called Magenta, that can create or advance the state of machine-generated art. The company announced that it will make the project's models and tools openly available for artists to bring machine learning to their creations. Google also released the first piece of art, a 90-second piano melody, created using the Magenta program.

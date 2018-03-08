@@ -1,0 +1,1 @@
+Ugandan engineers have invented a 'smart jacket' which they claim diagnoses pneumonia up to three times faster than a doctor. The sensors inbuilt in the biomedical jacket pick up sound patterns from the lungs, breathing rate and body temperature. The processed information is then sent to a mobile phone app via Bluetooth, to estimate the strength of the disease.

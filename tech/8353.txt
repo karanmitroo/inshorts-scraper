@@ -1,0 +1,1 @@
+According to a patent filed by Google, the search engine might use a user's biometric parameters to improve the search results. The technology uses a camera or infrared data to track user's body temperature, heart rate, pupil dilation, eye twitch, facial flushing, blink rate and facial expressions. It will help Google know how the user feels about the search results.

@@ -1,0 +1,1 @@
+A Norwegian University graduate has found that android lock patterns—like passwords—can be leaked through predictability algorithms. According to her analysis of almost 4,000 patterns, they adhere to their own sets of predictable rules like starting from the top-left node of the screen, starting in one of the four corners, or the average number of nodes being five.

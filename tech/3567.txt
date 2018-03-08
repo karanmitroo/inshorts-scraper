@@ -1,0 +1,1 @@
+Researchers at Newcastle University have demonstrated how smartphone passwords and PINs can be stolen by the way devices are held while typing the information. The researchers achieved 70% accuracy to guess 4-digit PINs in first attempt and 100% accuracy in five tries. The hack makes use of sensors like gyroscopes which are built into most smartphones.

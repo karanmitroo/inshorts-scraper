@@ -1,0 +1,1 @@
+Technology major Microsoft on Tuesday announced that it had partnered with Elon Musk and Peter Thiel-backed research project called OpenAI. The project aims to 'democratise' artificial intelligence and make it more accessible to the public. OpenAI will use Microsoft's Azure as its primary cloud platform to create new tools and technologies that are only possible with the cloud.

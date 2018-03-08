@@ -1,0 +1,1 @@
+A startup from the HAX Hardware Accelerator has developed 'my.Flow', a smart tampon that reminds the user when its time to change tampon during menstruation. Connected to a traditional tampon, it consists of a bluetooth sensor on a user's waist, which lights up when its time to change. User is also notified through an app, which also tracks the period.

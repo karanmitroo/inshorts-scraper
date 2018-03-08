@@ -1,0 +1,1 @@
+Canadian company D-Wave's 10-foot-tall quantum computer '2000Q' worth ₹102 crore has gone on sale. The computer is embedded with the world's biggest quantum computing chip with over 2000 qubits (quantum bits) to perform calculations. The D-Wave 2000Q performs calculations through a process known as "quantum annealing", which renders a problem as a topographical map.

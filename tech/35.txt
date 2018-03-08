@@ -1,0 +1,1 @@
+Researchers at Purdue University and the University of Iowa have outlined bugs in 4G LTE protocols which could track a user's location, spy on messages and even send fake emergency alerts. Hackers can also connect to a 4G LTE network by impersonating a user's phone number. The cause of these attacks is the lack of authentication and encryption, researchers said.

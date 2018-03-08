@@ -1,0 +1,1 @@
+Facebook has announced that it will begin testing offline video access in India from July 11, by selectively rolling out an option to download videos during good internet connections to watch later. To avoid piracy, the company will securely lock the videos within its app, and such videos won't be visible in a device's local memory.

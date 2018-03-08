@@ -1,0 +1,1 @@
+In a first, doctors at the Imperial College London have used Microsoft HoloLens headsets while operating on patients undergoing limb surgery. The augmented reality system overlaid CT scan images of bones and blood vessels onto each patient's leg, enabling the surgeon to "see through" the limb. The technology was used to reconnect blood vessels while seeing through wounded tissue.

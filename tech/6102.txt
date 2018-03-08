@@ -1,0 +1,1 @@
+A drone aboard the International Space Station (ISS) has taught itself how to navigate in microgravity using just one camera. To achieve this, the SPHERE drone first flew around the station, learning distances between objects using two cameras, and then applied a custom learning algorithm. Notably, machine learning is rarely used in space applications due to high risk of failure.

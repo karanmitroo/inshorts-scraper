@@ -1,0 +1,1 @@
+Israeli startup Tap Systems has developed 'Tap Strap', a foam strap that lets users type by tapping fingers. Controlled through an app, the bluetooth-connected strap translates 31 different kinds of finger tapping into various text inputs and claims 99% accuracy. While each finger is considered as a vowel, and combinations of fingers make up the other letters and symbols.

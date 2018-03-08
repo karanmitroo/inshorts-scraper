@@ -1,0 +1,1 @@
+A latest update of Google Maps which was rolled out on Tuesday, includes a feature which will alert users if they are heading to a place that’s closed, or will be closed by the time they get there. Estimating the total time, Google Maps will show a warning that reads, “Your destination may be closed by the time you arrive".

@@ -1,0 +1,1 @@
+Japanese technology company Sony has filed a patent for a method that will let users wirelessly charge their device from another device using Near Field Communication (NFC) technology. A device will search for nearby antennas that could help power it, the same way it searches for available Wi-Fi hotspots. Sony said the method will apply to "portable consumer electronic devices".

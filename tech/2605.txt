@@ -1,0 +1,1 @@
+Researchers have discovered code for a 'panic mode' in Android 7.1 that lets users escape an app if it tries to hijack their phone's screen. Pressing the back button four times in quick succession can override apps that seem malware-laced or have frozen and cannot be closed. The feature is still under testing by Google, researchers said.

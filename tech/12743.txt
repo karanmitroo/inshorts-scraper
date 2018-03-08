@@ -1,0 +1,1 @@
+In a surprise move, Microsoft - known for keeping the code related to its software very secret - has made source code of early versions of MS-DOS and MS Word available to public. The move is part of the company's collaboration with Computer History Museum, which is trying grasp software bits that played iconic role in the growth of computers.

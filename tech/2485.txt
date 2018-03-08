@@ -1,0 +1,1 @@
+According to a report by a cybersecurity company, hackers managed to gain access into a US casino's network through a smart fish tank. The tank was connected to the internet to automatically feed the fish. It acted as point of entry for intruders to move through the casino's network and send data to Finland before the security firm stopped them. 

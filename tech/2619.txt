@@ -1,0 +1,1 @@
+Google's self-driving car spinoff Waymo has dropped three out of four patent claims it made in a lawsuit against Uber for stealing technology. The dropped claims relate to a specific LiDAR design that Uber no longer uses, while the remaining claim pertains to an updated design still in use. LiDAR is a radar-like system that lets cars 'see' their surroundings. 

@@ -1,0 +1,1 @@
+A software engineer named Mike has put his ₹32 lakh at stake and made an online live streaming game where he asks people to pick stocks that he can buy or sell. The game called 'StockStream' allows people to vote for stocks over a five minute period. The stock with the most votes is bought by him.

@@ -1,0 +1,1 @@
+Researchers from Dartmouth College have created a smartwatch prototype called 'WristWhirl' that lets users gesture-control their watch with one hand. The proximity sensors on the watch monitor the user's hand so that tilting in a pattern can launch or switch apps. Users can turn the recognition software off by tapping their thumb and index finger together. 

@@ -1,0 +1,1 @@
+Researchers have released tools to help people hit by the global WannaCry ransomware attack unlock their computers without paying the ransom. The tools, called 'WannaKey' and 'WanaKiwi,' extract the keys to WannaCry encryption codes using prime numbers. However, the tools only work if the affected computers have not been rebooted since being infected with the malware.

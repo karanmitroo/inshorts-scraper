@@ -1,0 +1,1 @@
+Security researchers have discovered the second version of the Stagefright vulnerability that puts over a billion Android devices ranging from version 1.0- 5.0 and up at risk. It can trick users into visiting websites hosting malicious content via MP3 or MP4 files. Google has said that the vulnerability will be fixed for its Nexus devices in October 5 update.

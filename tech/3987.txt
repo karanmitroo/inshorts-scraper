@@ -1,0 +1,1 @@
+Students at the New Jersey Institute of Technology have built an app called 'FaceDate' that lets users find people to date on the basis of pictures of other people or celebrities uploaded by them. The app relies on a facial recognition algorithm to generate potential matches. The Android-based FaceDate is currently in the prototype phase.

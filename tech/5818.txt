@@ -1,0 +1,1 @@
+Google India on Wednesday added a functionality for Android and iOS users to allow booking Ola or Uber cabs directly from Google Search. On searching for directions, users will be shown a tab for cab services with fare estimates. After the user selects from Ola or Uber, Google will redirect them to the app to book rides with one tap

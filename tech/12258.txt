@@ -1,0 +1,1 @@
+Privacy software company ContentGuard has developed a photo-sharing application, called Yovo (You Only View Once) that protects pictures and messages from screenshots. The app overlays a blurred grille over the image, which moves when the receiver opens the image, but is present when the person tries taking a screenshot of the image. The app is currently available on iOS. 

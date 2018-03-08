@@ -1,0 +1,1 @@
+Netherlands' largest technological university, TU Delft has developed a hybrid drone that can fly as a fixed-wing biplane as well as a helicopter with vertical flight. The one-propeller 'DelftAcopter' has a top speed of 100 kmph, and is fully autonomous, with the ability to pick safe landing spots. It will be used to deliver medical supplies to hard-to-reach areas.

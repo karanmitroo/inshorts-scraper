@@ -1,0 +1,1 @@
+A device called 'Breath' has been developed which mines cryptocurrency via human respiration. It measures how much air is inhaled and exhaled by your lungs and then the data is sent to a small computer mining on the Monero blockchain. The user's breath determines the computer's hash rate, which then determines how much Monero the computer can mine.

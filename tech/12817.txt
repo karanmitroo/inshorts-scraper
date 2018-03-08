@@ -1,0 +1,1 @@
+Startup Bionym has developed Nymi, an electronic wristband which reportedly uses the wearer's pulse as a password to authenticate a number of devices and applications that require iron-clad security. The Nymi bracelet uses dual electrodes, integrated into the clasp, to take the wearer's pulse when they touch the clasp for a few seconds.

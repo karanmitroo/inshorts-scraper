@@ -1,0 +1,1 @@
+Microblogging website, Twitter has recently decided to display tweets from accounts that a user doesn't follow. The move, designed to add variety to user's timeline and introduce them to new accounts, has already got a thumbs down by some users. The initiative started a couple of weeks ago as an experiment, but seems to have gained permanence now.

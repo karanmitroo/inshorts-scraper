@@ -1,0 +1,1 @@
+Google has launched an update for its video chat mobile app Duo which allows users to call other users who do not have the app installed. The update, which is available to some Android phones, sends prompts to install Duo after ending the call. However, users also have the option to decline future Duo calls from that person.

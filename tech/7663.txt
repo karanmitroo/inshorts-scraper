@@ -1,0 +1,1 @@
+The TOP500 list of world’s fastest supercomputers has none of the Indian supercomputers in the top 100. India’s top system SERC-Cray XC40, developed by the Indian Institute of Science in Bengaluru is ranked 110th. A total of eight more Indian supercomputers feature in the TOP500 list. 

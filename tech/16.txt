@@ -1,0 +1,1 @@
+American startup Grayshift claims that it can unlock iPhones running iOS 10 and 11 for $15,000 via its GrayKey tool, according to reports. Grayshift, which is reportedly run by a former Apple security engineer, claims to work even on the iPhone 8 and iPhone X models. However, it is unknown as to what iOS vulnerabilities are being exploited.

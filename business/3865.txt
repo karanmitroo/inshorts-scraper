@@ -1,0 +1,1 @@
+The Reliance Jio data breach refers to customer data being posted on a website called 'magicapk.com'. The site required people to enter Jio numbers in the search field, which then revealed user details. This included “sensitive details” like names and email IDs. Although the site has been suspended, the leaked data may reportedly be on sale on dark web forums.

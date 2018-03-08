@@ -1,0 +1,1 @@
+Google has announced that it successfully made use of artificial intelligence to detect breast cancer. Google used artificial intelligence to analyse thousands of slides of cancer cells provided by a university, which helped it learn and recognise the cancer cells. Google claims that its technology can also identify cells potential to cancer, that a human might miss.

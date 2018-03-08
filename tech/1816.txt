@@ -1,0 +1,1 @@
+US-based security firm Armis has found a new Bluetooth bug called BlueBorne that can hack a phone in 10 seconds without touching it. The bug poses as a Bluetooth device and feeds malicious codes in the Bluetooth enabled phones. The attack can allow access to computers and phones, as well as IoT devices.

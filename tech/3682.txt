@@ -1,0 +1,1 @@
+Los Angeles-based startup Ring has issued a patch for its internet-connected doorbells that were accidentally sending data to China. Ring CTO Joshua Roth said that audio data of only 20 milliseconds was routed to Chinese internet giant Baidu's servers intermittently. A consulting firm hired to audit the device classified the issue as a "harmless bug" rather than a vulnerability. 

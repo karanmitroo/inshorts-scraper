@@ -1,0 +1,1 @@
+As part of its Accelerated Mobile Page (AMP) project, Google on Wednesday started displaying AMP-enabled pages in its mobile search results. The AMP project aims to bring Facebook's instant articles like experience to the open web. According to Google, the displayed links to the AMP-enabled stories load four times faster and use ten times less data than non-AMP pages.

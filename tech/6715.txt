@@ -1,0 +1,1 @@
+Automaker Ford has released the latest update on its FordPass app, which lets users reserve a parking spot in garages in real-time across 160 US cities. The users need to enter a destination and time to park, and the app shows available spots on a map with pricing. Users can then pay for the spot using Ford's payment service FordPay.

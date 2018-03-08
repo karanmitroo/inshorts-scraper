@@ -1,0 +1,2 @@
+The most popular ATM PINs are the most vulnerable ones, reveals a
+study by Data Genetics, which analyzed 3.4-million passwords. Almost 11% of the PINs were found to be 1234. The top 10 most popular PINs, which include 1234, 1111 and 0000, make up over 20% of all the passwords. The least popular PINs included 8068, 8093 and 9629.

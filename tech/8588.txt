@@ -1,0 +1,1 @@
+Five engineering students from Kochi have created a smart fan regulator, priced at ₹350, which changes its speed according to the required temperature. It lets a user input the temperature required on a 2.5 cm-wide LCD screen. The regulator either variates the speed of the fan, or shuts it down to achieve the required temperature.

@@ -1,0 +1,1 @@
+A project listed in a subreddit dedicated to developers playing Pokémon Go revealed that a developer, reportedly named Ahmed Almutawa, has created a custom Google map that shows all the nearby pokémons. The code has been posted on GitHub and requires step-by-step instructions for installation. For this, Almutawa pulled raw data including gym and pokémon locations out of the game.

@@ -1,0 +1,1 @@
+Google announced Android 4.3 OS on Wednesday with a number of improvements including the redesigned camera interface, smoother animations and Bluetooth Low Energy support. Moreover, the new Multi-User Restricted Profiles feature lets you control the usage of apps and other content on a user level and OpenGL ES-3.0 is introduced for better graphics.

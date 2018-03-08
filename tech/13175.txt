@@ -1,0 +1,1 @@
+The popular windows shortcut, Ctrl+Alt+Del, used to open the task-manager or get to the login screen, was nothing but a mistake, admitted Bill Gates during an interview at Harvard University. The shortcut, initially intended to be used just for development, turned out to be one of Windows' trademark features."We programmed at a low level. It was a mistake", said Gates. 

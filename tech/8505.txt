@@ -1,0 +1,1 @@
+Domino’s has launched an app that automatically orders pizza when opened. Initially, users have to set an ‘Easy Order’ option on the app, something they would order regularly enough, after which the zero-click app will order the said pizza every time someone opens it. The app also provides a 10-second countdown in case a user wants to cancel the order.

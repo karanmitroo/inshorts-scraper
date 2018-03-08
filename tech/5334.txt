@@ -1,0 +1,1 @@
+'Sunway TaihuLight' has topped the Top500 list of the world's fastest computers, making it the eighth time in a row that a Chinese supercomputer has emerged as the fastest in the world. The computer is capable of performing 93 thousand trillion operations per second. The second position on the list is also occupied by China with the Tianhe-2.

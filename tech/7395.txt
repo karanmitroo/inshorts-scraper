@@ -1,0 +1,1 @@
+Researchers at the Tokyo Institute of Technology have developed a skeleton robot with human-like muscles that assist its movement. The microfilament muscle "tissues" connect to joints, expand and contract like human muscles. Interestingly, the number of muscles in the robots' legs is same as in human legs. It can also move its other body parts such as arms and jaws.

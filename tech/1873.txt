@@ -1,0 +1,1 @@
+US-based startup Allegro has developed a ₹8,200 smart plant pot that waters itself. The pot sprays water on the plant pumped through the water reservoir present at its bottom by sensing the humidity of the soil. The app connected pot also detects when the water level is running low in its reservoir and notifies the same to the user.

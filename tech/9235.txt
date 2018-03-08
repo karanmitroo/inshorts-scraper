@@ -1,0 +1,1 @@
+Swedish torrent website The Pirate Bay on Friday introduced a new feature that lets users stream media torrents directly on their browsers. The feature currently in beta, named “Stream It!”, uses a plugin provided by torrent streaming service 'Torrents Time', to stream content in the browser. 'Torrents Time' said that soon the feature will also be adopted by Kickass Torrents.

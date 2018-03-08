@@ -1,0 +1,1 @@
+Google has announced that Chrome will mark all HTTP sites as "not secure", beginning July this year. Chrome's new interface will help users understand that all HTTP sites are not secure, and continue to move the web towards a secure HTTPS web by default. The "S" in HTTPS stands for "secure", implying the communication between browser and website is encrypted.

@@ -1,0 +1,1 @@
+Following the iOS-7 release, a new security hole has been found which enables intruders bypass passcode on any iOS-7 device to get access to the user's Messages, Mail, Twitter, Facebook and Flickr accounts via the sharing menu. Simply going to the Settings app, tapping on Control Center and turning off 'Access on Lock Screen' option can prevent your iPhone.

@@ -1,0 +1,1 @@
+Google demonstrated a new feature of its Android OS which allows its Now service to plug in as a layer that essentially hovers above any app running on a smartphone. The feature pulls data from the running app and allows the user to get contextual search information. It is activated by the home button and always stays in users' view.

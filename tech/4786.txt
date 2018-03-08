@@ -1,0 +1,1 @@
+FridgeCam, a smart camera made by British company Smarter, tracks the contents of refrigerators to remind users when the food will expire. The wireless camera allows users to see the contents of their fridge using a connected app and receive reminders about which groceries to pick up. The app also has the option of automatic ordering via preferred online grocers.

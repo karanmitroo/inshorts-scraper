@@ -1,0 +1,1 @@
+Researchers at Jordan's Mu’tah University have developed a technology to identify terrorists from the unique “V for victory” sign they make with their hands. The team collected images of V-signs made by 50 men and women of different ages to create a database of 500 images. These images were used to create a machine learning algorithm which claims 90% accuracy.

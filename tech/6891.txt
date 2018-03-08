@@ -1,0 +1,1 @@
+Samsung has integrated IBM's brain-like chip TrueNorth into its Dynamic Vision Sensor (DVS) to process digital imagery at a faster rate. A DVS-equipped device can capture at 2,000 frames per second (fps), compared to 120 fps for traditional digital cameras. IBM's chip attempts to resemble the human brain functions with 4,096 cores to create 256 million connections.

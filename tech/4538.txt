@@ -1,0 +1,1 @@
+The world's first computer virus for an IBM computer, called 'Brain', was released 31 years ago on January 19, 1986. Brain was created by Basit and Amjad Farooq Alvi from Lahore, Pakistan. The virus, which was transmitted through floppy disks, installed itself into a computer's memory, from where it infected new floppies as they were inserted.

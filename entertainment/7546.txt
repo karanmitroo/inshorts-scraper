@@ -1,0 +1,1 @@
+Television Rating Point (TRP) is a tool to judge which programmes are viewed the most and helps to provide information about choice of people and a channel's popularity. A device is attached to a sample set of TVs to help calculate the viewership. This data, taken over a 30-day period, are treated as a sample for people across geographical sectors.

@@ -1,0 +1,1 @@
+Web-hosting service GitHub revealed it suffered a cyber attack where it was bombarded with fake traffic at 1.35 terabits per second on February 28. GitHub said it was the world's biggest distributed denial-of-service (DDoS) attack, interrupting its services for ten minutes. However, at no point the confidentiality and data of GitHub's 28 million users were at risk, it claimed.

@@ -1,0 +1,1 @@
+Amazon has launched a checkout-free hi-tech grocery store called 'Amazon Go' in Seattle, US. It uses ceiling-mounted cameras to identify each customer and track what items they select, eliminating the need for billing. The sensors detect when products are taken from shelves and maintain a virtual cart. The purchases are billed to customers' credit cards when they leave the store.

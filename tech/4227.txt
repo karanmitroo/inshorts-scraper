@@ -1,0 +1,1 @@
+A report by Russian software company ElcomSoft claimed that the company had found a way to retrieve a database of deleted Safari histories that Apple stored on its iCloud storage system. ElcomSoft said the records included site names, URLs, and when a website was visited. However, Apple reportedly fixed the bug within a few hours of the report being published.

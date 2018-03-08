@@ -1,0 +1,1 @@
+Facebook has awarded a security researcher $10,000 (₹6.8 lakh) for finding a bug that allowed users to delete videos uploaded by other people. The vulnerability, which has now been fixed, could be exploited by creating a new event page on Facebook and swapping the Video ID of a newly-uploaded video with any video the event owner wanted to delete.

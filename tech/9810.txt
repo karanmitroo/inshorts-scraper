@@ -1,0 +1,1 @@
+Microsoft has acquired Metanautix, a US-based data analytics startup that helps companies draw insights out of big data, in an undisclosed deal. Microsoft will integrate Metanautix into its “data platform, including SQL Server and the Cortana Analytics Suite.” Metanautix was founded in 2012 and reportedly had a backing of $7 million in capital.

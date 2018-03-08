@@ -1,0 +1,1 @@
+Researchers at MIT have developed Polaris, a tool which they claim can reduce page load time by 34%. Their technique focuses on mapping connections between different objects on a page to dynamically figure out the most efficient route for a browser to load them. Notably, Polaris was tested across a range of network conditions on top 200 websites (via Alexa).

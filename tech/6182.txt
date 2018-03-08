@@ -1,0 +1,1 @@
+US-based independent developer, Genady Okrain has developed an iMessage app, called Momento, that 'automatically' turns photos from an iPhone user's camera roll into GIFs. The app scans the user's photo library to figure out which photos will make good GIFs, then makes them available for sharing. The app is available on the iMessage App Store priced at $1.99.

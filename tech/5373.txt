@@ -1,0 +1,1 @@
+A five-minute video details the working of modern hard drives and how they are based on a stack of high-speed spinning discs with recording heads. It explains how data is recorded as a magnetic pattern in the form of binary information. It adds that the hard drive's density has now become 300 million times greater than IBM's first hard drive.

@@ -1,0 +1,1 @@
+In an attempt to protect the endangered sea cow, Queensland University researchers have used Google's TensorFlow machine learning software to create a detector that automatically spots the aquatic mammals in ocean images. The initial version of the detector could accurately spot 80% of the sea cows that had been confirmed in existing photos.

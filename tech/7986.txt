@@ -1,0 +1,1 @@
+Researchers from Germany-based Fraunhofer Institute for Applied Solid State Physics claimed to have set a new world record in wireless data transmission by achieving a data rate of 6 GB per second over 36.7 kilometers. For the system that broke the previous record by a factor of 10, the team used ultra-efficient transmitters and receivers along with special low-noise amplifiers.

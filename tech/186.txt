@@ -1,0 +1,1 @@
+Technology giant Google has discovered another security flaw in Microsoft's Edge browser before Microsoft was ready to patch it. Google reportedly disclosed the bug to Microsoft in November and provided 90 days for the company to fix it before going public. This comes after Microsoft disclosed a Chrome security bug last year and criticised Google's approach to security patches. 

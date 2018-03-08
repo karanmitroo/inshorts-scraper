@@ -1,0 +1,1 @@
+The hacker who stole 1.7 crore Zomato user records has confronted the food discovery platform and said the records were hacked to make Zomato launch a bug bounty program. Adding the hack was intended to make Zomato aware of its security vulnerabilities, the hacker agreed to delete all stolen records. Zomato announced it will soon launch a bug bounty program.

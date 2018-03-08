@@ -1,0 +1,1 @@
+Apple has filed a patent for a system that would highlight the autocorrected terms in a text for both the sender and the receiver. The patent covers several ways to draw the user's attention to an autocorrected word such as a change in font colour and font size. However, the receiver won't be able to see the original words.

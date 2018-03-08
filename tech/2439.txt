@@ -1,0 +1,2 @@
+Sweden's transport agency mistakenly leaked private data of every citizen with a driver's license, including military and police officials. The data was exposed after the agency outsourced unencrypted data to IBM, which moved it to a cloud server. Calling the breach a "disaster", the government has fined the agency's ex-Director Maria Agren $8,500 for being careless with secret information.
+

@@ -1,0 +1,1 @@
+WhatsApp, in its latest update, has introduced a feature which will inform you whether the recipient has read your message or not; the double check marks become blue as soon as the message is read. Moreover, you can long press on a message to access a ‘Message Info‘ screen, detailing the times when the message was received, read or played.

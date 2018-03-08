@@ -1,0 +1,1 @@
+Facebook-owned WhatsApp has started rolling out two-step verification to its 1.2 billion users on iOS, Android, and Windows devices. Two-step verification will let users add a six-digit passcode to their WhatsApp accounts to ensure that nobody else can activate an account using their phone number. Users will be periodically prompted to enter the code to help them remember it.

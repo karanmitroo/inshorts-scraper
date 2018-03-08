@@ -1,0 +1,1 @@
+Technology giant Apple has confirmed that all Mac systems and iOS devices are affected by Meltdown and Spectre bugs. The company added that "no known exploits impacting customers at this time" have been discovered. This comes after American chipmaker Intel admitted that its chips have a vulnerability that could affect computers and phones globally.

@@ -1,0 +1,1 @@
+Researchers at the Swiss Federal Institute of Technology (EPFL) in Switzerland have developed a fleshy-looking soft robotic muscle that is powered by vacuum. The basic module of this bot comprises of three air or gas pumps that expand and collapse to change direction. These units can be stacked together like Legos, and share the same power source and control system. 

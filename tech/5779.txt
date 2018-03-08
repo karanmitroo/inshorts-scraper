@@ -1,0 +1,1 @@
+Productivity app Slack has integrated with Google Drive, which will let users create Google Docs, Sheets, Slides and share these files within Slack. Users' original sharing preferences will be preserved so that only user-specified people can access the files. Further, Drive files shared in Slack are automatically searchable, so users can quickly find past conversations and files.

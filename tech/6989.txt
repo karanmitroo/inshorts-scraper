@@ -1,0 +1,1 @@
+Researchers at the Canada-based McGill University have created a palm-sized drone that can make drawings with dots while its flying. The drone is programmed with algorithms that allows it to apply each payload of ink accurately and efficiently. It is enabled with internal sensors and a motion capture system to help it put the ink at the right places.

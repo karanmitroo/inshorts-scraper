@@ -1,0 +1,1 @@
+Marco Marsala, a man who runs a web hosting company, claimed to have accidentally deleted his company with data of over 1535 customers by typing a wrong code on his computer server. The code, “rm -rf” reportedly  also blocked warnings that informs the user of any deletion. Everything got erased as the code didn't specify what Marsala wanted to delete.

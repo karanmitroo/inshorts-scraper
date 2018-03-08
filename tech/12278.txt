@@ -1,0 +1,1 @@
+Google will soon enable a faster search capability for mobile phones with slower network connections in India. Using a new streamlined version of its search results page, it will automatically check if a user has a slow wireless connection and deliver a fast loading version of Search. Fewer bytes means users get answers faster, Google software engineer Bharat Mediratta said.

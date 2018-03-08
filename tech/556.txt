@@ -1,0 +1,1 @@
+Intel on Wednesday said that the security patches for recently found vulnerabilities may be causing computers with newer chips to reboot as well. In a blog post, Intel VP Navin Shenoy said firmware-updated PCs with processors including Ivy Bridge, Skylake, and Kaby Lake are affected. Earlier, Intel said that the security patches were causing reboot problems for older processors.

@@ -1,0 +1,1 @@
+Tokyo researchers have developed a super-thin e-skin that lights up a digital display on a user’s body. The ultra-stretchy e-skin is mounted with thin OLED displays and photosensitive diodes, that when hit with electrical pulses, light up to mimic pixels on a normal screen. This on-skin display can be used to provide information like heart rate and blood sugar.

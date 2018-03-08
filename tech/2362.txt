@@ -1,0 +1,1 @@
+Fitness app POPin lets users pay per minute for working out in gyms in US by scanning a code on their phone. According to POPin Co-founder Dalton Han, the app gives users complete control over their workout routine and fitness budget. For example, a gym membership that costs about ₹16,000 per month would cost ₹500 for 30 minutes through POPin.

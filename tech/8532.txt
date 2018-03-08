@@ -1,0 +1,1 @@
+MIT researchers have developed a system called Chronos that enables Wi-Fi access points to locate users without external sensors. The system can help in developing password-free Wi-Fi technology. A user's location is determined by calculating the time taken by the data to travel from user to the access point. The system was found to determine users' location with 97% accuracy.

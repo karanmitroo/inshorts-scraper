@@ -1,0 +1,1 @@
+About two months after rolling out its latest Android 7.1.1 Nougat update for the Nexus 6 smartphone, Google has confirmed that it is downgrading the smartphone to Android 7.0. The company said the downgrade will "guarantee future OTA updates" to users of Google's Motorola-made Nexus 6. However, some Nexus 6 owners have complained of third-party apps crashing after the downgrade.

@@ -1,0 +1,1 @@
+Google has released two large datasets, one containing images and the other YouTube videos, for the machine learning community. While 'Open Images' contains around nine million 'tagged' images, 'YouTube-8M' contains eight million video URLs. The datasets can be useful to researchers and app developers for 'training' their algorithms using personal-level computing power.

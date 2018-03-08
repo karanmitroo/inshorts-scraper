@@ -1,0 +1,1 @@
+WhatsApp on Tuesday rolled out its voice calling feature for Windows users, after introducing the feature for Android in March and iOS in April. The new version of the app, version 2.12.60, will also let Windows users send audio files via chat.  The feature, however, is limited to devices that have Windows Phone 8.1+ installed. 

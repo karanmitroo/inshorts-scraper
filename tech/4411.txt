@@ -1,0 +1,1 @@
+Apple has removed a tool that allowed buyers to check whether an iPhone is Activation Locked, helping the ones interested in purchasing used devices to avoid the stolen ones. The tool allowed users to check if Activation Lock was active on entering the IMEI number. The lock prevents anyone else from using an Apple device when it's lost or stolen.

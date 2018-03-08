@@ -1,0 +1,1 @@
+Cryptocurrency exchange EtherDelta suffered a security breach as hackers managed to take  control over its DNS server and redirected the etherdelta.com domain to a malicious server hosting a copy of their website. EtherDelta confirmed the attack on Twitter and advised all users not to use the site. Reportedly, the hackers managed to steal nearly $240,000 worth Ethereum.

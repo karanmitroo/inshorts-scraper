@@ -1,0 +1,1 @@
+A new research study shows that satellite imagery combined with machine learning algorithms can be used to predict regions of poverty in the world. The proposed algorithm combines daytime and nighttime satellite images with economic survey data to create a more accurate distribution of wealth in a region than that provided by conventional 'night lights' models.

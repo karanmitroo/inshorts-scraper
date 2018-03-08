@@ -1,0 +1,1 @@
+A team of college students from the US has developed a browser extension called 'Open Mind' that alerts users of fake and biased news stories. Open Mind was developed earlier this month during a 36-hour hackathon at Yale University. The extension also curates a user's news feed to show alternative stories to the ones they have been reading.

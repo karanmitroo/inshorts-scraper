@@ -1,0 +1,1 @@
+Google has released an update for its browser-based operating system Chrome OS that includes a beta version of the Google Play Store. The update, which is compatible only with Acer Chromebook R11 and ASUS Chromebook Flip laptops, lets users run Android applications besides standard web access. The update is expected to be rolled out to other Chromebook devices by 2017.

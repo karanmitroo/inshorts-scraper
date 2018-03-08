@@ -1,0 +1,1 @@
+CloudMagic, a mobile e-mail application, has added a Sender Profile feature that lets users view a summary of information about the person who e-mailed them. The information includes job title, workplace, location, homepage and social profiles on Facebook, Twitter and LinkedIn. A user can also access Sender Profiles by tapping on a sender’s contact picture in his inbox.

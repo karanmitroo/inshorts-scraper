@@ -1,0 +1,1 @@
+A lot of people reported of having a problem with Google-mail. A search on Twitter for 'Gmail-down' also reveals a steady stream of users reporting similar problems. The Google Apps Status Dashboard shows that a service disruption was picked up for Gmail at 3:25pm BST. The description of the status report, as usual, says that Google is investigating the problem.

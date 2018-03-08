@@ -1,0 +1,1 @@
+WhatsApp has rolled out a feature for iOS which allows users to switch to video during voice calls with a single tap. Once users make a voice call to their contacts, an icon appears at the centre for switching to a video call. Earlier, users had to disconnect a voice call to place a video call with the same contact.

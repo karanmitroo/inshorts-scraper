@@ -1,0 +1,1 @@
+Cybercriminals are using a malware downloader that installs a banking Trojan to computers even if the users don't click on anything. All it takes to trigger the malware download is to hover the mouse pointer over a hyperlink in a carrier PowerPoint file. The file has a single hyperlink that says "Loading... please wait" which has an embedded malicious script.

@@ -1,0 +1,1 @@
+Google's Advanced Technology and Projects (ATAP) worked with LG to assemble a smartwatch that can understand subtle hand gestures. The watch, which supports touch and speech input, was made using ATAP's Project Soli which Google had unveiled last year. Project Soli is a wearable device that uses gesture radar technology to make the user's hand the main interface.

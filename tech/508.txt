@@ -1,0 +1,1 @@
+Smartphone maker OnePlus has admitted that credit card information of up to 40,000 customers on its website has been compromised. A malicious script was running on one of its payment processing servers affecting users who entered their credit card details since mid-November 2017. It clarified that customers who paid using saved credit cards or PayPal were not affected.

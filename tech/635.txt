@@ -1,0 +1,1 @@
+A bug that allows a user with local administrator access to unlock App Store preferences in macOS  High Sierra by using a fake password has been discovered. App Store preferences can be opened from the System Preferences to click on padlock to unlock it and enter a bogus password. Following this, access to change preferences is granted to the user.

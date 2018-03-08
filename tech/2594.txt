@@ -1,0 +1,1 @@
+An UrbanClap user claimed he discovered a bug that let him book unlimited services on its portal for free. Udit Agarwal, a software engineer, shared a post demonstrating how he booked a service worth ₹2,299 for ₹1 by manually entering the transaction into UrbanClap's system and changing its value. The startup fixed the bug and awarded Agarwal 5,000 UrbanClap credits.

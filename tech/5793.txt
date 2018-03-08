@@ -1,0 +1,1 @@
+Tesla CEO Elon Musk announced on Wednesday that all Tesla cars being produced will have the hardware to achieve full Level 5 self-driving. To prove the safety of Tesla's autonomous Autopilot mode, the cars will initially run with Autopilot in the background in "shadow mode" which will register how the car would have acted if the computer was in control.

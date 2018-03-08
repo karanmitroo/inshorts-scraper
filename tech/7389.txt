@@ -1,0 +1,1 @@
+In January 2016, German engineer Albert Beer's robot Sub1 solved a standard 3x3x3 Rubik's Cube in a record 0.887 seconds, becoming the fastest Rubik's Cube solver. Remarkably, the fastest human solver, Lucas Etter (US) took 4.904 seconds to achieve the same feat. The Rubik's Cube was invented in 1974 by Hungarian architecture professor Ernő Rubik, who turns 72 today.

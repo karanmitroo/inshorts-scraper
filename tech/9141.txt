@@ -1,0 +1,1 @@
+A brother-sister duo Rahul Baxi and Prachi Baxi have developed a smart cooking pan 'SmartyPans', that tracks nutrition in real-time and also gives step-by-step cooking instructions. Controlled through a dedicated app, the pan has in-built temperature and weight sensors. It also calculates the calories as the user cooks, and syncs with fitness trackers.

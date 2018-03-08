@@ -1,0 +1,1 @@
+According to media reports, WhatsApp is disabling links of rival company Telegram on Android devices. Telegram URLs are appearing as plain messages on the chat service instead of hyperlinks, and can’t be copy-pasted. Telegram, a cloud-based instant messaging service,  is available on multiple platforms and boasts of 50 million downloads.

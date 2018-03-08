@@ -1,0 +1,1 @@
+Following the rebranding of Google's productivity apps as G Suite, Google Maps and Calendar on Android will combine to give a quick visual reference for where users' various appointments will take place. The users need to be signed into both apps with the same account and put the event's address in the "where" box when creating a Calendar entry.

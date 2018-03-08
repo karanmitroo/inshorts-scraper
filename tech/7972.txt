@@ -1,0 +1,1 @@
+Researchers from the Leibniz University of Hannover in Germany are developing an "artificial robot nervous system to teach robots how to feel pain" and quickly respond to avoid potential damage to its body parts. The robotic nervous system classifies the information as light, moderate or severe pain and then responds appropriately depending on the type of pain.

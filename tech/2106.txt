@@ -1,0 +1,1 @@
+According to Chicago's Election Commission, the names, addresses, and dates of birth of around 18 lakh registered voters were publicly exposed online on an Amazon cloud-computing server earlier this month. The data was a back-up file stored on Amazon Web Services' (AWS) servers. The file was later taken down after officials were informed of the exposure by a security researcher. 

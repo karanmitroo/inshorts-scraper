@@ -1,0 +1,1 @@
+Google has announced its plan to boost rankings of high-quality apps on the Play Store and demote apps with bugs and other performance issues. It will also incorporate app quality signals in its ranking algorithms to flag faulty apps. For example, Google will consider things like app crashes, battery usage, and the total number of uninstalls the app has.

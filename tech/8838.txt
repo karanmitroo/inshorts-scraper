@@ -1,0 +1,1 @@
+Microsoft on Monday announced that it will launch its database software SQL Server on Linux operating system in 2017. A preview version of the software has been made available on Linux, sporting the core relational database features of SQL Server 2016. The company also said that it will roll-out some performance improving features like in-memory database support on Thursday.

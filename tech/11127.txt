@@ -1,0 +1,1 @@
+Google is working on highly intelligent robots that can count the calories people are consuming after analysing the amount of food on a plate. The system, called Im2Calories, recognises individual pieces of food, measures how big they are in relation to the plate, and then converts them into calories. The technology aims to help people who are dieting, Google said.

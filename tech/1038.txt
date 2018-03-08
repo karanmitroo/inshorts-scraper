@@ -1,0 +1,1 @@
+Twitter has admitted that a city-level location was revealed of users who may not have intended to tag a city in their tweets. Twitter said that the issue affected "a small percentage of people" who had their location sharing option turned on in settings. The bug affected users who tweeted from 'https://twitter.com', and tapped to add an emoji or GIF.

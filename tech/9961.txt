@@ -1,0 +1,1 @@
+Microsoft has launched a new add-in tool to Outlook called FindTime aimed at helping co-workers better schedule meetings. Through it, users can suggest various times for a meeting and invite attendees to vote on the same or specify their own time slots. Although FindTime is integrated within Outlook, the meeting polls can be sent to people using other e-mail platforms.

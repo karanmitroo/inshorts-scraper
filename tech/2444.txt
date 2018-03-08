@@ -1,0 +1,1 @@
+According to reports, Google has decided to drop 'Ok Google' voice search from the upcoming version of Chrome OS and future Chromebooks. The search option will be replaced by Google's digital assistant, which is already in use on Android and Google Home devices. In existing Chromebooks, Google Assistant will be activated using the keyboard shortcut 'Search +A', reports added.

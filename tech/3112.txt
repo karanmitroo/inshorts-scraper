@@ -1,0 +1,1 @@
+Researchers have discovered a bug that lets malicious websites slow down and crash Windows 7, Windows 8, and Windows Vista PCs. The bug, which is similar to a flaw in Windows 95 and Windows 98, locks down the system when a user tries to load a website's image file which has "$MFT" in the directory path.

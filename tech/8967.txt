@@ -1,0 +1,1 @@
+Google has launched new tools for Android developers to help them better analyze the ratings and reviews of their apps. For this, Google has implemented dedicated pages containing ratings and reviews of a developer's app. The page will feature daily, weekly and monthly variations of the app ratings, and will also allow searching a review for specific topics and keywords.

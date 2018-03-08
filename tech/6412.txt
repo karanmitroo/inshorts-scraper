@@ -1,0 +1,1 @@
+US-based researchers have developed a new lightweight design for harvesting body heat and converting it into electricity for use in wearable electronics. Previous approaches used "bulky and stiff" heat sinks while the new system is 2mm thick and flexible, said the researchers. The team also identified that the upper arm was the optimal site on the body for heat harvesting.

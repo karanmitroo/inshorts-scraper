@@ -1,0 +1,1 @@
+WhatsApp on iOS retains traces of chat logs even after deleting them, according to a recent report by iOS researcher Jonathan Zdziarski. He said the data can be recovered using remote backup systems or by anyone with physical access to the device. Blaming the use of SQLite library, he added that the problem can also be seen in Apple's iMessage.

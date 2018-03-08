@@ -1,0 +1,1 @@
+Researchers from the University of California in Berkeley have created a new type of thread that can change its color when a voltage is applied across it. The technology, called Ebb, is being developed as part of Project Jacquard, one of Google's spin-off ventures which is aimed at studying the potential of making clothes interactive and touch-sensitive.

@@ -1,0 +1,1 @@
+American automaker Ford is collaborating with MIT researchers on a new project to create self-driving electric shuttles to operate on the university’s Boston campus. The shuttles will be equipped with cameras and a LiDAR system to monitor pedestrian flow, which helps predict demand and plan routes for the shuttles. The shuttles will be available for service via an app.

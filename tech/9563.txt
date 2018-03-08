@@ -1,0 +1,1 @@
+The next update of Google Maps for Android will sport a new feature called 'Driving Mode' that would be able to automatically figure out users' destination while they drive, according to reports by Android Police. After detecting the destination based on users' search and location history, the new feature would then provide traffic updates and estimated drive time.

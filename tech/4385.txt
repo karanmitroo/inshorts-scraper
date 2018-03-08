@@ -1,0 +1,1 @@
+Researchers at MIT developed a smartwatch app that can detect and display the mood of the wearer. The app analyses speech and tone of the speaker and decides the emotion a person is feeling for every five-second block of conversation. The app's software can recognise the tone shifts from positive, through neutral and down to negative.

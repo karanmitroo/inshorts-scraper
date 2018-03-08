@@ -1,0 +1,1 @@
+Microsoft on Monday announced a research group in India to develop data-driven eye care services. The company is working with researchers from Brazil, Australia, India and the US to train machine learning models to identify conditions that can lead to blindness. The research aims to predict outcomes for refractive surgery and the rate of change of myopia in children.

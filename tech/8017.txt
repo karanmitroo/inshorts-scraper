@@ -1,0 +1,1 @@
+British Fintech company Intelligent Environments has created a banking platform called 'Interact IoT' that links smart devices to a bank account. It has teamed up with Pavlok, a wristband that gives an electric shock to users if their balance goes below a set spending limit. It also issues an alert on the smartphone if a user nears the spending limit.

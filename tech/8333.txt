@@ -1,0 +1,1 @@
+Microsoft on Wednesday updated its Translator app on Android to add support for image translation. Users can translate the text inside the pictures on their phones, with the translation appearing in an overlay above the existing text. The company said, “[Y]ou no longer need to type text or say foreign language phrases...when you see them written on signs, menus, flyers”.

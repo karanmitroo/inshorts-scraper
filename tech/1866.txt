@@ -1,0 +1,1 @@
+Stanford researchers have developed an AI that can accurately guess a person's sexual orientation based on facial images. The AI was tested using over 35,000 photos that people publicly posted on a dating website. The algorithm could correctly distinguish between gay and straight men 81% of the time, and 74% for women based on features, expressions and "grooming styles". 

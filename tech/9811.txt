@@ -1,0 +1,1 @@
+Whistleblower Edward Snowden has called instant messaging app Telegram “dangerous” and “unsafe”. A concern over the app’s security issues was first raised by US-based security firm Thomas H Ptacek which claimed that Telegram “stores the plaintext of every message every user has ever sent or received” by default. However, Telegram’s founder Pavel Durov denied the allegation.

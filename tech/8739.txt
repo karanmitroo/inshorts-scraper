@@ -1,0 +1,1 @@
+According to a new Google report, around 77% of its user traffic is now encrypted, up from 52% at the end of 2013. The statistics, which covered all Google products except YouTube, revealed that its Gmail service is completely encrypted while Maps is 83% encrypted. The report also mentioned that 95.5% of its unencrypted traffic originates from mobile devices.

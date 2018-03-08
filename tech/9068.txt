@@ -1,0 +1,1 @@
+Apple has released a software update (iOS 9.2.1) for fixing ‘Error 53’, which was bricking iPhones whose home buttons were repaired by non-Apple service centers. The update will allow customers to restore their bricked iPhones using iTunes. Apple said, “We apologize for any inconvenience, this was designed to be a factory test and was not intended to affect customers”.

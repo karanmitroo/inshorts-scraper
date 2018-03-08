@@ -1,0 +1,1 @@
+NASA is offering $55,000 (over ₹35 lakh) in overall cash prizes to winners of its computing challenge to speed up the supercomputer codes for aerospace software. Participants would be required to download the original Fortran code from NASA's website and speed up its processing by 10-1,000 times without decrease in accuracy. However, the challenge is open for US citizens only.

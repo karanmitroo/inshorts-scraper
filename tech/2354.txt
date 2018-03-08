@@ -1,0 +1,1 @@
+Chrome extension 'Copyfish' was recently hacked to flood its 30,000 users with ads. The hack took place when one of Copyfish's developers accessed a malicious link in an email. The email urged the developer to update his extension, or it would be removed from the Chrome Web Store. It took Copyfish team a day to realise the attack.

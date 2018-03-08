@@ -1,0 +1,1 @@
+Wei Xiaoyong, a science professor at China's Sichuan University, is using a custom facial recognition software to determine the level of interest shown by students attending his lectures. The software generates a 'curve' for each student showing how much they are either “happy" or “neutral”, and that data can indicate whether or not they are bored, he said.

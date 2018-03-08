@@ -1,0 +1,1 @@
+Facebook Messenger has started rolling out multiple account support on Android, allowing multiple users to log in to the service from a single device. It is also testing SMS integration on Android, letting users send and receive SMS messages directly from the app. If an SMS is being sent via Messenger, the messages appear as Purple bubbles instead of Blue.

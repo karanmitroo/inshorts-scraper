@@ -1,0 +1,1 @@
+Canada-based researchers have designed a software that can safeguard data even when a computer is in sleep mode. Called 'Hypnoguard', the software encrypts a computer's RAM before it enters sleep mode, and decrypts it using un-bypassable, hardware-backed user authentication. To a user, the process is similar to entering an 'unlock' password, the researchers added.

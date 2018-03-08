@@ -1,0 +1,1 @@
+Amazon has rolled out an update for their wireless speaker and voice command device Echo which would enable the device to read Kindle books to the user out loud. The new feature can be enabled by saying "Alexa, read [Kindle book title]". The users can also traverse through a title by 'go forward', 'pause', and 'resume my book' commands.

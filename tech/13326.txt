@@ -1,0 +1,1 @@
+India became the 2nd most-rewarded country, with US at the top, in the Bug Bounty program of Facebook. The social-networking giant gave bounties worth over $1-million to 329 people under this program in the last two-years for finding bugs in its products. UK, Turkey, and Germany followed India in Top-5.  Facebook hired two of them for full-time in its security-team.

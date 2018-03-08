@@ -1,0 +1,1 @@
+Oracle won a legal victory against Google on Friday as a US appeals court decided Oracle could copyright parts of the Java programming language, which Google used to design Android. Oracle sued Google in 2010, claiming that Google had improperly incorporated parts of Java into Android. Oracle is seeking roughly $1 billion on its copyright claims. 

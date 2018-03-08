@@ -1,0 +1,1 @@
+Facebook is testing an update under which it will push most relevant stories on the top during slow internet connections when users’ News Feeds aren’t refreshing. For users to still see new stories, it will take all previously downloaded unseen stories and rank them on the basis of relevance. Facebook has also introduced the ability to compose comments when offline.

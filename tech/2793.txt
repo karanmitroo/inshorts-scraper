@@ -1,0 +1,1 @@
+A Redditor named 'Darby Crash' has built a website called 'Poet in Chief', which selects random tweets by US President Donald Trump to create a poem. Users can click on each separate line of the poem to see the original tweet. Earlier, an engineer built a stock-picking bot that predicted how stock prices would react to Trump's tweets.

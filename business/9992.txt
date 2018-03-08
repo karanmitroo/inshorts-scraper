@@ -1,0 +1,1 @@
+The Bureau of Energy Efficiency has introduced a new star rating methodology for measuring the energy efficiency of air conditioners (AC) to address the issue of different climatic zones in India. It measures the energy efficiency of ACs based on a weighted average of its performance at outside temperatures between 24° and 43° celsius based on Indian weather data. 

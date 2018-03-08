@@ -1,0 +1,1 @@
+After facing flak for allegedly removing Palestine from Maps, Google has explained that it had never labeled Palestine at all. Google Maps define regions along a dashed border around West Bank and Gaza as 'Palestinian territories' when clicked. However, Google discovered a bug that removed the 'West Bank' and 'Gaza Strip' labels and said it is working to restore them.

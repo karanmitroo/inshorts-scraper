@@ -1,0 +1,1 @@
+For finding a way to predict prices of assets like stocks and bonds, three American professors, Eugene Fama and Lars Hansen from the University of Chicago, and Robert Shiller from Yale, have been awarded the 2013-Nobel Prize in economics. They demonstrated that stock prices are extremely difficult to predict in the short run(days/weeks), but easily predictable in long run(years).

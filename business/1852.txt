@@ -1,0 +1,1 @@
+FASTag is an electronic toll collection device that enables automatic deduction of toll charges every time one drives through toll plazas. Affixed on windscreen of the vehicle, FASTag employs RFID technology for making payments directly from a prepaid account linked to it. FASTag stickers are valid for 5 years and can be bought from toll plazas, banks and authorised dealers.

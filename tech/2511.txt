@@ -1,0 +1,1 @@
+A Chrome extension called 'Soothe' claims to blur out content that is considered homophobic, racist, sexist, transphobic, violent, and sexually violent by its users. The extension analyses the content of every website the user visits to blur out the 'offensive' language. However, users also have the option to reveal hidden content by clicking on the blurred text.

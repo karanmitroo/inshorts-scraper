@@ -1,0 +1,1 @@
+Google’s DeepMind AI unit has created a machine-generated speech system, called WaveNet, that sounds 50% more realistic than any of its existing text-to-speech programs, according to blind test subjects. DeepMind, which was acquired by Google for about $533 million in 2014, employed an artificial neural network to mimic sound waves formed by an actual human voice.

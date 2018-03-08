@@ -1,0 +1,1 @@
+A French school is set to introduce facial recognition in its classes to identify students who do not pay attention. A software called Nestor will use students' webcams to analyse the eye movements and facial expressions during a video lecture. It will then create quizzes based on the content covered during the students' moments of inattentiveness.

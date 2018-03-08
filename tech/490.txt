@@ -1,0 +1,1 @@
+Google is rolling out an Android Oreo update which displays WiFi speeds before connecting to networks. Users with 8.1 installed will be able to see one of four qualifiers next to open WiFi networks like 'Very Fast', 'Fast', 'OK' and 'Slow'. However, speeds won't show up for protected networks, and admins can also opt-out from having their connection speed displayed.

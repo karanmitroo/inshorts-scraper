@@ -1,0 +1,1 @@
+A Kolkata-based startup has built an app called 'Regular.li' that can turn any smartphone or computer into an attendance register. The app uses GPS and Wi-Fi SSID to mark the presence of a user in a selected area and uses selfies to ensure the check-in. It also allows tracking users in real-time and provides a detailed report every month.

@@ -1,0 +1,1 @@
+Microsoft recently launched a prototype mosquito trap that can collect several data points like the breed, temperature, wind, humidity and the time at which a mosquito was captured. The system is then expected to provide faster and more accurate information about where disease-bearing mosquitoes can be found. A pilot program has been deployed in Houston.

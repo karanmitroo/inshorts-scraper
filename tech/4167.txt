@@ -1,0 +1,1 @@
+Astro Teller, head of Google's experimental wing has announced that the company will use 100 times fewer balloons under Project Loon to beam internet to the ground. The original plan was to create a network of such balloons, 20 kilometers up in the earth's stratosphere. Google's new algorithms can create clusters of balloons over specific regions where people need internet. 

@@ -1,0 +1,1 @@
+Cryptocurrency startup Tether has said that nearly $31 million worth of its tokens have been stolen "through malicious action by an external attacker". The tokens were removed from one of the company's core "treasury wallets" and sent to an unauthorised Bitcoin address on November 19. Tether said it has flagged the tokens and that it is working to recover them.

@@ -1,0 +1,1 @@
+Panasonic has developed technology to prevent drivers from falling asleep while driving. The system uses a facial capture camera, which can detect around 1,800 facial expressions and blink parameters, and activates the car's AC or alarms on detecting a drowsy driver. It also has an infrared sensor to tell how fast the driver is losing heat, or falling asleep.

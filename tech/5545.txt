@@ -1,0 +1,1 @@
+The Telecom Regulatory Authority of India (TRAI) doubled the minimum broadband speed and fixed it to 512 kbps from the previously mandated 256 kbps speed. Internet service providers will have to ensure that the speed of broadband connections does not go below 512 kbps in any circumstance, TRAI said. The government earlier wanted 2 mbps as the minimum broadband speed. 

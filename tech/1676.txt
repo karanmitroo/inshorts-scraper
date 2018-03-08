@@ -1,0 +1,1 @@
+Micro-blogging site Twitter has confirmed that it is testing an Android app for Twitter Lite, a website it launched to minimise data usage. The app, which is being tested in the Philippines, features 'Data Saver' mode which doesn't display pictures or play videos unless users opt for it. Twitter claims it uses 70% less data and launches around 30% faster.

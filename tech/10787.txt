@@ -1,0 +1,1 @@
+Two researchers, Xeno Kovah and Trammell Hudson, have found that five out of six vulnerabilities affecting the firmware of PCs can also hit the firmware of MacBooks. Even though Apple products are known to be more secure, the duo has designed a proof-of-concept worm that allows a firmware attack to spread from MacBook to MacBook, even without an established network.

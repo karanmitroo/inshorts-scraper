@@ -1,0 +1,1 @@
+Researchers, including one of Indian-origin, at Loughborough University, UK, have developed the prototype of a device for paralytic patients that converts breath to speech. The device analyses changes in the patient's breathing pattern to identify ‘breath signals’, which are then translated into words using a pattern recognition software and an analogue-to-digital converter. 

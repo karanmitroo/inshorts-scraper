@@ -1,0 +1,1 @@
+Yahoo on Sunday launched an 'on-demand password' system, using which one can log into a Yahoo account with a password sent to their phone. Users can turn on the 'on-demand password' option through security settings and register the phone on which the password would be sent. This would do away with the need to remember the password.

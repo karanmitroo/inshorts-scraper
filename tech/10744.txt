@@ -1,0 +1,1 @@
+Researchers from the Silicon Valley are investigating ways to get a reliable cellular signal hundred meters up in the air for drones that plan to zip through cities delivering packages. Using a converted ambulance, they are building a model that lets the signal travel through the air and reflect off the ground and other objects to sustain a steady connection. 

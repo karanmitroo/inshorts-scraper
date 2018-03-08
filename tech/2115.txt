@@ -1,0 +1,1 @@
+Search giant Google on Saturday added a six-second video preview feature to its mobile search results. Searches in Android's Google app or Chrome will show a little bit of what each video contains as user flips through them in an on-screen carousel. It will be available only when connected to WiFi by default and are opt-out, thus saving cellular data. 

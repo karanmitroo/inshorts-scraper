@@ -1,0 +1,1 @@
+In an upgrade, Yahoo on Friday incorporated results from users’ personal Flickr accounts in its image search engine. Now, signed-in users will see personalised image results (if relevant to the search) that could include their own photos. Also, a new 'more images' button will direct users to Flickr's website. The feature is currently available on the web in the US.

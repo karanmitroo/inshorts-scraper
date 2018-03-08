@@ -1,0 +1,1 @@
+A bug on Twitter for iOS allows verified accounts to verify other users by simply retweeting their tweets. However, this glitch is only visible to verified users and unverified users won’t be able to see blue ticks appear by their usernames. The bug was first reported by Tom Warren, senior editor at American technology news website The Verge.

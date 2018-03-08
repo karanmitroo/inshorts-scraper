@@ -1,0 +1,1 @@
+Microblogging and social networking platform Tumblr on Monday confirmed that a database of 65 million accounts are up for sale on the dark net for $150. The leak dates back to a Tumblr data breach that took place in early 2013. One of the largest data dumps of its kind, the database includes emails and passwords of the compromised accounts.

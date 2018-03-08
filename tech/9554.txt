@@ -1,0 +1,1 @@
+VideoLan's VLC media player was launched for Apple TV on Tuesday, allowing normal playback of all file formats, including multiple audio and subtitles tracks. The new launch will also allow the users to send files from a local computer directly to the TV. In addition, it could also search for local media servers to pull in playable content.

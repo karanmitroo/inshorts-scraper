@@ -1,0 +1,1 @@
+Group chat platform Slack on Tuesday started rolling out one-to-one and group video calling functionalities on Mac, Windows and Chrome versions of its app. The feature also includes an emoji response feature that lets users ask a question by posting the hand emoji or show approval by using a thumbs up emoji without interrupting the conversation. 

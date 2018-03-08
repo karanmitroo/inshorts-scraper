@@ -1,0 +1,1 @@
+The Duckworth Lewis Stern method works on the principle that a batting team has two resources in an innings, total balls and 10 wickets, which keep depleting. The team's run-scoring capability depends on these two resources in combination. A "fair" revised target is decided using the table which gives the percentage of the combined resources that remain in the innings.

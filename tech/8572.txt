@@ -1,0 +1,1 @@
+Micro-blogging website Twitter on Tuesday announced a new feature wherein users would be able to add descriptions, known as "alternative text", to images. The new feature could provide visually impaired people a chance to hear what an image is about. For using the new feature, users need to enable the option "compose image descriptions" from the app's accessibility settings.

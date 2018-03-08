@@ -1,0 +1,1 @@
+iOS developer Allen Wong has created a third-party app called ‘Remote S for Tesla’ through which users can summon their Tesla cars through their Apple Watches. It also keeps a track of basic information including the car’s charging status, speed and temperature. Notably, Tesla’s 'Summon' feature enables the car to unpark itself out of the garage and arrive at the doorstep.

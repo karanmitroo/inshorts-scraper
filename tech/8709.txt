@@ -1,0 +1,1 @@
+WhatsApp has rolled out an update in beta version, allowing users to type messages in bold and italics text formats. Users can insert text between asterisks (*) to type messages in bold and between underscores (_) to type messages in italics. Further, WhatsApp has updated its document-sharing feature to let users share files from Google Drive and Microsoft OneDrive accounts.

@@ -1,0 +1,1 @@
+Google is paying between 33-50% more to people on Android bugs submitted after June 1 this year. Since launching its Android Security Rewards program last year, Google has paid out over $550,000 to 82 Android bug hunters. While the top bug hunter was given $75,750 last year, the average bug hunting reward stands at $6,700 per researcher.

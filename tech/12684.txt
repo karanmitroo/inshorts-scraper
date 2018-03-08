@@ -1,0 +1,1 @@
+Google has accidentally developed an algorithm that can be used to read and decrypt captcha puzzles (visual puzzles in the form of distorted text and numbers) with an accuracy rate of over 99%. The technology was originally developed to find and read street numbers in Street View, and correlate them with existing addresses to identify their location on Google Maps.

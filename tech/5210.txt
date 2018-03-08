@@ -1,0 +1,1 @@
+Swedish developers have created a website called 'Deseat.me' that claims to let users completely delete their internet presence. On logging into the website with a Google account, it scans for apps and platforms that the user has accounts on. It then creates direct links to delete the accounts or unsubscribe from any services the user may have signed up for.

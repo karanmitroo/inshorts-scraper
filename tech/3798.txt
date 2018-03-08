@@ -1,0 +1,1 @@
+In order to make web pages load faster, Google has created a new open-source JPEG encoder that reduces the file sizes of JPEG images by 35% while maintaining picture quality. The new encoder is called 'Guetzli' which means a 'cookie' in Swiss German. Earlier, Google made several other projects to reduce image sizes on the web, including Zopfli and WebP.

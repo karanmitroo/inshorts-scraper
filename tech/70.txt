@@ -1,0 +1,1 @@
+Microblogging site Twitter has rolled out the Bookmarks feature globally, allowing users to save tweets. To save a tweet, users can tap on the share icon in the bottom right corner of the tweet and select "Add Tweet to Bookmarks." The Bookmarks will only be visible to the users and can be accessed by them by tapping on profile icon.

@@ -1,0 +1,1 @@
+University of Tokyo researchers have created a robot that mimics the human tendency to sweat to cool the body during exercise. Kengoro the robot was built using a porous aluminium frame containing water channels, allowing it to seep out when the motors heat up after prolonged motion. The method was found to be thrice as efficient as conventional air cooling.

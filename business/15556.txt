@@ -1,0 +1,1 @@
+The Central Board of Direct Taxes (CBDT) has launched a new Aadhaar-based electronic verification code system to authenticate the Income-Tax returns (ITR), replacing the old paper based system. The e-filer now has to provide his Aadhaar number in the ITRs for 2015-16 which have to be authenticated on the official website of the department via a One Time Password (OTP). 

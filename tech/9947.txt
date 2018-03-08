@@ -1,0 +1,1 @@
+Apple on Friday released its Swift programming language to the open source community. Swift is currently used to build software on iOS, Mac, Apple Watch and Apple TV. The company has launched a dedicated site swift.org for the purpose along with developer tools that run on Linux. It has also created a repository of Swift’s public source code on GitHub.

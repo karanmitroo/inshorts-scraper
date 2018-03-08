@@ -1,0 +1,1 @@
+Yahoo has made its adult content-detecting algorithm open to developers. The algorithm uses a 'convolutional neural network' based on sample pornographic images to take an image as input and provide a score between 0 and 1 indicating the image's 'Not Suitable for Work (NSFW)' rating. This can be used to rank and filter pornographic images on search results.

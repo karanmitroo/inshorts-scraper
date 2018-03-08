@@ -1,0 +1,1 @@
+Chinese phone manufacturer OnePlus released OxygenOS, its own version of Android as a replacement for Cyanogen. The operating system is now available for all OnePlus One owners to download. The new OS focuses on battery life and performance with few extra features like gesture shortcuts, an expanded quick settings menu and a file explorer among other things.

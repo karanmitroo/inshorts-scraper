@@ -1,0 +1,1 @@
+A new bionic fingertip, developed by scientists in Switzerland and Italy, helped Dennis Aabo Sørensen, who lost his arm last year, to feel different textures in real-time. With this, Sørensen was able to distinguish between rough and smooth surfaces 96% of the time. Upon moving the fingertip across a texture, it generates an electrical signal to imitate the nervous system.

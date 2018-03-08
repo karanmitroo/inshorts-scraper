@@ -1,0 +1,1 @@
+Australia's consumer watchdog has sued Apple for not fixing iPhones disabled by an 'Error 53' glitch. The bug, for which Apple apologised in 2016, bricked iPhones if the home button had been repaired by third parties. However, the lawsuit accuses Apple of knowingly disabling phones and then refusing to unlock them as the devices had been serviced by non-Apple repairers.

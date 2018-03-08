@@ -1,0 +1,1 @@
+Internet search giant Google is reportedly developing a new operating system codenamed "Brillo" that can operate on devices even without a functional screen. Aimed at ultra low-power "Internet of Things" (IoT) devices, the OS will need just 32MB or 64MB of RAM to run successfully. It will be expectedly released under the Android banner.

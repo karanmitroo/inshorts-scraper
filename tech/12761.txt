@@ -1,0 +1,1 @@
+A very tricky phishing scam, which uses a google.com URL and even uses Google's SSL encryption, is making its way around the web. The hack, which seems very genuine, starts like many other phishing scams: with an email having the subject line "Documents" and points to a Google Docs link, which takes you to a fake log-in page.

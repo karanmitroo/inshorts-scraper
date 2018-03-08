@@ -1,0 +1,1 @@
+Apple on Tuesday started rolling out the macOS Sierra 10.12.2 update that removes the "time remaining" battery estimate. The estimate was earlier visible by clicking the battery symbol on the status bar. Users of Apple's latest MacBook Pro devices had complained that the estimate was an inaccurate representation of how much battery life is left.

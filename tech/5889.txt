@@ -1,0 +1,1 @@
+In a first, over 50% Mozilla Firefox browser users were served HTTPS encrypted data on Friday, according to the Let's Encrypt initiative's head. HTTPS is a protocol for secure communication over a computer network that encrypts web browsing data to resist hacker attacks while in transit. Notably, Firefox holds just 7.77% of the global browser market share, according to Statista.

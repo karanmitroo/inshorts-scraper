@@ -1,0 +1,3 @@
+An Israel-based startup has developed a smart dashcam app 'Nexar', which records and documents the road and attempts to prevent accidents through smart warnings. Powered by artificial intelligence, the iOS app helps in collecting all the data and evidence in case of an accident. It also allows detailed reconstruction of an accident based on the iPhone’s sensor readings. 
+
+

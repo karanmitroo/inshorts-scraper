@@ -1,0 +1,1 @@
+A new app, called 'pplkpr', can help users assess which friends are better to hang-out with. The app pairs up with any Bluetooth-enabled heart rate monitor to track the physical response around certain people and log reactions such as joy, anger, sadness. It can also advise the users whether a friendship is having a positive or negative effect on them. 

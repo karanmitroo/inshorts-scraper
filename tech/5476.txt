@@ -1,0 +1,1 @@
+Microsoft has launched a new 'Unified Update Platform' which is expected to decrease the Windows 10 download size by approximately 35%. The new platform will ensure that only the portion needed by a user gets downloaded. Microsoft said it is also reducing the amount of data sent to client devices, including the smartphones.

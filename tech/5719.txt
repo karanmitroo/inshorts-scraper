@@ -1,0 +1,1 @@
+A four-minute video explains what artificial intelligence is and how a machine is tested for such capabilities. It states that it must pass the 'Turing test', a test which requires the computer to chat with a human in a seemingly human-like manner. It adds that intelligent machines should be able to interpret visual information and have traits like decision making.

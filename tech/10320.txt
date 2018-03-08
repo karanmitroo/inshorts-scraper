@@ -1,0 +1,1 @@
+Microsoft announced the acquisition of 3D physics engine company Havok from Intel on Saturday. Havok's designs have been used in over 600 titles in the past decade including Assassin's Creed, Call of Duty among others. "[W]e will continue to work with developers to create great gaming experiences, and continue to license Havok’s development tools to partners", said Microsoft. 

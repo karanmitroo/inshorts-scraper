@@ -1,0 +1,1 @@
+Apple has included an 'Advanced Mobile Location' feature in the recent iOS update, which automatically sends a user's location to emergency services on calling. It activates GPS and WiFi when someone calls an emergency number and then sends a text with caller's precise location. Previously, Apple had other such features, like 'Emergency SOS', which called local emergency numbers.

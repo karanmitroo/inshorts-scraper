@@ -1,0 +1,1 @@
+Technology giant Google has paid nearly $3 million (₹19.3 crore) as awards in bug bounty programs in 2017. The largest reward of the year, nearly $112,500 (₹72 lakh), was granted to researcher Guang Gong for finding bugs in its Pixel devices. Bug bounty programs are designed for security researchers to find vulnerabilities in software and report back to the sponsor.

@@ -1,0 +1,1 @@
+Photo-editing app Prisma has launched an update to its app, allowing users to create their own filters and share them with other users. A new feature in the app called 'Store' will display the filters created by the most active users of the app. Users can also delete the filters they do not like from the 44 default Prisma filters.

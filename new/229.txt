@@ -1,0 +1,1 @@
+A US government organisation has issued a notice about a bug in smart systems could let hackers remotely access and shut down a car's safety features. The bug lets hackers use a customised device that can connect to the car and targets the car's response to error messages. The hackers can then deactivate features like airbags or anti-lock braking systems.

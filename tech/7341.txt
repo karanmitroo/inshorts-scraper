@@ -1,0 +1,1 @@
+Netherlands-based Mine Kafon Foundation has designed a drone that can be used to map, detect, and detonate landmines from a safe distance. The drone's aerial 3D mapping system identifies dangerous areas and geotags the detected mines. A robotic gripping arm attached to the drone places a detonator on the mines that can be set off using a timer.

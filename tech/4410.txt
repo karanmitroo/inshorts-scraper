@@ -1,0 +1,1 @@
+A Pakistani startup has developed CricFlex, a wearable technology that can detect the legality of a bowler's action by measuring the angle of the elbow tilt in a bowler's action in real time. The device consists of several motion sensors that send readings to an application immediately after the bowler's delivery.

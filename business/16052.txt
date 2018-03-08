@@ -1,0 +1,1 @@
+The Federal Communications Commission in America has redefined the term Broadband to only include connections over 25 mbps, up from the 4mbps down/1mbps limit set in 2010. In comparison, the Telecom Regulatory Authority of India (TRAI) continues to categorise all connections over 512 kbps as broadband. 

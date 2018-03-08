@@ -1,0 +1,1 @@
+Researchers at the University of New South Wales in Australia have demonstrated that a quantum version of computer code can be written on a silicon microchip accurately. A quantum computer uses atoms instead of transistors as its processing unit, allowing it to conduct multiple complex calculations simultaneously at high speed.

@@ -1,0 +1,1 @@
+American chipmaker Intel has admitted that its chips have a vulnerability that could affect computers and phones globally. The two bugs called 'Meltdown' and 'Spectre' could allow hackers to steal data including a user's passwords, personal photos and messages. Intel also said that it believes these exploits do not have the potential to corrupt, modify or delete data.

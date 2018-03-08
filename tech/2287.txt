@@ -1,0 +1,1 @@
+A Dutch security researcher has found a bug in a part of solar panels that could cause widespread outages in European power grids. He claims that the bug can be found in thousands of internet-connected inverters across Europe. The inverters are essential to solar panels converting direct current to alternating current. Hackers could control the inverters and switch them off.

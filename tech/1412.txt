@@ -1,0 +1,1 @@
+WhatsApp has launched a new 'Live Location' feature that allows users to share their location in real-time with their contacts. The feature is available under the 'Location' option in the attach button as 'Share Live Location'. Available on both Android and iOS platforms, a user can pre-set a fixed time till when the live location is accessible to a contact.

@@ -1,0 +1,1 @@
+Apple organised its annual conference called the Worldwide Developers Conference (WWDC) in California from June 13 to June 17. At the conference, it announced iOS 10, watchOS 3, new features to tvOS, and renamed OS X to macOS, with the new version to be named macOS Sierra. Apple also opened Siri to third-party developers and introduced it in macOS. 

@@ -1,0 +1,1 @@
+Apple has released iOS 8.4 update for iPhone, iPad and iPod touch devices, with inbuilt ‘Apple Music,' which will include access to more than 30 million tracks. Moreover, it will also have curated playlists. The update also fixes the bug that earlier caused an iOS device to restart when it received a particular string of Unicode characters in messages.

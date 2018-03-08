@@ -1,0 +1,1 @@
+Microsoft has updated its Windows 10 operating system which uses a new program to display the user data being sent to the company's servers. The Windows Diagnostic Data Viewer allows users to verify that the company is doing what its documentation says. Further, users can download the viewer tool without the need for a Microsoft account.

@@ -1,0 +1,1 @@
+A US-based startup Cardiogram has devised an artificial intelligence system that was able to detect diabetes with nearly 85% accuracy, based on heartbeat data from wearable fitness trackers. The system, which was not trained using sample data, was directly fed details from over 14,000 users, from which it diagnosed diabetes based on abnormal heartbeat patterns.

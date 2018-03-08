@@ -1,0 +1,1 @@
+An app created by Raina McLeod allows users to check if their nearby McDonald's ice cream machines are working or not in real-time. Called 'Ice Check' the app works via GPS and crowdsourced information. The app is currently available on iOS and shows the icon grey if the machine is down and pink if it is working.

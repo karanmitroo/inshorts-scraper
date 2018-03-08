@@ -1,0 +1,1 @@
+IT firm HCL Technologies, in collaboration with Microsoft, has launched an Internet of Things (IoT) incubation centre in Redmond, USA, to increase enterprise adoption of the technology. Leveraging Microsoft Azure’s IoT suite, the incubation centre will focus on creating IoT solutions with use cases around industrial automation, remote patient monitoring and fleet management.

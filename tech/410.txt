@@ -1,0 +1,1 @@
+IT ministry has tested LiFi, an LED-based wireless communication technology, jointly conducted with IIT-Madras and lighting company Philips India. LiFi, or light fidelity, aims to replace WiFi by using light to transmit internet signals with speeds up to 10 Gbps. The technology was reportedly being tested to cover areas that cannot be reached by the existing network.

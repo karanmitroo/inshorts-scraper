@@ -1,0 +1,1 @@
+The Bombay Stock exchange is now aiming at a 200 nano-second trading speed in its Bolt Plus trading platform in the next three years. "We give time stamp (for trade execution) in nano-seconds today in hope to achieve our next target", said BSE CIO. The trading platform previously clocked a record trading speed of six micro-seconds on September 26. 

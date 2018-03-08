@@ -1,0 +1,1 @@
+Uruguayan high school student Ezequiel Pereira, has won ₹6.4 lakh after he found a bug that forced Google's back-end servers to leak confidential data. Pereira was able to connect to one of Google's websites without having his username or account checked. It then led him to the links of Google services and infrastructures where the footer read "Google Confidential."

@@ -1,0 +1,1 @@
+In the wake of uproar and privacy concerns, tech giant Microsoft said that it would change email policies and would no longer read emails hosted on its servers without a warrant. Earlier, the company had acknowledged that it read the personal emails of a French blogger in 2012 to catch an insider, who had leaked code related to Windows.

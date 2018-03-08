@@ -1,0 +1,1 @@
+Three months after its launch, Mozilla has announced to stop advertising in Firefox through its Suggested Tiles feature. The company said, "Advertising in Firefox could be a great business, but…we want to reimagine content experiences and content discovery in our products.” Tiles are default bookmarks that users see each time they open a new Firefox tab.

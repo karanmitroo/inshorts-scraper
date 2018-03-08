@@ -1,0 +1,1 @@
+Facebook claims to have invented a new unit of time called 'flick' to measure the speed of digital audio and video. A flick, or frame-tick, is roughly 1.41723356 nanoseconds long and defined as 1/705,600,000 of a second. Flicks can help represent a single frame duration for common frame rates like 24hz, 25hz and 30hz, and also 1/1000 divisions of each.

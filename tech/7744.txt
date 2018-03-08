@@ -1,0 +1,1 @@
+The Migrant Offshore Aid Station has developed an iOS app called 'I SEA App' that lets users spot and help refugee boats in trouble. It divides satellite image of the sea into millions of small plots and assigns users a unique sea plot to monitor. Users tag and report migrant boats, information of which is passed to the relevant authorities.

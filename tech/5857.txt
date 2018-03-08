@@ -1,0 +1,1 @@
+Facebook-owned Virtual Reality (VR) firm Oculus recently demonstrated the Quill, a creation tool that can be used to create 3D illustrations for VR in VR, at its Oculus Connect event. Using Oculus' Touch controllers and motion cameras, Quill users can select different brushes and colours, swing their hands through the air, and each stroke appears instantly on a 3D canvas.

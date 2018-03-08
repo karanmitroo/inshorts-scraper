@@ -1,0 +1,1 @@
+Google has developed an artificial intelligence (AI) tool which detects when someone is peeping at a user's phone. Called 'E-screen protector', it uses the front-facing camera to identify anyone looking at the display within 2 milliseconds. A demo video for the same shows the software interrupting an app to display the person caught peeking, with a vomit rainbow effect.

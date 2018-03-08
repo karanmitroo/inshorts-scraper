@@ -1,0 +1,1 @@
+An Easter Egg in Google's Chrome web browser shows a wink face emoticon instead of the number of tabs if 100 tabs are opened in incognito mode on an Android smartphone. If 100 or more tabs are open in the browser without the incognito mode or on an iOS device, a happy emoticon is displayed.

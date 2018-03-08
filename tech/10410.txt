@@ -1,0 +1,1 @@
+Gmail has launched a new feature that enables users to block specific e-mail addresses. Under this, e-mails from senders who are block-listed will go to the spam folder. Currently available on web, the feature will be on Android "over the next week." Earlier, Gmail had introduced an option for users to opt out of subscribing lists directly from its application.

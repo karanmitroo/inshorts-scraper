@@ -1,0 +1,1 @@
+The guidance computer code responsible for the first moon landing using the Apollo 11 spacecraft was recently uploaded online on the repository hosting service GitHub by a former NASA intern. The spacecraft lifted-off on July 16, 1969, carrying Neil Armstrong, Buzz Aldrin and Michael Collins, landed on the lunar surface on July 20 and returned to Earth on July 24.

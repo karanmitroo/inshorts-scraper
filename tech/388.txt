@@ -1,0 +1,1 @@
+Google has updated its Flights app which uses artificial intelligence (AI) to predict upcoming flight delays, including information regarding the delay. The company said that it will analyse historical data of flight delays and will alert users only if it's more than 80% sure. It will also offer information explaining what amenities are and included in users' ticket fee.

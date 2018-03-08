@@ -1,0 +1,1 @@
+Technology giant Apple keeps logs of the phone numbers users chat with through its messaging app iMessage, according to an investigative report. Apple also reportedly records the date and time the contact request was made along with the IP addresses of its users. If presented with a court order, Apple can share this information with law enforcement.

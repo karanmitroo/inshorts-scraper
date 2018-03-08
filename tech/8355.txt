@@ -1,0 +1,1 @@
+According to a study by Google, a total of 760,935 websites were breached between July 2014 and June 2015. Further, the most number of breaches were recorded on the WordPress platform, which accounted for almost half of all attacks. The study also stated that over a third of the breached websites were in English, followed by Chinese and German.

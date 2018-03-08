@@ -1,0 +1,1 @@
+Twitter on Friday revealed that it has paid over $322,000 through the micro-blogging site's bug bounty program 'HackerOne', launched in 2014. The platform received 5,171 bug submissions to its program from 1,662 researchers. While $12,040 was the highest amount paid to a single person, $140 was the lowest. Twitter said it has disclosed 20% of the resolved bugs publicly.

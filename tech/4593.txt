@@ -1,0 +1,1 @@
+American web developer Paul Irish asked a question related to the JavaScript programming language on Twitter and received the solution from Brendan Eich, inventor of the language himself. Irish's question received a number of replies to which he responded with, "100% of everyone not named Brendan Eich is wrong."

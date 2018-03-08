@@ -1,0 +1,1 @@
+The Defense Advanced Research Projects Agency (DARPA) of the US Department of Defense has launched a Grand Challenge for developing artificial intelligence-powered radios. Such radios will automatically cooperate with each other to avoid wireless congestion. The competition will start in 2017 and pick a winner in 2020, who will be awarded a prize money of $2 million.

@@ -1,0 +1,1 @@
+Microsoft has put on hold its plans to let Android apps run on Windows. Earlier in April, the company had said it will offer porting tools to developers of both Android and iOS apps. However, it only seems to be going ahead with developing iOS porting tools for now. The Android project is reportedly being discontinued due to piracy concerns.

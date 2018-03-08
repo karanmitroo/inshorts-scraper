@@ -1,0 +1,1 @@
+Robotics engineer Roshy John and his team has transformed a Tata Nano into a driverless car by fitting sensors and mounting cameras in the car. Roshy has also successfully tested the car's autonomous mode and emergency stop switch on Indian roads. The team has created an autonomous system that can be fitted into any vehicle within an hour.

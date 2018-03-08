@@ -1,0 +1,1 @@
+The Aura drone, developed by KD Interactive, features gesture-robotics technology that lets users control the drone via hand gestures. The drone is accompanied by a glove which is to be worn by the user in order to pilot the drone. The drone also features altitude control that allows users to change the maximum height it can reach.

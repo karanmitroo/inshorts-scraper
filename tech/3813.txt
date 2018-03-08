@@ -1,0 +1,1 @@
+Check Point Security has revealed a WhatsApp vulnerability allowing attackers to hijack users' accounts through a malicious image. The image appears normal in preview but redirects users to an HTML page which can retrieve the user's message history and photos, and spread the virus to their contacts. However, WhatsApp issued a patch a few hours after the flaw was revealed.

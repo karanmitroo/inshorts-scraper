@@ -1,0 +1,1 @@
+Twitter India has designed a special dashboard for the Bengaluru police to monitor complaints in real-time. The dashboard filters out irrelevant tweets, identifies the area from which a complaint has arrived and automatically forwards it to the respective police station. Notably, all 146 police stations in the city have their own Twitter handles.

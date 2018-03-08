@@ -1,0 +1,1 @@
+An MIT team has developed a system called 'NanoMap' that allows drones to fly through dense surroundings such as forests and warehouses. NanoMap, which lets drones consistently fly at 32kmph, models the uncertainty of a drone's position over time for navigation. It searches the history of all its views to anticipate how it moves in places it cannot see.

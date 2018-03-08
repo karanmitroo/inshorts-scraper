@@ -1,0 +1,1 @@
+Search engine Yahoo has said that the malware in its advertising network that had gone undetected for at least six days has been removed. Known as malvertising, such attacks dupe publishers into running malicious ads which can cause a user’s browser to redirect to another site that attacks their computer. The malware had also targeted sites hosted by Microsoft Azure.

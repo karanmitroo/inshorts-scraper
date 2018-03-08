@@ -1,0 +1,1 @@
+The Reliance Jio chat app, Jio Chat, is sending user data to a Chinese IP, hacker group Anonymous India has claimed. "Over 500k mobile data taken by China made Reliance Jio app. Hosting by Chinese too," a tweet by the hacker group read. However, rejecting any such claims, Reliance said, “No data travels outside of India from Jio Chat servers”.

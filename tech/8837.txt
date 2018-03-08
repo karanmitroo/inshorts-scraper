@@ -1,0 +1,1 @@
+Facebook has rewarded Bengaluru-based Anand Prakash with $15,000 for finding a vulnerability in the social networking website. The bug, that revolved around Facebook’s mechanism for resetting passwords, enabled Prakash to successfully hack his own account and set a new password for it. Notably, Facebook immediately acknowledged the issue and fixed the vulnerability.

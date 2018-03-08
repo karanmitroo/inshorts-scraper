@@ -1,0 +1,1 @@
+After a researcher highlighted security flaws in Samsung's mobile payment system Samsung Pay which could be exploited by hackers, Samsung on Sunday released a blogpost refuting such claims. It claimed that the math behind its service is different from what is mentioned in the research and is thus safe. Samsung also released a technology FAQ on how the system works.

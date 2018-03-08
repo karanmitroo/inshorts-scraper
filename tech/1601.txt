@@ -1,0 +1,1 @@
+An airport computer check-in system which is used by 125 airlines crashed on Thursday, causing flight delays and disruptions at airports in several cities including London, Paris, and Tokyo. Adding that the crash was caused due to a "network issue", the software developer said that its experts identified the problem and have gradually restored services for the affected airlines. 

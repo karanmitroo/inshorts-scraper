@@ -1,0 +1,1 @@
+A new Android app, called Radon, shares links between devices using ultrasonic sound waves, that are inaudible to the human ear. Users can share links with all nearby devices through the app without having to manually pair them, be on the same WiFi network or scan QR codes. However, the app does not support sharing of image and video files.

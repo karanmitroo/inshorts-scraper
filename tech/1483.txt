@@ -1,0 +1,1 @@
+US-based company called Converus claims to have developed a test called EyeDetect which detects lies by tracking a user's eyes. It uses a high-resolution infrared camera to track changes in pupil size and manner of reading statements. The test takes about 30 minutes to complete and the results are generated within 5 minutes with 86% accuracy, according to Converus.

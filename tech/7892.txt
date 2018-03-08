@@ -1,0 +1,1 @@
+Google on Thursday launched a tool that measures a website's speed on mobile and desktop, and its mobile-friendliness on a scale of 1 to 100. It also gives a detailed test report on a user's request, which includes suggestions on areas that the website needs to work on. The tool is aimed at helping business owners determine their website's performance.

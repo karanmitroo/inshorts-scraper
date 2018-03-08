@@ -1,0 +1,1 @@
+Fast-food chain Chipotle has warned customers that it suffered a data breach between March 24 and April 18 on its sales system. The hackers used malware to access customers' card data, including numbers, expiration dates, and internal verification codes. An investigation into the breach further found the malware searched for track data from the magnetic stripe of payment cards.

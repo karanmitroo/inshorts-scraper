@@ -1,0 +1,1 @@
+Netherlands-based researchers have developed a wireless network based on harmless infrared rays. A download speed of 42.8 Gbps was achieved per ray of infrared signal that was over 100 times more than commercial WiFi that uses radio signals. The higher data capacity was possible as the frequency of infrared is thousands of times higher than radio signals, researchers said. 

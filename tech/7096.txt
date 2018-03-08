@@ -1,0 +1,1 @@
+San Francisco is testing a computer algorithm to make release recommendations and predict whether the defendant might re-offend if freed from jail. It is based on factors including pending charges, the person’s age and how frequently they show up in court. The tool makes a recommendation for or against release to a judge, who can follow or ignore the advice.

@@ -1,0 +1,1 @@
+Mastercard is working on a smartphone app which will allow people to authenticate an online transaction via a facial scan. The app will require users to hold up their phone and stare and blink at it during checkout. Currently, users are required to enter a password while shopping online. However, passwords can be forgotten, stolen, or intercepted.

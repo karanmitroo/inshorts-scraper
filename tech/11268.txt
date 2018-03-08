@@ -1,0 +1,1 @@
+Microsoft's calendar app Sunrise launched a new feature, Meet, which is a keyboard for Android and iOS to simplify the process of scheduling meetings. Meet lets users fix meetings, suggest preferred time, or accept invitations, without switching to the calendar app. With the keyboard, users can schedule meeting and send it to another party in the form of a link.

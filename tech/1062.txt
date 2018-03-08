@@ -1,0 +1,1 @@
+Chrome extension, 'Emoji Reaction Project' prompts users to take action for a cause when they react to a Facebook post with a sad or an angry emoji. The extension displays 'Donate' option, which lets users donate in the US. It also prompts 'Do' and 'Dial' options, through which users can create events and contact local representatives to take an action.

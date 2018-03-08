@@ -1,0 +1,1 @@
+An Israeli man has created 'Insulog', a device that can be attached to insulin pens to track its dosage. The device records the amount of insulin delivered and time of dose through sensors that analyse the vibrations when an insulin pen's dial is turned. Users can also share the data with their doctors through a connected smartphone app.

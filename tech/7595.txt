@@ -1,0 +1,1 @@
+Students and teachers at the University of Electronic Science and Technology, China, have developed a robot, nicknamed 'Robomintoner', that can play badminton. It uses a camera and has a binocular vision system, imitating humans, to locate the flying shuttlecock. It then uses Bluetooth to communicate the data to a base station to determine where the shuttlecock is likely to land.

@@ -1,0 +1,1 @@
+Media software developer VideoLan has launched VLC media player for Chrome OS. Users can download the VLC app from Chrome Web Store. This was done via Android Runtime for Chrome, a Google tool that lets developers launch Android apps on certain desktop operating systems. Currently, VLC is available for all desktop operating systems including Windows, OS X, and Linux.

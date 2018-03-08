@@ -1,0 +1,1 @@
+Researchers from Lancaster University have developed 'Matchpoint' technology to turn objects into remote controls for televisions. The technology requires a webcam and works by displaying a circular widget with menu items on the television screen. It identifies rotating movement of objects like a teacup or toy car which can be used to change channels or regulate the volume.  

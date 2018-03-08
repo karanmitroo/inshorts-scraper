@@ -1,0 +1,1 @@
+Photo-sharing platform Instagram has recently updated its autoplay video sound feature to autoplay videos with sound once turned on until the app is closed. Users can still tap on the speaker icon in the bottom left to toggle videos back to silent. However, when the app is closed, the autoplay sound feature automatically resets to off.

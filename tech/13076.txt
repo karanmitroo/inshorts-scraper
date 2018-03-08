@@ -1,0 +1,1 @@
+On Monday, Google introduced a Chrome Beta release that alerts user about the tabs that are playing video or music, or using webcam or that being cast to TV. An addition of a speaker icon in the tab will allow users to visually locate the noisy culprit. The updated version will also warn users about malicious websites and files.

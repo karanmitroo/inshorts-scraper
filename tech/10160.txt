@@ -1,0 +1,1 @@
+Yamaha has unveiled 'Motobot' - a robot that autonomously drives a motorcycle. Motobot can accelerate, change gears and intuitively apply brakes when required. The motobot analyses its route with a help of a GPS system and can clock a top speed of 120 kmph with stabilisers. Yamaha believes that humanoids like these can make the driverless car technology redundant.

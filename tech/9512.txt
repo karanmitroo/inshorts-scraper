@@ -1,0 +1,1 @@
+Microsoft's research team is working on a new technology, dubbed Room2Room, that would project the caller's life-size image in the room during a video call. For the new technology, the research team is using Kinect cameras from Xbox consoles to capture a person's image and projectors that would be able to project the digital image on a piece of furniture.

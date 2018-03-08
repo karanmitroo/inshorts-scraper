@@ -1,0 +1,1 @@
+A study by Juniper Networks revealed that malicious applications have grown globally, pushed by the growth in smartphones, by over 600% to 2.76 lakh in one year ending March 2013. The majority of the devices being targeted run on Android and the majority of the app-stores hosting the malwares are located in Russia and China.

@@ -1,0 +1,1 @@
+Facebook has made changes to its web ads to prevent adblockers from blocking ads by making them similar to its other content. It has offered users an opt-out option for targeted ads, which can be accessed under updated 'Ad Preferences'. However, opting out of ad targeting will not remove the ads completely but make them less relevant for the users.

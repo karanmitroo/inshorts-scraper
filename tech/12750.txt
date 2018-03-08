@@ -1,0 +1,1 @@
+Social networking giant Facebook has designed a new programming language that lets programmers build complex websites and other software quickly and without many flaws. "We can say with complete assurance that this has been as battle-tested as it can possibly be," said a Facebook engineer. Experts say Hack is a new version of PHP, which can run without compiling.

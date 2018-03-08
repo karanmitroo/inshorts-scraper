@@ -1,0 +1,1 @@
+US-based startup Gecko Robotics has developed a robot which can replace humans for time-consuming and dangerous inspections at power plants. Supervised by a human, the robot can climb walls of power plants during inspection and collect 10% more data than a human. It inspects and evaluates a boiler in one day, which takes seven days for a human to inspect.

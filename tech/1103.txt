@@ -1,0 +1,1 @@
+Smartphone app developer ikva eSolutions has developed an app called 'Notification History Log' which allows users to access the 'deleted messages' on WhatsApp. The app, which is a dashboard for all notifications on Android smartphones, does not only preview but also shows the entire deleted message. It also notifies a receiver when a sender has deleted the message. 

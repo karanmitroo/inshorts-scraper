@@ -1,0 +1,1 @@
+Microsoft Corp is rushing to fix a bug in its widely used IE web browser after a computer security firm disclosed the flaw, saying hackers have already exploited it in attacks on some US companies. Microsoft said that the vulnerability could allow a hacker to take complete control of an affected system, then do things like viewing and changing data.

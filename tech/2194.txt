@@ -1,0 +1,1 @@
+Google has launched a security feature in its Gmail application for iOS that will warn users about suspicious links. "The site you are trying to visit has been identified as a forgery, intended to trick you into disclosing financial, personal or other sensitive information," read one such warning. The feature already exists for Android devices. 

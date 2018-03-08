@@ -1,0 +1,1 @@
+Google's digital payments app 'Tez' makes payments for goods and services at physical stores or online directly from a user's bank account. It allows person-to-person money transfer straight from the phone's contact list. The payments are made through the app via either QR Codes or to a UPI ID. Tez is currently integrated with over 55 banks in India.

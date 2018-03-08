@@ -1,0 +1,1 @@
+World’s first website was created by World Wide Web's inventor Tim Berners-Lee on August 6, 1991. The website, which is still running, was dedicated to the World Wide Web project and was hosted on Berners-Lee’s NeXT computer. It described the basic features of the web, how to access other people's documents and how to set up a server.

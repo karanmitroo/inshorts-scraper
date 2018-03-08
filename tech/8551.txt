@@ -1,0 +1,1 @@
+Google has launched emoji search to its Photos app on the web, Android and iOS. Users can now search photos by copy-pasting different emojis in the search bar, and the app will return images with matching results. The company said in a blog post that sometimes "searching with a full word just doesn't cut it".

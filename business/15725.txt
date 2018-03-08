@@ -1,0 +1,1 @@
+WhatsApp rolled out its voice calling feature for Android users, Friday, with the invite-window open for a longer duration this time, unlike last time. To activate the feature, users will need the version 2.11.528 from the Play Store or version 2.11.531 from the WhatsApp website. The feature will be auto-activated after receiving a call from someone who already has it.

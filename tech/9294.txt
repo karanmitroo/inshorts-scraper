@@ -1,0 +1,1 @@
+Google announced on Wednesday that its safe browsing service in Chrome will now flag websites that use deceptive embedded content such as fake download buttons, updates and ads. This type of content attempts to trick users into downloading malicious software. Upon encountering such content, the new feature will redirect users to a warning screen asking whether to continue or not.

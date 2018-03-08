@@ -1,0 +1,1 @@
+Facebook has built a new algorithm that will make clickbait headlines on Facebook Pages by websites disappear from users' News Feeds. Facebook manually classified tens of thousands of clickbait headlines to train the new algorithm. The more the clickbait a post is, the higher the chances that the algorithm will make the link less visible on Facebook.

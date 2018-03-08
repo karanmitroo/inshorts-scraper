@@ -1,0 +1,1 @@
+In a first, University of Washington scientists claim to have successfully infected a computer with a malware coded into a strand of DNA. The team reportedly corrupted the software of the DNA sequencing machine that tried to process the data and gained full control over it. Researchers warned hackers could use blood or spit samples to steal information.

@@ -1,0 +1,1 @@
+Mozilla has launched Firefox 41 on web and Android and claims it to be the first browser to have an in-built instant messaging feature. The feature works through Firefox’s video chat platform Hello on Windows, Mac and Linux. On Android, the browser now lets users work on different search engines from its search panel and simply swipe to close tabs.

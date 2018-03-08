@@ -1,0 +1,1 @@
+A new desktop-based torrent streaming service, WebTorrent Desktop was recently launched in beta version for Windows, MacOS and Linux. The service allows users to stream torrents of videos, music and ebooks straight from the browser. The service includes the option to skip forward and backwards when downloads are still incomplete, and also supports Chromecast and AirPlay.

@@ -1,0 +1,1 @@
+Facebook’s Messenger has a hidden, fully functional, graphical game of chess that can be played by anyone, by messaging "@fbchess play” in a conversation. Moves can be made by sending commands as messages, rather than drag-and-drop functionality. The game supports text commands to undo moves, draw and resign from games. 

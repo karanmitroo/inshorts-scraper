@@ -1,0 +1,1 @@
+Ransomware victims have paid over ₹160 crore in ransom over the last two years, according to a study by researchers at Google, Chainalysis, and UC San Diego. The study tracked 34 ransomware families and found that 'Locky', 'Cerber', and 'CryptXXX' had made the most money. The study also showed that ransomware attackers are getting better at avoiding antivirus software.

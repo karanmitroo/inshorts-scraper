@@ -1,0 +1,1 @@
+A number of Moto G phone units shipped by Flipkart are facing issues while connecting to mobile networks. The problem occurred because these devices has been shipped with IMEI numbers that are not yet registered with mobile carriers. Affected users also have the option to exchange their faulty phone for an operational unit or return it for a full refund.

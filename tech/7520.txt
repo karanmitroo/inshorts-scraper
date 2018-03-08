@@ -1,0 +1,1 @@
+Fiona O'Leary, a student at the Royal College of Art, has developed a device called Spector, that can determine the shape, size, leading and weight of letters in a specific text. The device then cross-references this information to a database to match it to the correct font. It also has a mode to detect the colours present in the text.

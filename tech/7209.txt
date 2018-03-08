@@ -1,0 +1,1 @@
+Google on Tuesday added spam call detection feature to its phone app for Android, where users can block and report unknown numbers. The feature is initially available for Nexus and Android One devices only. Previously, the 2013 update at the launch of Android KitKat added the Caller ID feature to the phone app.

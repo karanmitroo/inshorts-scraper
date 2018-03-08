@@ -1,0 +1,1 @@
+Encrypted messaging app Confide, which is said to be popular among US President Donald Trump's staff, has been sued for falsely claiming that people cannot take screenshots of messages on the app. The lawsuit notes that the app can block screenshots on iOS but the security feature fails if a user receives a message on Confide's Windows app.

@@ -1,0 +1,1 @@
+An analysis by mobile security firm Arxan Technologies said almost all android and iOS apps have been hacked. The security firm analysed the top 100 paid and top 20 free apps. It revealed that 97% paid Android apps and 87% paid iOS apps have been hacked. Out of the free apps, 80% on Android and 75% on iOS were vulnerable.

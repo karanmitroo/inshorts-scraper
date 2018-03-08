@@ -1,0 +1,1 @@
+According to tech reviewer Artem Russakovskii, a bug in Google's Home Mini speaker recorded audio continuously and saved them on Google's server. Russakovskii reported that the speaker would flash its lights even without activation and recorded sounds 24/7. The company attributed the problem to the touch panel on the top and issued a software update for the same.

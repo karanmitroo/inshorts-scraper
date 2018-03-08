@@ -1,0 +1,1 @@
+Researchers have disclosed two vulnerabilities that allowed malicious code to be executed on iPhones as soon as a user opened a song. The bug allowed attackers to hide exploits in .M4A audio files to bypass security, taking advantage of lack of proper validation of the length of user-supplied data on iOS. However, Apple has issued a patch for the vulnerabilities.

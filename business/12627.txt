@@ -1,0 +1,1 @@
+US-based StockX, which describes itself as "stock market of things", tracks the real-time prices of some of the most popular shoes on the web using live metadata. Launched earlier in the week, the platform tracks prices of over 20,000 pairs of shoes so far. It also offers 'initial sneaker offering' based on the shoes that are yet to be released.

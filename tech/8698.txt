@@ -1,0 +1,1 @@
+India leads Facebook’s Bug Bounty Program with the maximum number of contributing researchers and the maximum amount of bounties received. The program invites researchers from 127 countries to report security bugs in Facebook, Instagram and Oculus, among others. A total of 205 Indian security researchers have participated in the program and received ₹4.84 crore as bounties.

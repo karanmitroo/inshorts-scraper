@@ -1,0 +1,1 @@
+Apple’s latest iOS 9 operating system permanently disables (bricks) an iPhone if the device's home button is repaired by a non-Apple technician, reports said. This was faced by users who sought to replace their iPhones’ home buttons that feature Touch ID sensors aiming at protecting users’ fingerprint data. Notably, once an iPhone is bricked, there’s no way to un-brick it.

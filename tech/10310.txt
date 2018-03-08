@@ -1,0 +1,1 @@
+Google has announced that it will enable iOS users to get content from Apple’s App Store directly on its search engine on the mobile Safari browser by October end. This means that the company has finally allowed iOS developers to integrate App Indexing into Google. This feature is already functional in Android devices on the default Chrome browser.

@@ -1,0 +1,1 @@
+Researchers at MIT have built a fully functional self-assembling cell phone using a basic block design. There are six parts of the phone which are put in a rotating tumbler and with time, the correct pieces stick together to form a functional cell phone. The parts come with magnetised locks at the corners which join with compatible pieces only.

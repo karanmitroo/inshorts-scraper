@@ -1,0 +1,1 @@
+Facebook on Monday updated its Android app to add a new Hindi transliteration feature. Users can now type in Hindi using an English keyboard, through a new button on the typing bar, and Facebook will automatically transliterate the Roman script to Devanagari. Further, Facebook also provides a visual keyboard with Devanagari characters for users to correct any mistakes.

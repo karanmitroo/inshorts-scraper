@@ -1,0 +1,1 @@
+China Internet Network Information Center (CNNIC) has denounced Google after a security blog post on Wednesday said Google would no longer recognize their certificates. Google and CNNIC had conducted a joint investigation into a security lapse last month. The move is likely to deter users of the popular Google Chrome browser from visiting sites approved by the Chinese authority. 

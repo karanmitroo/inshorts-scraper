@@ -1,0 +1,1 @@
+Video editing app Artisto lets users transform their videos into moving paintings reflecting styles of popular artists like Vincent van Gogh and Pablo Picasso. Available for both, Android and iOS, the app lets users record 10-second videos or use one directly from the gallery. The company claims to have developed the app in eight days.

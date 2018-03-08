@@ -1,0 +1,1 @@
+Indian researcher Hemanth Joseph has successfully bypassed the iPad's activation lock through a bug that allows a user to wipe all the contents of the Apple product and set it up as a new device. Joseph found the bug during the iOS device setup process, that freezes the iPad and fails the process, landing directly on the home screen.

@@ -1,0 +1,1 @@
+Privacy flaws were discovered in women's fertility tracking app Glow, developed by a US-based startup. The privacy loophole let hackers access personal information including data and comments about users’ sex lives, menstrual cycles, e-mail address, location, history of miscarriages, abortions and other health details. However, the issues were later resolved by the developers.

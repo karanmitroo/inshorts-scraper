@@ -1,0 +1,1 @@
+Uber has launched its first desktop app on Windows 10 and became a universal Windows app regardless of the device. The app is Cortana-enabled, allowing users to book cabs through voice commands. Also, if the app is pinned to the Start menu, “the Live Tile will display the estimated time” for a cab's arrival, eliminating the need to open the app repeatedly.

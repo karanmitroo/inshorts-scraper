@@ -1,0 +1,1 @@
+Engineering students from the National University of Singapore have built 'Snowstorm', a personal flying machine. Built by a team of eight students, the machine consists of a hexagonal frame with motors, propellers and landing gears and can be controlled by the pilot, or remotely controlled. It is powered by three rechargeable lithium batteries which use solar power.

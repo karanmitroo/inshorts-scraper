@@ -1,0 +1,1 @@
+A computer scientist from Cambridge University has demonstrated how iPhone passcode security can be hacked using a store-bought kit worth less than $100. He used a technique called NAND mirroring which eliminates the limit on password retry attempts by cloning the memory chip from an iPhone 5C. The hack can reportedly break into any iPhone model up to iPhone 6.

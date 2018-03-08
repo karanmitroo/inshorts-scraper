@@ -1,0 +1,1 @@
+Google has updated Google Drive on Android, iOS and the web with an improved search functionality. Users can now search directly by the file type, open advanced search option from the search box itself, search files from the home screen using Apple’s 3D touch, and use the iOS search bar obviating the need to open the Google Drive app.

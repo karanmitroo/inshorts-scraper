@@ -1,0 +1,1 @@
+Microsoft has started dynamically banning certain common passwords like '12345' and 'qwerty' across its services including Skype, Xbox and Outlook, according to one of the company's blogs. The company said that the move is part of an effort to crack down on stolen passwords. This comes shortly after the reports of 117 million LinkedIn accounts being hacked.

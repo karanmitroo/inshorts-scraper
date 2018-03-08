@@ -1,0 +1,1 @@
+According to a study, conducted by legal AI platform LawGeex, artificial intelligence (AI) was able to beat human lawyers in evaluating contracts. The AI completed a specific task in 26 seconds with 94% accuracy while the human lawyers took 92 minutes on average with 85% accuracy rate. Also, the AI achieved a 100% accuracy rate in one particular contract.

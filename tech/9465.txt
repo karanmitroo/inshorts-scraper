@@ -1,0 +1,1 @@
+A US-based startup has developed a smart wallet 'Walli' priced under $100, that notifies the user of its location and contents. Walli is operated through a dedicated mobile app available on both Android and iOS platforms. It also tracks wallet activities and notifies the user when a credit or identity card is missing from the wallet for too long.

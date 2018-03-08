@@ -1,0 +1,1 @@
+Rajeev Rathi, a Delhi-based cardiologist has made an app called 'The Heart App', which lets users find out in advance if they are on risk of a heart attack. It diagnoses the user by asking a series of questions that a cardiologist asks to a patient. Based on the diagnosis, it tells the level of risk and suggests preventive measures.

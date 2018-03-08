@@ -1,0 +1,1 @@
+Amazon has been granted a patent for a new technology that prevents its in-store shoppers from checking prices of products online. The technology allows Amazon to intercept network requests like URLs and search terms that happen on its in-store Wi-Fi. Amazon can also use requested information to sell shoppers the products they are looking online.

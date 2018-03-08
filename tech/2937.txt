@@ -1,0 +1,1 @@
+Online platform Chess.com on Monday stopped working on 32-bit iOS devices after its counter clocked 2,147,483,648 games played, breaking the 32-bit integer limit. The issue occurred as 32-bit devices don't support interpretation for numbers higher than 2^31. The company has said it is looking into the matter and that a solution will be available within the next 48 hours.
