@@ -1,1 +1,0 @@
-Latvian startup Creative Mode has made a ₹15,000 wearable 'Steer' that gives shocks to the users to keep them awake when they're driving. Packed with 16 sensors, the wearable constantly measures the wearer's heart rate and skin conductance. It compares the tracked data with the normal, and sends a strong vibration to alert the users if the data doesn't match.

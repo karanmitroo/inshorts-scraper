@@ -1,1 +1,0 @@
-Apple Inc in a US court stated that data access on a locked iPhone "would be impossible” in 90% of its devices running iOS 8 or higher owing to strengthened encryption methods. Data access is possible only through a passcode. The Justice Department has looped in a federal magistrate judge to force Apple to comply in a data access case.

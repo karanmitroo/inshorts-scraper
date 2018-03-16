@@ -1,1 +1,0 @@
-A new browser called 'Colibri' has gotten rid of the concept of tabs, in a bid to give a "fast" and "uncluttered" user experience. Instead, it uses something called 'Links', where users can save webpages they want to revisit. Links can be organised in lists, filtered and searched. Colibri is currently available as a free beta for MacOS users.

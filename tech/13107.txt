@@ -1,1 +1,0 @@
-Cyber experts have confirmed a new malware named 'ransomware' that locks a computer and all files on it by encrypting them or interrupting the computer's normal boot process. It then pops up a message demanding a ransom of $100-1,500 for the private key to decrypt the files and warns of destructing keys if payment isn't done within a stipulated period.

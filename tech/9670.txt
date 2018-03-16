@@ -1,1 +1,0 @@
-New York based startup, Latch has developed a keyless entry system or a smart latch, that lets users access doors through an app. The smart latch consists of a circular touchscreen and a camera that records every action at the front of the door. The app can also unlock the door automatically after sensing the phone in a user's pocket.

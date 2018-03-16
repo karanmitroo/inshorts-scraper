@@ -1,1 +1,0 @@
-As of January 13, 16.8 million or 80% of all Bitcoin that will ever exist have been mined and all the available Bitcoin will have been mined by 2140. There can only be a maximum of 21 million Bitcoin in total. Bitcoin is generated as a reward when miners validate a block of Bitcoin transactions.

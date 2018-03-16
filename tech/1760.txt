@@ -1,1 +1,0 @@
-In a first, researchers at US-based Georgia Institute of Technology have designed an AI system that learned to recreate video games like Mario just by watching them being played. Without access to the game's code, the system breaks down the gameplay frame-by-frame, building up rules and recording them as a series of logic statements to approximate the game engine.

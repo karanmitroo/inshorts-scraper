@@ -1,1 +1,0 @@
-Mac users have reported that a macOS High Sierra bug is causing delays in message delivery like iMessages or SMS texts. It also stops iCloud-connected devices like iPhones and Apple Watches from notifying users of received messages whenever the Mac is active. However, the recent beta updates to macOS High Sierra do not appear to address the issue. 

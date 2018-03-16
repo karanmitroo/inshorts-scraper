@@ -1,1 +1,0 @@
-As many as 32 lakh debit cards have been compromised following a financial data breach, claimed to be the biggest ever in India. The breach reportedly originated due to a malware in Hitachi Payment Services systems, which allowed hackers to steal information and funds. Notably, SBI and HDFC Bank are amongst the worst-hit card-issuing banks.

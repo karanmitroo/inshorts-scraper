@@ -1,1 +1,0 @@
-An Adobe Flash Player bug has been discovered by South Korean security firm CERT which allows hackers to download a payload and execute it to control the system. Researchers said the exploit is carried out by embedding a Flash file into a Microsoft Excel document. Adobe confirmed the issue and said it will be addressed in an upcoming update. 

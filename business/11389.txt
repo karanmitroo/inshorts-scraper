@@ -1,1 +1,0 @@
-The Department of Electronics and Information Technology (DeitY) will develop India's first national social security platform. DeitY will use the socio-economic caste census to find the identity of citizens to receive benefits under various schemes. The platform will authenticate beneficiaries through their Aadhaar card and transfer benefits directly to their Jan Dhan accounts.

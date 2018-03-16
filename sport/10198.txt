@@ -1,1 +1,0 @@
-Hot Spot technology in the Decision Review System determines whether the ball has hit the batsman's bat or pad. The technology uses at least two infra-red cameras positioned on opposite sides of the ground, which show a bright spot at the point of contact of the ball. The cameras measure heat from friction, and can show up inaudible edges.

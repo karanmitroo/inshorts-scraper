@@ -1,1 +1,0 @@
-Israeli military networks were hacked by suspected Arab programmers by packaging attack software with trick emails in a 4-month effort. Blue Coat Systems Inc, the firm that discovered the campaign, said that a major part of the attackers' tools were put together from widely available resources. The firm was not able to uncover the nature and amount of data stolen.

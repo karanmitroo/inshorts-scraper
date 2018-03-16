@@ -1,1 +1,0 @@
-Media and entertainment giant Disney, along with the ETH university in Zurich, has developed a new tiny four-wheeled robot car called 'VertiGo', capable of rolling along vertical surfaces. The mechanism behind the device involves two rotating propellers fixed on top of the car that generate a force high enough to keep the vehicle from falling off the walls.

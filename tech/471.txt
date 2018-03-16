@@ -1,1 +1,0 @@
-Apple has rolled out an iOS update to fix a bug which allowed users to freeze iPhones with a text message. The bug, found by researcher Abraham Masri, allowed users to send a URL via text message which, when previewed, caused the freezing or crashes. Apple said the bug stemmed from the way links received in text messages are processed.

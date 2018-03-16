@@ -1,1 +1,0 @@
-A new DNews video explains the Li-Fi, the data communication medium which reportedly works a 100 times faster than the Wi-Fi. The Li-Fi uses LED lights, instead of the radio frequencies used by Wi-Fi, to transmit data whose speed can go up to 224 gigabits per second. This speed reportedly amounts to 18 movies getting downloaded in one second.

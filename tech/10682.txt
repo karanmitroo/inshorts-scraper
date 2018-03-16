@@ -1,1 +1,0 @@
-NASA is offering a reward of USD 1,500 to anyone who can design a smartwatch app that will allow astronauts onboard the International Space Station to easily access information. The app should include an agenda view of the crew’s Timeline; colour-coded alerts and warnings etc. The functions should be designed to run on the Samsung Gear 2.

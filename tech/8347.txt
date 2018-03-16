@@ -1,1 +1,0 @@
-Samsung has launched 'Samsung Safety Screen', an Android app that helps children to hold devices at a safe distance from their eyes. Using front camera for the user's facial recognition, the app calculates the optimal distance. When the child’s eyes are close to the screen, the app pops up an animation advising the child to move back.

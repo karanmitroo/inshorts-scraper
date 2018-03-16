@@ -1,1 +1,0 @@
-Russian antivirus major Kaspersky has filed complaints alleging that Windows 10's handling of third-party antivirus tools is 'anti-competitive'. Kaspersky pointed out that Windows automatically uninstalls unsupported antivirus software when users upgrade to the new OS. Further, Windows waits three days before explicitly notifying users of expired antivirus licences, he added.

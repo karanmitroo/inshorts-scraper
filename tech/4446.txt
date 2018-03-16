@@ -1,1 +1,0 @@
-Chips brand Tostitos and Uber have created a smart bag of chips that detects alcohol from a person's breath and orders a cab to avoid drunk driving. The bag is equipped with a sensor connected to a microcontroller to trace alcohol. The bag communicates over NFC and allows owners to order an Uber by tapping their phone against it.

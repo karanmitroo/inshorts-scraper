@@ -1,1 +1,0 @@
-Phone numbers and usernames of over 4.6 million users of the popular picture sharing service Snapchat have been leaked online. Hackers have posted the database of these users on a website called SnapchatDB. However, to ensure that the information is not misused by cyber criminals, the hackers have redacted the last two digits of the leaked phone numbers. 

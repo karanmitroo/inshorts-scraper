@@ -1,1 +1,0 @@
-A new feature in Google Arts & Culture app lets users take selfies and finds art that resembles them using image recognition technology. The app places the image of an artwork next to a user's selfie and also generates a match percentage. The feature has only been rolled out in the United States, according to reports.

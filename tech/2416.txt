@@ -1,1 +1,0 @@
-A UK student named Ronan Byrne has created a system that connects to a stationary fitness bike and controls the users' Netflix accounts. The 'Cycflix' bike streams Netflix shows only if the user keeps pedalling at the speed preset by them. It also allows users to customise the length of their workout and resting periods. 

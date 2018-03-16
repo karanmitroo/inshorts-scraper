@@ -1,1 +1,0 @@
-Google has released new 'Postmaster Tools' for Gmail, that allows high-volume senders to analyse which emails are being sent as spams and the kind of reputation they have with the recipients. Machine Learning will be implemented in the spam filter on the end-user side to detect and block spam trying to pass off as wanted mail, Google said.

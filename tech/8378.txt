@@ -1,1 +1,0 @@
-MIT researchers have developed a new software, written in web application framework 'Ruby on Rails', that can detect security flaws in web applications. In initial testing on 50 popular web applications written using Ruby on Rails, the software, which works by analyzing how data flows through an application, found 23 previously undiagnosed security flaws in less than 64 seconds.

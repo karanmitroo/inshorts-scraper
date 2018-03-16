@@ -1,1 +1,0 @@
-Amazon has stopped the sale of phones made by US-based startup Blu from its e-commerce platforms over privacy concerns. Security firm Kryptowire demonstrated how software in Blu phones collected data and sent it to remote servers in China without alerting people. Amazon had also suspended the sale of Blu phones in 2016 when the spyware was first spotted.

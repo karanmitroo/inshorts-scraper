@@ -1,1 +1,0 @@
-Two students from the University of Washington have created 'SignAloud', a pair of gloves that translate American sign language gestures into spoken English. Embedded sensors in the gloves monitor the position and movement of the user's hands and matches them against a library of gestures in a central computer. Gestures recognised by the computer are converted into speech.

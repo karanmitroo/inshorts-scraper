@@ -1,1 +1,0 @@
-Sweden-based researchers have developed a camera that can film at a rate of five trillion images per second, making it the world's fastest film camera. Current high-speed cameras capture images one by one but the new technology captures several coded images in one picture. It then sorts them into a slow-motion video sequence, researchers said.

@@ -1,1 +1,0 @@
-The National Crime Records Bureau (NCRB) has commissioned a predictive policing software that aims to stop crimes before they happen. The technology, which is based on crime data analytics, is expected to identify specific days, time, weather conditions, and geographical areas where crimes are likely to be committed. It will be available to police by the end of 2018.

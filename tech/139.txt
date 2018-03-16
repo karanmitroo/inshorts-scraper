@@ -1,1 +1,0 @@
-Indian bug bounty hunter Anand Prakash has been rewarded over ₹4 lakh for reporting a vulnerability that let him hack Tinder Accounts using Facebook's Account Kit. Prakash logged into Account Kit, by entering victim's phone number, which didn't verify them with OTPs. After using an access token stored as a cookie to log in, he could hack into the accounts.

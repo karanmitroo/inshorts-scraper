@@ -1,1 +1,0 @@
-A new 'eyes and ears' technology developed by Australian researchers, may make driverless cars possible within the price range of the average person in just ten years. The technology comprises different sensors installed in an average car, paired with an algorithm that processes the large amount of data received creating information which tells the car the nature of obstacles.

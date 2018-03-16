@@ -1,1 +1,0 @@
-A feature in the upcoming iOS 11 called the 'Auto Join' will automatically disable poor public WiFi networks and prevent them from connecting to users' iPhones. It's similar to Apple's WiFi Assist and Samsung's Smart Network Switch, which switches to mobile data when a WiFi signal is weak. iOS 11 is expected to release later this year.

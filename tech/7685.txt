@@ -1,1 +1,0 @@
-A hacker has diverted over $50 million in cryptocurrency from an experimental fund set up by the Decentralized Autonomous Organization (DAO). The fund was set up to demonstrate that cryptocurrency is safe for use. The hacker, however, has reportedly claimed that the money he diverted from the system is legally his, as he exploited a contract bug in DAO's code.

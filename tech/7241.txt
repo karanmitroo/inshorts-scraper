@@ -1,1 +1,0 @@
-Scott Devin, a student at Queen's University Belfast in the UK, has integrated a robot with an HTC Vive Virtual Reality (VR) headset to create a haptic feedback system. The $25,000 Baxter robot actively follows a VR user's pushing actions against them to simulate physical objects in a virtual space. Devin showcased the setup and feedback system in a video.

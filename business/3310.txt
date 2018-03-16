@@ -1,1 +1,0 @@
-Following the government deactivating around 11.44 lakh Permanent Account Numbers, one can check whether their PAN is still active or not by logging on to "https://incometaxindiaefiling.gov.in". One should then click on "Know Your PAN" option and fill details like surname, date of birth, and mobile number. After OTP validation if the PAN is valid, it will be shown as "Active".

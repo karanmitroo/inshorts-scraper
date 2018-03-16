@@ -1,1 +1,0 @@
-A new “Pre-register” feature has gone live on Google Play that lets user get notified when a particular app is released. On pre-registration, it will send a notification on user's devices when the app is launched. Users also have an option to unregister the app in case they lose interest. The first app to include this feature is 'Terminator Genisys: Revolution'.

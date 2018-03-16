@@ -1,1 +1,0 @@
-Microsoft has executed a major change regarding how Windows 10 performs product activation on retail upgrades, including making free upgrades available for one year. The activation status for a Windows 10 device is now stored online. After it is successfully activated for the first time, it will automatically activate in the future, with no product key required.

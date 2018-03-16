@@ -1,1 +1,0 @@
-Google Maps on Thursday updated its app to help users avoid jams by alerting them of traffic conditions and find the most ideal route to their destination with the least delays. While navigating, users will get spoken alert for upcoming traffic conditions and the time till the traffic will persist. Users will also get an option to take alternate routes.

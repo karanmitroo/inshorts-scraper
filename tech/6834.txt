@@ -1,1 +1,0 @@
-Facebook on Thursday announced its partnership with game engine Unity for streamlining the process of exporting and publishing games from Unity onto Facebook. Developers have until August 31 to apply for an alpha version of the export tool, allowing them to build and export games from Unity to the Facebook app, which reportedly hosts around 650 million gamers each month.

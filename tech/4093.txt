@@ -1,1 +1,0 @@
-Google's Research arm and Daydream Labs have developed technology to let spectators see VR headset users' full faces. The aim is to allow for less awkward demonstrations of VR technology and experiences on video. The technology first constructs a 3D model of the user's face, which lines up with the visible portion of the face to replace the headset's view.

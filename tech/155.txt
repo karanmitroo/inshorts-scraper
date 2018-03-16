@@ -1,1 +1,0 @@
-US-based electronics maker Tap Systems has developed a wearable device called 'Tap' which turns any surface into a keyboard. Priced at $150, the device has sensors for each finger and can detect which fingers are tapping, and it turns those motions into text input. It connects to the user's smartphone via Bluetooth and has eight hours of battery life.

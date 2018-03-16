@@ -1,1 +1,0 @@
-Motivated by Microsoft's gaming sensor Kinect, Scientists at the University of Virginia have reportedly developed a new camera system named Kintense, that can help predict a person's aggressive behavior such as kicking, pushing, hitting and throwing. The system has been created to warn medical staff if a patient is acting violently.

@@ -1,1 +1,0 @@
-A SIM card is like a small computer with its own 64-bit CPU holding a number which serves as a unique identifier. The SIM card identifies the cellular network provider and sends an authentication key and ID number to the provider. The provider verifies and returns the key to the SIM card and network is activated when the keys match.

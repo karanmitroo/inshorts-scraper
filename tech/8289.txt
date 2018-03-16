@@ -1,1 +1,0 @@
-Starting June 1, all Apple Watch apps submitted to the App Store must be natively built via the watchOS 2 or later, Apple said in a blog post on Friday. This will enable the apps to run independently on the Apple Watch and will limit their dependency on iPhones. Notably, non-native apps can access internet only over a nearby iPhone.

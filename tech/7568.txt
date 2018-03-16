@@ -1,1 +1,0 @@
-Holland has become the world's first country to have a nationwide low-range or LoRa network for enabling Internet of Things (IoT) applications. Launched by Dutch telecom company KPN, the network connects IoT devices to transfer data between them without a local Wi-Fi connection. The network took a total of eight months to be spread across the country.

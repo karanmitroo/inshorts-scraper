@@ -1,1 +1,0 @@
-At the F8 conference on Tuesday, Facebook unveiled 'Surround 360', a 3D Virtual Reality (VR) camera featuring 17 four-megapixel lenses that can shoot in 4K, 6K and 8K resolution. Instead of selling the camera, the company will put the hardware designs and video stitching algorithms on Github. All the parts of the device can be bought online for $30,000.

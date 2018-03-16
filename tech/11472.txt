@@ -1,1 +1,0 @@
-A new android app is launched in Goa which will enable users to report the incidents of fire and accidents in just a few clicks. Once the location of the emergency is pinpointed on the map, nearest fire tenders and personnel available at the spot will be alerted. The app is developed by the Safety Center located at IIT Gandhinagar.

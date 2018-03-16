@@ -1,1 +1,0 @@
-Google is planning to roll out an update for Gmail, enabling emails to feature continuously updating information. For instance, users could see automatically updated flight information in a booking confirmation email or fill out surveys without leaving a message. The update is part of Google's AMP project which is a set of programming intended to make webpages load faster.

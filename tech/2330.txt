@@ -1,1 +1,0 @@
-US researchers have demonstrated how a self-driving car can be hacked by putting stickers on street signs. The team manipulated the algorithm used by the car's vision system and tricked it into misreading them. For instance, they placed stickers that looked like graffiti to confuse the car into reading a stop sign as a sign that tells the speed limit.

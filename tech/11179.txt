@@ -1,1 +1,0 @@
-According to Cisco visual networking index forecast, the Internet protocol (IP) traffic in India will grow at a pace of 33% annually between 2014-2019. "...IP traffic will reach 4.0 exabytes per month in 2019, up from 967 petabytes per month in 2014," Cisco said. The rise will be triggered by increasing usage of mobile data and additional networked devices.

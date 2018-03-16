@@ -1,1 +1,0 @@
-Around 150 computers at the headquarters of the Maharashtra government, known as Mantralaya, were attacked by a ransomware called Locky. The virus encrypts files and asks users for ransom in return for access. The attack targeted files from the Revenue and Public Works departments, but the damage was contained before it could spread and all data is safe, officials said.

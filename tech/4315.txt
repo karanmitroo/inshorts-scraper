@@ -1,1 +1,0 @@
-Google has announced it is ending Gmail support on versions 53 and below of Chrome browser, which will affect Windows XP and Vista users. The latest Chrome update available for these systems is version 49. Users who don't upgrade to a newer version of Chrome by 2017 end will be redirected to the basic HTML version vulnerable to security risks.

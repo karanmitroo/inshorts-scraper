@@ -1,1 +1,0 @@
-Real-time messaging app WhatsApp has been testing an update that will let users delete sent messages even after an hour. The update has been rolled out for Android beta users. The exisiting 'Delete for Everyone' feature, which was rolled out in November last year, only allows deleting sent messages within seven minutes. 

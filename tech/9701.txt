@@ -1,1 +1,0 @@
-Scientists from Taiwan have developed a smartphone-powered 3D printer for $100. The printer reportedly uses visible light emitted from a smartphone to cure a resin, instead of UV light or lasers. This makes it easier to print 3D models as both the printer and the print management tool are in the same device. However, this technique slows down the entire process.

@@ -1,1 +1,0 @@
-University of Tokyo researchers have developed an electronic skin that can measure body vitals and display them in real time. The design features a nanomesh electrode and stretchable wiring with micro LEDs that can display basic images bending with a user's body. The data can either be sent wirelessly to a smartphone or to the cloud for storage.

@@ -1,1 +1,0 @@
-A Chrome extension called 'Block280' allows users to block out 280-character tweets by hiding any tweet that falls above the 140-character limit. Created by Conor Browne, it also lets users reopen the blocked tweets. This week Twitter announced it is testing a bigger 280-character limit for tweets for some users, instead of 140.

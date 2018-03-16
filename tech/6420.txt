@@ -1,1 +1,0 @@
-Micro blogging platform Twitter will reportedly alter its 140-character limit from September 19 2016, giving users more space to compose their messages. Media attachments like photos, GIFs, videos, polls, or quoted tweets will no longer reduce the character count in a tweet. Additionally, when replying to a tweet, usernames (for example, @names) will also not be counted.

@@ -1,1 +1,0 @@
-Google has announced that it will begin indexing content from iOS apps in search results in the near future, enabling iPhone users to open iOS apps straight from Google Search. The company first introduced app indexing in search results for Android in October 2013. Google also outlines instructions for developers on how to get an iOS app indexed in results.

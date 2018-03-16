@@ -1,1 +1,0 @@
-Google on Saturday launched dedicated developer analytics tools for its Google Cast software, which lets people stream media from their PCs and mobile devices to TVs and speakers. Developers would be able to analyse their data by geography and operating systems. The new addition features a tab for each metric, an interactive graph of metrics and tables containing recent data.

@@ -1,1 +1,0 @@
-Facebook is testing a new in-app browser that allows users to enter their own URLs and view another web page without leaving the app. Further, a new bar at the bottom displays post popularity, includes back and forward buttons and lets users bookmark pages. However, one feature that is reportedly missing from the new browser is tab support.

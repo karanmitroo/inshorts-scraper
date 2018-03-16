@@ -1,1 +1,0 @@
-Google has updated its Play Store to label which Android apps and games contain advertisements and which don’t. The label is placed directly below the ‘Install’ button, alongside the existing ‘in-app purchases’ label. The policy covers any type of ad being shown throughout the app, whether native, display, banner or served up through third-party networks.

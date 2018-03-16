@@ -1,1 +1,0 @@
-Kaspersky Lab, the Moscow-based security software maker has exposed spying software inserted deep within hard drives made by Western Digital, Seagate, Toshiba and other top manufacturers by the U.S. National Security Agency. Computers in 30 countries were found to be infected, with most infections seen in Iran, Russia, Pakistan, Afghanistan, China, Mali, Syria, Yemen and Algeria.

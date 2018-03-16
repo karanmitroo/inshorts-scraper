@@ -1,1 +1,0 @@
-A new bug discovered in Apple's iMessage causes the app to freeze and become unusable on clicking a malicious text message. The message contains a large VCF format file that the iMessage app is unable to decipher, making the app freeze. The bug then causes iMessage to crash repeatedly If users try to close and reopen it.

@@ -1,1 +1,0 @@
-Samsung's latest update for its virtual assistant 'Bixby' allows users to disable the dedicated Bixby button in Galaxy S8, S8 Plus and Note 8. The update, which requires the latest version of Bixby and Bixby Home, will stop Bixby Home from opening when the button is tapped. However, it will still be accessible by long-pressing the button.

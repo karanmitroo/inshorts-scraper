@@ -1,1 +1,0 @@
-'Umpire's Call' is used in the Umpire Decision Review System in cricket to give the 'benefit of the doubt' to the on-field decision in case of inconclusive technological evidence. As per the latest rules, the on-field 'umpire's call' on LBW reviews stands if less than 25% of the ball is hitting the stumps, excluding the bails.

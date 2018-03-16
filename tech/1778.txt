@@ -1,1 +1,0 @@
-An anonymous app called 'tbh' (to be honest) on iOS allows users to exchange compliments via in-app quizzes. The app asks questions about users' friends and lets them select a friend who is, for example, the "world's best party planner". The app only generates positive polls and lets users see certain details about who picked them as an answer.

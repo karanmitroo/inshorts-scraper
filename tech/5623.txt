@@ -1,1 +1,0 @@
-Chinese security researchers 'Keen Labs' who hacked a Tesla car in September, on Wednesday hacked into a Nexus 6P smartphone running stock Android within 20 minutes. They won $102,500 (₹68.5 lakhs) by installing a rogue app on the phone within three attempts for a security contest. The team also won $52,500 (₹35 lakhs) for stealing pictures from an iPhone 6s.

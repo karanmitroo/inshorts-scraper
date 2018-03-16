@@ -1,2 +1,0 @@
-Lie-detecting security kiosk called 'AVATAR' (Automated Virtual Agent for Truth Assessments in Real Time) is currently being tested by security departments in the US. The kiosk has a face on the screen which will ask questions to travellers. The system can detect changes in the eyes, voice, gestures and even curling of toes to determine potential risk. 
-

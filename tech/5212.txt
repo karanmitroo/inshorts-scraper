@@ -1,1 +1,0 @@
-A number of US journalists including Nobel Prize winner Paul Krugman have reported receiving a warning from Google that reads, "Government-backed attackers may be trying to steal your password." Google has not revealed the exact reason behind the warnings, but said that they "might be a result of the hacking attempts made on user accounts over last month".

@@ -1,1 +1,0 @@
-Google on Wednesday announced a new service called Cloud Machine Learning for developers in a limited preview at its NEXT Google Cloud Platform user conference. It consists of two parts – one allows to build machine learning models using data, and another offers Google products like translation, photo and speech recognition APIs, which the developers can use into their apps.

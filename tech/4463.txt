@@ -1,1 +1,0 @@
-Google on Thursday announced that it had worked with Facebook to make page reloads in Chrome for desktop and mobile 28% faster. The Chrome update will maximise the reuse of cached resources and will result in lower power consumption and data usage in addition to faster reload speed. Facebook also worked with Mozilla to bring similar changes to Firefox browser.

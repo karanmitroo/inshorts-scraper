@@ -1,1 +1,0 @@
-Technology major Microsoft has added a 'Quiet Hours' feature to Windows 10 which is similar to the Mac's 'Do Not Disturb' feature. Users can set their schedule, during which they will only receive notifications from people and apps on the priority list. The feature will also automatically switch on while playing a DirectX game and while duplicating the display.

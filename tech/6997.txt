@@ -1,1 +1,0 @@
-Canadian startup Komodo OpenLab has built a device called 'Tecla' that helps wheelchair users play the mobile game Pokémon Go. The device, which allows controlling the game through Bluetooth, is installed on the wheelchair. It is capable of responding to the light touch and hand gestures of the users.

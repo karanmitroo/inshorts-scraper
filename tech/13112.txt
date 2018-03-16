@@ -1,1 +1,0 @@
-A Tokyo-based company Neurowear, has developed a wearable camera(Neurocam) that starts recording when it detects one's interest in some visuals. The camera incorporates sensors that detect electrical activity in the wearer's brain. The user's interest level is assigned a numerical value from 1 to 100, and as soon as the number exceeds 60 a 5-second GIF animated clip is recorded.

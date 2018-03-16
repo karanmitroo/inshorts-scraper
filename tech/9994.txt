@@ -1,1 +1,0 @@
-Adobe is rebranding its web animation tool Flash Professional CC as Animate CC in a bid to support HTML5. Coming January, Animate CC, in addition to updating itself with the ability to rotate 360°, will release an HTML5 video player for desktop browsers. However, Animate CC will continue to support Flash creation, WebGL, 4K video, and SVG.

@@ -1,1 +1,0 @@
-Tesla has released an update for its semi-autonomous autopilot mode with a new feature called 'abort procedure'. The feature slows the car down to a crawl if an inattentive driver doesn't respond to autopilot's instructions to take control of the steering wheel within 15 seconds. The autopilot then re-engages only when the car is stopped and put into park mode.

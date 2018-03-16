@@ -1,1 +1,0 @@
-Scientists at the Ecole Polytechnique Federale de Lausanne (EPFL) have constructed a virtual rat brain portion called neocortex, made up of 30,000 neurons, 55 layers of cells and 207 different neuron subtypes. The investigators used powerful supercomputers to simulate the behaviour of neurons under different conditions. The research was published in the journal 'Cell'.

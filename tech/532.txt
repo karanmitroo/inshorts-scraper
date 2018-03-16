@@ -1,1 +1,0 @@
-Google has awarded nearly ₹72 lakh to researcher Guang Gong for finding bugs in its Pixel devices. The exploit chain consisted of two bugs which together could inject arbitrary code into system_server by accessing a malicious URL in Chrome. Around ₹67 lakh of the reward was given from Google's Android Security Rewards program, the highest in the program's history.

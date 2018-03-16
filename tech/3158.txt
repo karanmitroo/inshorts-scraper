@@ -1,1 +1,0 @@
-The Microsoft Windows vulnerability that was exploited by hackers behind WannaCry ransomware has been used in at least two other cyber attacks. Unlike WannaCry, which tries to extort Bitcoins from users, a malware called 'Adylkuzz' tries to mine a cryptocurrency known as Monero. Further, researchers have warned that a number of hackers have launched attacks copying WannaCry.

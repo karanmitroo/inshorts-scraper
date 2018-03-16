@@ -1,1 +1,0 @@
-The updated version of WhatsApp for Android comes with a feature that will allow users to mark a message as 'unread'. A user will have to tap and hold the conversation in the 'chats' tab and select the 'mark as unread' option. After that, a 'green' circle will appear on the conversation, serving as a visual reminder to reply later.

@@ -1,1 +1,0 @@
-A UK-based group of scientists have developed a laser camera that can detect objects not present in the line of sight. The setup includes a high-sensitivity camera that detects a laser bouncing off the object. The instrument defines object's parameters depending on the shape of reflection and the time taken by the reflected rays to reach the camera's sight.

@@ -1,1 +1,0 @@
-Samsung unveiled the first 16TB SSD PM1633a at the Flash Memory Summit in Santa Clara, California on Wednesday. The drive will feature 15.36TB of usable space which makes it the world's highest capacity drive of any type, while retaining a 2.5-inch form factor. Samsung put 480 chips of 32GB in the drive and used 256 Gigabit (32GB) V-NAND chip.

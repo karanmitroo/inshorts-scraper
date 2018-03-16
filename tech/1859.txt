@@ -1,1 +1,0 @@
-US-based scientists have developed a software that uses video and artificial intelligence (AI) to detect when drivers are distracted. The software uses cameras to detect actions such as texting, talking on a cellphone or reaching into the backseat. After detection, it uploads the action and scores the severity of the distraction via a secure app.

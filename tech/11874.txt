@@ -1,1 +1,0 @@
-Yahoo and Microsoft's Bing search engine temporarily crashed on Friday after Microsoft pushed out a bad code update and then struggled to roll it back, said a source. The outages were not caused by an outside attack, the source added. Users who typed search(.)yahoo(.)com got an error message, however, the problem was resolved later in the day.

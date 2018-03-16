@@ -1,1 +1,0 @@
-Amazon Web Services (AWS) outage that put some of the world's biggest websites like Quora, AOL, and ESPN down on February 28, was caused by a single typing error in code by an employee. The typing error took down a larger set of servers than intended. Amazon systems weren't designed to deal with an error of this magnitude.

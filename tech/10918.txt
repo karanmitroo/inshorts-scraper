@@ -1,1 +1,0 @@
-Anthony Kuske from Exeter (England) has developed a smartphone application called 'Who Deleted Me on Facebook' that allows people to see which Facebook friend has deleted them from their friend list. The app connects to users' Facebook accounts and keeps track of friend numbers. It is available on both iPhone and Android, and also on Chrome browsers through a plugin. 

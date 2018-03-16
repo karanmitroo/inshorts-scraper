@@ -1,1 +1,0 @@
-Maluuba, a deep learning team acquired by Microsoft, created an artificial intelligence system that has become the first player to reach a perfect 999,990 score in Ms Pac-Man Atari 2600 version. Several people have failed to reach the game's top score due to its intentional lack of predictability, with the players only coming as close as 266,330.

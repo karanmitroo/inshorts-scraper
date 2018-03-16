@@ -1,1 +1,0 @@
-An Apple intern was behind the leak of a three-year-old iOS source code, according to reports. The intern stole the code in 2016 and was encouraged by friends in the jailbreaking community, who wanted the code for security research, to leak it. Earlier, Apple confirmed the code was leaked but added its product's security doesn't depend on the code's secrecy.

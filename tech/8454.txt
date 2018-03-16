@@ -1,1 +1,0 @@
-Adobe has issued an emergency update to its Flash software for internet browsers after researchers discovered a security flaw leading to ransomware attacks. Ransomware encrypts data, locks up computers, and demands payments ranging from $200 to $600 to unlock each infected PC. Adobe urged its over 1 billion Flash users on Windows, Mac, Chrome and Linux to update the product.

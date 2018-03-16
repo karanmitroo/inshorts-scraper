@@ -1,1 +1,0 @@
-Microsoft on Friday launched a tool that allows users to migrate from its note-taking app Evernote to OneNote. A part of Microsoft Office, OneNote is a free-form platform that lets users store text, images, documents, handwriting, audios and videos on a single canvas. The OneNote Importer tool is currently available only for Windows.

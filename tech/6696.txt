@@ -1,1 +1,0 @@
-Opera in a blog post revealed its Sync service was infiltrated in a hacker attack earlier this week, which prompted the company to reset at least 1.7 million user passwords. Sync lets users synchronise their browser data and settings across multiple platforms. This comes after Opera announced the sale of its browser business to a Chinese consortium for $600 million.

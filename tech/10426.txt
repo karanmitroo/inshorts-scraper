@@ -1,3 +1,0 @@
-The Centre for Development of Advanced Computing (C-DAC) is developing an e-postal ballot delivery system to enable electronic delivery of ballots to remote voters. After downloading, printing and marking respective choices, the ballots are converted into votes, to be mailed to the returning officer through a postal system. 
-
-

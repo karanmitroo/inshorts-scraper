@@ -1,1 +1,0 @@
-iPhone users are facing a new bug in Apple’s latest iOS 9.3 software update in which users are unable to open links in Safari, Messages, Mail, Notes and other apps. The bug is leading to crashing of the apps on opening links, instead of rerouting to the website. The bug is largely affecting iPhone 6s and iPhone 6s Plus users. 

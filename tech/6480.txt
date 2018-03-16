@@ -1,1 +1,0 @@
-University of Washington researchers have developed an app that turns smartphones into anaemia detectors. HemaApp analyses a person's blood colour by shining the phone's flash against their skin to estimate haemoglobin concentration which drops for anaemic patients. Notably, the World Health Organisation has identified anaemia as the most common blood disorder in the world.

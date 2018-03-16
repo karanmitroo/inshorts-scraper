@@ -1,1 +1,0 @@
-Digital currency Ethereum plummeted from around $320 (₹20,600) to just 10 cents (₹6.45) in a matter of seconds on Wednesday. The "flash-crash" was triggered by one investor placing a multi-million dollar "sell" order. The slippage resulted in 800 stop-loss orders, an automatic order to sell if the price falls below a certain point, causing Ethereum to temporarily trade at $0.10.

@@ -1,1 +1,0 @@
-Dating app Tinder has implemented a new algorithm that claims to "maximise users' match potential" by alternating their profile photos. The algorithm will determine which photos get the most response, and reorder users' pictures accordingly. Tinder said that the test group using its 'Smart Photos' feature saw a 12% increase in matches.

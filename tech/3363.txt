@@ -1,1 +1,0 @@
-An American programmer recently exploited a bug in dating app Tinder to upload 40,000 photos of its users online without their permission. The now-removed dataset was called 'People of Tinder', but its code referred to the set of pictures as 'hoes'. The photos were added to Google-owned platform Kaggle that allows programmers to work on machine learning.

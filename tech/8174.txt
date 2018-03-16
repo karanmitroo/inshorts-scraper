@@ -1,1 +1,0 @@
-US-based app Earny helps users get their money back on online purchases after prices drop. It connects with the email and Amazon accounts to track online purchases and checks the prices to see if a user got the best deal. If it finds a lower price, Earny requests a refund and the difference gets credited to the user's card.

@@ -1,1 +1,0 @@
-Microblogging website Twitter is working on a new feature that will allow users to post tweets with up to 10,000 characters against the existing 140-character limit, reported Recode. The feature may roll out towards the end of Q1. It is testing a version of the product that will display 140-character tweets which upon clicking will expand to reveal more content. 

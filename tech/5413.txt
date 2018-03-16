@@ -1,1 +1,0 @@
-The 'Sub1 Reloaded' robot by German company Infineon solved a Rubik's cube in 0.637 seconds in 21 moves, setting a new world record for the fastest-solved Rubik's Cube by a machine. The robot used six motors to turn and twist the cube after another computer scanned and solved the puzzle virtually. The previous record was of 0.887 seconds.

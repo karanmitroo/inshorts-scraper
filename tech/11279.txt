@@ -1,2 +1,0 @@
-Samsung Tuesday unveiled a new chip family, Artik, to power the future Internet of Things (IoT), putting it in more direct competition with companies like Intel, Qualcomm.
-Artik line of processors will come in three variants (Artik1, Artik5, Artik10) and combine hardware and software to help companies conveniently build Internet-connected devices. The chips will range from $10 to $100.

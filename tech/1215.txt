@@ -1,1 +1,0 @@
-UK-based online grocer Ocado has used a fleet of 1,000 robots to complete a task in 5 minutes, while a similar task took around two hours to complete earlier. Moving at 4 metres per second, the robots are controlled by software that knows which items are needed at any given time. Reportedly, the automation helps cut wastage and predict demand.

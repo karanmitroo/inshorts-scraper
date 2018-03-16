@@ -1,1 +1,0 @@
-Researchers at the Swiss Federal Institute of Technology have created a robot, dubbed Pleurobot, that mimics a real salamander's movements on land and in water. The robot, for which the team studied X-ray videos showing the amphibian walking and swimming, is made of 3D-printed bones, motorized joints and an electronic circuitry that serves as the synthetic central nervous system.

@@ -1,1 +1,0 @@
-The fingerprint scanner of Samsung’s flagship smartphone “Galaxy S5” is insecure and poorly implemented, says the German security firm SRLabs. The firm, that hacked the fingerprint scanner in iPhone 5S last year by spoofing fingerprint, has showed that the same method can be used to bypass the fingerprint authentication in Galaxy S5.

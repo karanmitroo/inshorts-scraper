@@ -1,1 +1,0 @@
-Researchers have released information about a vulnerability in OnePlus 3 and 3T smartphones that enabled attackers to use malicious chargers to access users' data. The bugs allowed hackers to bypass the phones' security when they were charging while being switched off. On switching the phone on, victims received no indication that their phones were tampered with.

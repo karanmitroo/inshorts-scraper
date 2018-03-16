@@ -1,1 +1,0 @@
-Twitter was initially made to be used through cellphones, using the Short Message Service (SMS) in 2006. As the standard text message allowed 160 characters, Twitter restricted its character limit to 140 characters keeping 20 characters for a user’s name. This was done to make sure that a message was not split between two texts, Co-founder Jack Dorsey had revealed.

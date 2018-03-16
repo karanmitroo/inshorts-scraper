@@ -1,1 +1,0 @@
-Researchers at a US university developed an application to stop third party applications from determining a user's location based on their online searches. The app will help stop the transfer of background data from smartphones to servers and allow users to control data. "Sometimes people share too much information. This is a way to help provide some security," researchers said. 

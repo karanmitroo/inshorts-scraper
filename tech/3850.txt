@@ -1,1 +1,0 @@
-A YouTube video shows an iPhone 7 equipped with iOS 10.2.1 reproducing Microsoft's 15-year-old Windows XP operating system. The technique involves using an emulator software called Xcode with a Windows XP ROM loaded into it. The video demonstrates the software by opening the Control Panel and using the calculator on the iPhone.

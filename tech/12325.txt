@@ -1,1 +1,0 @@
-A new phone app, Cuddlr, has been launched which unites strangers in search of a platonic hug or cuddle. Cuddlr shows the names and pictures of users within a person’s walking distance and tapping on a photo sends a cuddle request. If the recipient accepts within 15mins, a message can be sent and they’ll track each other using a map.

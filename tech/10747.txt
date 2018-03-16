@@ -1,1 +1,0 @@
-Twitter is experimenting with a feature called ‘new tab’ that simply brings up a list of headlines trending on the website. Tapping on one of those headlines will take a user to a screen with an image, a block of text from the report, and top tweets discussing the story. The feature is currently live in the US and Japan.

@@ -1,1 +1,0 @@
-A US-based study suggests that EEG headsets that allow controlling robots and play video games need better security as hackers could guess a user's passwords by monitoring their brainwaves. Researchers found algorithms within malicious softwares could make educated guesses based on user history to shorten the odds of cracking a four-digit PIN from one in 10,000 to one in 20.

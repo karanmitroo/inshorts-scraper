@@ -1,1 +1,0 @@
-Google Maps has introduced a feature in the beta version of its Android app to remind users where they have parked their cars. After users manually enter details of the parking spot, a "P" icon will be placed on the map to help them navigate back to the spot later. Users can also share the saved location with others.

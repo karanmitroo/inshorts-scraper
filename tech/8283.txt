@@ -1,1 +1,0 @@
-Microsoft on Monday launched its next-word predicting keyboard app, Word Flow, on iOS in the US. The app intelligently predicts next words in sentences and lets users customize the background with their own images. Users can tap or swipe to type out words, or use the app’s one-handed mode, that moves the keyboard to the side in an arc shape.

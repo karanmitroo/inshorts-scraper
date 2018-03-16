@@ -1,1 +1,0 @@
-An Android and iOS application called 'Patook', which claims to help users find friends, has a feature that uses artificial intelligence to detect and block 'flirty' messages. The app uses a point-based system to let users identify and rate the value of the criteria they want in a friend, along with other filters like location, interests, and age range.

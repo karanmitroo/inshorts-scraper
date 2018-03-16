@@ -1,1 +1,0 @@
-Tech-giant Yahoo has disabled an email forwarding feature which allowed users to automatically redirect incoming emails sent to their Yahoo address to another account. The move is seen as an attempt to make it more difficult for Yahoo Mail users to transition to another email service. Notably, users who had already set up forwarding won't be affected by company's decision.

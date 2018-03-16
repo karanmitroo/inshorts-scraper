@@ -1,1 +1,0 @@
-Tech giant Google has disclosed a still-active vulnerability in the browsers Edge and Internet Explorer that Microsoft has not fixed for more than three months. The bug was reported to Microsoft by a Google engineer and given 90 days to eliminate the error. The flaw was leaked as Microsoft failed to comply with the appointed timeframe.

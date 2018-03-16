@@ -1,1 +1,0 @@
-Facebook has added the Graphics Interchange Format (GIF) support to its News Feed. Users can now post GIF animations, though the functionality might not be seen immediately as an update is awaited. The animations will autoplay with the current video settings. Facebook had so far maintained a firm stand against the format, fearing the feed would get “too chaotic”.

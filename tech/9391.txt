@@ -1,1 +1,0 @@
-Microsoft on Monday rolled out a new feature for its personal assistant technology Cortana, that enables it to generate reminders based on the user's emails. This has been initially rolled out for the Windows Insider Program, and would eventually come for Windows 10. The new feature would also be able to push reminders based on the message content in emails.

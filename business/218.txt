@@ -1,1 +1,0 @@
-PNB has reportedly stepped up its controls on use of messaging network SWIFT following a $1.77-billion fraud. Any SWIFT message will now have to be created, verified and authorised by three different officers, while previously only two officers were needed. PNB officials had issued unauthorised LoUs via SWIFT for firms linked to jeweller Nirav Modi and his uncle Mehul Choksi.

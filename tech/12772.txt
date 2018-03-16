@@ -1,1 +1,0 @@
-According to a report based on leaked documents provided by whistleblower Edward Snowden, America's NSA has developed malware that allows it to collect data automatically from millions of computers worldwide. The malware, which can reportedly be installed in as little as eight seconds, can also covertly record audio from a computer's microphone and take snapshots with its webcam.

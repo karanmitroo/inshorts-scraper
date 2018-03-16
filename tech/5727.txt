@@ -1,1 +1,0 @@
-A two-minute video explains how WiFi helps connect electronic devices wirelessly using binary numbers. It also discusses how a two-way communication is ensured by WiFi via radio waves. Further explaining the process, the video illustrates how the data is broken down, directed to different routers and later reassembled on reaching the target.

@@ -1,1 +1,0 @@
-Technology giant Apple has admitted to cellular connectivity issues in Apple Watch Series 3 just before its shipment on September 22. "When Apple Watch Series 3 joins unauthenticated Wi-Fi networks without connectivity, it may at times prevent the watch from using cellular," an Apple spokesperson said. Apple also said, "We are investigating a fix for a future software release".

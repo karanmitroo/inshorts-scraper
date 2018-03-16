@@ -1,1 +1,0 @@
-The security firm SensePost has developed a drone that can be used to hack smartphones and steal personal data, without a user's knowledge. The quadcopter uses the company's software, which is installed on a computer attached to the drone. The Snoopy drone steals data from unsuspecting smartphone users by exploiting handsets looking for a wireless signal.

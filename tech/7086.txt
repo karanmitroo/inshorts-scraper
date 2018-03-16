@@ -1,1 +1,0 @@
-Researchers at the University of Stuttgart have built wall-climbing mini robots that work together to create architecture from carbon fibre. The robots carry carbon fibre thread spools that they pass back and forth after affixing to points on a wall. The researchers are planning to increase the number of robots, allowing them to attach fibre to ceilings and curved walls.

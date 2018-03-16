@@ -1,1 +1,0 @@
-A new research, "Mobile Data Offload & Onload", has predicted that Wi-Fi networks will carry almost 60% of smartphone and tablet data traffic by 2019. By 2019, the data traffic will reach over 1,15,000 Petabytes (PB), against 30,000 PB this year. Data migration from a mobile network to a Wi-Fi network will be beneficial to industry stakeholders, the research added.

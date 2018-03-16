@@ -1,1 +1,0 @@
-A federal jury in San Francisco ruled in favor of Google in the Java copyright case against Oracle on Thursday. Oracle had filed a suit in 2010 against Google claiming that it used code from the Oracle-owned Java programming language in Android without permission, seeking nearly $9 billion in damages. Oracle said that it will appeal against the decision.

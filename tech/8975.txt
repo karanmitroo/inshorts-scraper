@@ -1,1 +1,0 @@
-According to the MIT Technology Review, Google has unveiled a new artificial intelligence (AI) project, called PlaNet, that can determine the location of almost any image without using the geotags. The project breaks photos down to the pixel-level and then tries to match them with its image library, consisting of 90 million geotagged pictures from across the globe.

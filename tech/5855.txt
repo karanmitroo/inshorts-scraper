@@ -1,1 +1,0 @@
-Google is creating a new primary search index for smartphones to improve the web experience for mobile users, according to a report. The mobile index will be more up-to-date than the separate desktop index, the report added. The new index will replace the current system that extracts data from desktop content to determine mobile search rankings.

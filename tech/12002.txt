@@ -1,1 +1,0 @@
-Some researchers at the Washington University in St Louis have created a 2D receive-only camera which can capture images at a rate of up to 100 billion frames per second. The creators have made the device using a technique that they call the Compressed Ultrafast Photography. The camera may be able to capture photon behaviour, enabling new discoveries about light.

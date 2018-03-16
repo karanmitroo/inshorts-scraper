@@ -1,1 +1,0 @@
-New technology developed by Disney Research enables wireless power transmission throughout a room to charge up to 320 devices, eliminating the need for electrical cords or charging pads. Inspired by Nikola Tesla's wireless lighting demonstration, the method could simultaneously charge the devices within a 16x16 foot metal-walled room while meeting human safety guidelines. 

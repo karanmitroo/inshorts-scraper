@@ -1,1 +1,0 @@
-At its annual MAX event, Adobe demonstrated its upcoming audio tool codenamed 'Project VoCo,' that lets users generate 'authentic-sounding' speech in anyone's voice based on a small sample. After feeding a speech clip, the software allows editing that speech to deliver natural results. Words that weren't part of the original sample file can also be added.

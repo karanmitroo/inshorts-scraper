@@ -1,1 +1,0 @@
-Lenovo on Wednesday unveiled the 'PHAB2 Pro', the first consumer phone running Google's computer vision system "Tango". Tango is a platform that enables mobile devices to detect their position relative to the surrounding world without using GPS. The $499 phone, that runs on Android Marshmallow, offers a 6.4-inch display, a 4050 mAh battery and 4 GB of RAM.

@@ -1,1 +1,0 @@
-Google on Thursday open-sourced its AnyPixel software that enables programming interactive displays and would let anyone create their own display at any scale or level of expertise. The company has made the hardware and software libraries and example apps available on GitHub. It also has developed a panel of six thousand light-up buttons, controllable through a web page.

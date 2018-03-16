@@ -1,1 +1,0 @@
-Creator of 'Have I Been Pwned' website, Troy Hunt, has released a database of 306 million leaked passwords. His website allows people to search if their email address has appeared in a breach, but doesn't reveal the associated password for that particular service. Further, email providers can use the database to warn people if the address has been compromised before. 

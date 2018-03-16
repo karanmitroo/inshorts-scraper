@@ -1,1 +1,0 @@
-Twitter has acknowledged that it incorrectly calculated video advertising metrics on its platform by as much as 35%. The company has said that it is issuing refunds for overbilling advertisers, and many affected advertisers will reportedly be reimbursed for as low as $1. The bug affected Twitter's Android app and caused it to overcharge advertisers in November and December.

@@ -1,1 +1,0 @@
-Google has claimed to scan over 6 billion installed apps daily to protect the Android users from Potentially Harmful Apps (PHAs). It further claimed to scan 400 million devices daily to protect its users from network-based and on-device threats. Google added that the probability of installing a PHA from Google Play reduced by over 40% in 2015 compared to 2014.

@@ -1,1 +1,0 @@
-A Netherlands-based team of art historians, scientists, engineers and data analysts have recreated the style of a 17th-century Dutch painter Rembrandt in a new piece of art using computer data. The team analyzed 300 of his known paintings to create an algorithm and then fed the data to a 3D printer, that created the 148-million-pixel painting using paint-based UV ink.

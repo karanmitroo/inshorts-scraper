@@ -1,1 +1,0 @@
-MIT researchers have developed a new handheld device that can detect whether a fruit is ripe. The device contains a spectrometer that shines ultraviolet light on the fruit's skin to measure the 'glow' of the pigment chlorophyll, which correlates with the fruit's ripeness. The device then relays data to an Android app via Bluetooth to compute the degree of ripeness.

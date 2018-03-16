@@ -1,1 +1,0 @@
-NSA whistleblower Edward Snowden has called Google's upcoming messaging app Allo dangerous and unsafe, on Twitter, suggesting people to avoid it for now. Snowden has criticised the app over the ‘end-to-end’ encryption, which has been disabled by Google by default. However, the end-to-end encryption can be used in the app's Incognito mode.

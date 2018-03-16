@@ -1,1 +1,0 @@
-American technology company IBM has issued a warning after it accidentally shipped USB drives infected with malware to users. IBM said that the initialisation tool on the drives may contain the malware, which copies itself on to a user's computer. The company has further advised users to physically destroy the drive to prevent it from being reused.

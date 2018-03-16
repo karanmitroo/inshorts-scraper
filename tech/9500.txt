@@ -1,1 +1,0 @@
-Microsoft on Friday announced that the users of older operating systems will need to upgrade to the latest Windows 10 to run next-generation Intel, AMD, and Qualcomm processors. The company also said the users running Intel's sixth-generation Skylake hardware on older operating systems will have 18 months to upgrade to Windows 10 before the support ends for such configurations.

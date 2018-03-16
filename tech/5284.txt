@@ -1,1 +1,0 @@
-A Bloomberg report claims that Apple is purposely limiting the performance of iPhone 7 devices, resulting in loss of download speed. The iPhone 7 versions with a Qualcomm modem chip can download data at 600 mbps, while those with an Intel modem have a speed of 450 mbps. The move will reportedly ensure a uniform iPhone experience across all devices.

@@ -1,1 +1,0 @@
-A recent report published by the National Science Foundation has warned that, by 2040, computers could require more energy than the global production, if the current trends continue. The theory was explained with a chart made using the Landauer's principle, which states that every single bit operation in any computer must use an absolute minimum amount of energy.

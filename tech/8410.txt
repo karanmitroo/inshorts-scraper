@@ -1,1 +1,0 @@
-Microsoft has developed an artificial intelligence-powered app called CaptionBot that automatically writes captions for photos. Users can upload photos on the app and it writes descriptions for them in natural human language with an occasional emoji to represent human emotion. Notably, the app keeps learning as and when more photos are fed to it.

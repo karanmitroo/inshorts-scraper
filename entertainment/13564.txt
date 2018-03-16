@@ -1,1 +1,0 @@
-An interactive map of the popular television series 'Game of Thrones' shows users the routes travelled by the various characters. Called 'Quartermaester', the map can be used to search specific towns in fictional continents featured in the series. Further, a 'spoiler filter' in the map shows the content only to the point a user has watched the series.

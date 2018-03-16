@@ -1,1 +1,0 @@
-Apple's upcoming iOS 11 for iPads and iPhones will stop apps like Uber from having constant access to users' location. The operating system adds a setting for every app that lets it access location only while the app is in use. Earlier, a report claimed that Uber can access users' location even after the app is deleted from the device.

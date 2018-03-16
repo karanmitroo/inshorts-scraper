@@ -1,1 +1,0 @@
-Google recently announced that its video sharing website YouTube and Google Calendar now encrypt 97% of their traffic. The company began reporting on its HTTPS usage in March this year, with roughly 75% encrypted traffic across all services, except YouTube and Calendar. On why this number is not at 100%, Google said some devices do not fully support modern HTTPS.

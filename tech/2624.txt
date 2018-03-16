@@ -1,1 +1,0 @@
-A California-based startup has created a computer called 'Orwl' that completely destroys the user's data if someone tries to physically break into it. The kill-switch sensors include motion, temperature, and shock monitors. Orwl also has a physical key, in the absence of which the PC enters lock-down by disabling access to USB and HDMI ports and powering down the processor.

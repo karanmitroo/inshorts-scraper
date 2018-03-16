@@ -1,1 +1,0 @@
-Google on Monday updated its Google Maps app on iOS to add offline map support. This will enable users to look up directions without an internet connection and save a specific portion of the map locally in their devices. However, internet connection will be required for receiving mass transit directions including train routes. The feature is already available on Android.

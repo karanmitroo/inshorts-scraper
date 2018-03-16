@@ -1,1 +1,0 @@
-A video shows NASA's artificial intelligence-powered (AI) drone racing a professional human pilot-led drone. In the video, the drones are seen flying through a test track with the AI drone maintaining more accuracy than the human pilot. The work was funded by Google, and the drones used the tech giant's Tango technology to map their surroundings in 3D.

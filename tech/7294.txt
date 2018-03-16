@@ -1,1 +1,0 @@
-The French data protection authority CNIL on Wednesday ordered Microsoft to "stop collecting excessive user data and tracking browsing" of Windows 10 users without their consent. Among other security lapses, CNIL highlighted that there is no limit on the number of attempts to guess the users' online access PIN. Microsoft has been given three months to comply with the orders.

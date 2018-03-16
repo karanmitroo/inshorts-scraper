@@ -1,1 +1,0 @@
-Google on Wednesday announced that it will launch its 'Smart Reply' feature for Gmail on both the Android and iOS platforms. The feature suggests three responses based on the email a user has received. The user can either revert to an email using one of the three responses, or edit one of the responses, in order to save time.

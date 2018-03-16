@@ -1,1 +1,0 @@
-Apple on Monday announced that digital assistant Siri will be able to answer follow-up questions on iOS 11, making it similar to Google Assistant. Siri will be contextually aware and show pop-ups of the user's current location if they receive an iMessage text asking, "Where are you?" Further, Siri will have in-app translation features for languages like Chinese and French.

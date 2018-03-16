@@ -1,1 +1,0 @@
-The recently released gaming app Pokémon Go uses augmented reality to let users discover and capture Pokémon around them. The app uses the smartphone's location to decide when and where the Pokémon will appear. The game, which features only the 151 original Pokémon, needs users to physically move, find hidden Pokémon, and battle at 'Pokémon Gyms'.

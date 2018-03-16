@@ -1,1 +1,0 @@
-The north-eastern region of India has got its fastest supercomputer called PARAM Kanchenjunga. Housed at the National Institute of Technology (NIT) in Sikkim, the supercomputer sports a peak computing power of 15 Teraflops and is equipped with the latest Intel-based processor and accelerator technologies. It has been built at a cost of over ₹2 crore.

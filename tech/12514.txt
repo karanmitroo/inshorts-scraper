@@ -1,1 +1,0 @@
-IIT Delhi and National Service Scheme have developed an android app - Safe Hands - for women's safety, which can be used to send distress messages to contacts at the single press of a button. The message would contain the location of the user. Remarkably, unlike all other apps, it does not require an internet connection to work. 

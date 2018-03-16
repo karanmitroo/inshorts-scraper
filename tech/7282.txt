@@ -1,1 +1,0 @@
-Disney Research has engineered a new 3D technique that can capture subtle details of the eyes and reconstruct it using a single facial scan or photo. The method employs a parametric model based on a database of 30 eyes which can be used to duplicate the details of an actor's eyes and can be manipulated to accommodate a story line.

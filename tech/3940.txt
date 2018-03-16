@@ -1,1 +1,0 @@
-Typing in leadership roles like "CEO," "CFO" or "CTO" using the default keyboard in iOS will mostly show a male in a suit as the default emoji suggestion. Even on including a gendered context word like "she" in the text, the suggested emoji remains that of a male. Typing in 'pilot', however, would display a female emoji as the suggestion.

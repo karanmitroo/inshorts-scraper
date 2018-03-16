@@ -1,1 +1,0 @@
-Microsoft has updated it Bing search engine app for iOS to allow users to search the web using images. For this, users can take a new photo within the app itself or choose an existing image from their devices. Users can also crop the selected photo to only get search results similar to a specific part of the photo.

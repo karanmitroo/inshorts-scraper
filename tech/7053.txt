@@ -1,1 +1,0 @@
-Technology giant Apple on Friday announced its first-ever​ bug bounty program, where it will give cash rewards of up to $200,000 to researchers who discover vulnerabilities in its products. To be eligible for a reward, researchers will need to provide a proof-of-concept on the latest iOS and hardware. The program is scheduled to officially launch in September.

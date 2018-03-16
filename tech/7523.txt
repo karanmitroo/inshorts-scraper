@@ -1,1 +1,0 @@
-Paris-based startup Pollen AM has developed a $8,900 luxury 3D printer called 'Pam' that can print up to four different materials at once. It has a printing resolution of up to 40 microns and printing speed up to 400 mm per second. The printer comes with its own software named Honeyprint, which can be controlled by any device from anywhere.

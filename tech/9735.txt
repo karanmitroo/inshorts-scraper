@@ -1,1 +1,0 @@
-A group of researchers from UK's Plymouth University have developed a security system, called GOTPass, providing more secure online banking that uses images and a one-time numerical code. It could be used for services where the users maintain multiple accounts on multiple devices. Initial tests published by the team showed that eight of a total 690 hack attempts were successful.

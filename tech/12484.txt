@@ -1,2 +1,0 @@
-Developed by London-based start-up 'This Place'', open source “MindRDR” app uses your power of thoughts to give commands to Google Glass to do certain things, like taking a picture and even posting it to Facebook. MindRDR, combined with Neurosky EEG biosensor, analyses the user's brainwaves and gauge the user's level of focus to do so.
- 

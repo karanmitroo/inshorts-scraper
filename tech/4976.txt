@@ -1,1 +1,0 @@
-American networking company Netgear has admitted that eleven of its router models are vulnerable to remote attacks. The company was notified of the technical flaw by a security researcher in August, but the company failed to respond. The researcher went public with the information after waiting for three months, following which the company admitted it is aware of the problem.

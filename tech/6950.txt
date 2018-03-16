@@ -1,1 +1,0 @@
-Internet ad-blockers have made a claim to have figured out a way to stop Facebook from showing display ads, after the social networking site employed a new way of displaying ads by slipping past the ad-blockers. Ad-blockers' open-source community reportedly reverse engineered a filter to find the new encoded ads and block them.

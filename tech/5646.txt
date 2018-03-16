@@ -1,1 +1,0 @@
-Researchers from the Google Brain deep learning project have reportedly created AI-generated, human-independent encryption. They allowed three neural networks to pass each other notes using an encryption method they created themselves without human intervention. After about 15,000 attempts, one network sent another a coded message which the third network could not decode.

@@ -1,1 +1,0 @@
-Uber on Thursday announced that it will soon launch a feature which will allow users to request a ride using third-party mobile applications. To get the access of 'Ride Request' button on their apps, third-party app developers would need to register their apps on Uber's website. Uber will also pay the app for every ride booked through their platform.

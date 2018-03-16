@@ -1,1 +1,0 @@
-Google is building a new operating system called 'Fuschia', as reported by Android Police. Although there has not been an official announcement, the company has released the OS' details on GitHub with the description "Pink + Purple == Fuschia (a new Operating System)." The OS is designed to compete with IoT-oriented systems, and may be scaled to smartphones and computers.

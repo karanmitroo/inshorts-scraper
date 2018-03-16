@@ -1,1 +1,0 @@
-Georgia Tech Center for Music Technology's Professor Gil Weinberg and his research team has made a wearable smart robotic arm, that responds to both the drummer and music being played. The two-feet long robotic arm has in-built sensors that lets the arm listen and react to the music and manage its tempo. Motors ensure the correct placement of the drumstick.

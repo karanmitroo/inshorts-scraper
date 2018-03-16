@@ -1,1 +1,0 @@
-Microsoft has integrated Aadhaar in its 'Made for India' Skype Lite app to allow users to verify callers' identity online. Both parties can verify their identity at the beginning of a video call to prevent impersonation fraud using the feature. The feature can be useful for making Skype video calls to a business client or government representative, the company said.

@@ -1,1 +1,0 @@
-Engineers from MIT have developed an algorithm that allows their beer-fetching TurtleBots (small, personal robots) to reason on their own. If there is any uncertainty regarding an order to pick up and drop off beer, the robots will have to internally go through a series of options to figure out how to get the job done in an optimum manner.

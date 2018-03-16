@@ -1,1 +1,0 @@
-IBM with its chip partners GlobalFoundries and Samsung has successfully put 30 billion transistors into a fingernail-sized chip. The more densely transistors are packed onto a chip, the faster the signals can pass between the transistors. With the increased transistor density, IBM said the chip achieves 40% performance boost.

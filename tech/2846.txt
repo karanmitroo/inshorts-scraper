@@ -1,1 +1,0 @@
-An algorithm called 'Quakebot', which publishes news about earthquakes for the Los Angeles Times, on Wednesday accidentally reported about an earthquake which happened in 1925. The robot scrapes data from the US Geological Survey's website and reported the wrong news based on an update that had been published about the historical earthquake.

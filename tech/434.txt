@@ -1,1 +1,0 @@
-Air New Zealand has developed a program that analyses users' facial reactions to different sites and attractions in Queensland, Australia. After analysing facial cues, the service creates an itinerary of recommended locations in New Zealand. Once the video ends, users can see which activities made their face change the most and receive recommendations on how to book a trip.

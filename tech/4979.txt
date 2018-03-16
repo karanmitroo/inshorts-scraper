@@ -1,1 +1,0 @@
-Photo sharing app Snapchat has introduced a new chat feature, called Groups, that lets up to 16 friends share conversation and media. Group chats self-delete after 24 hours by default, and Snaps sent within a group can be opened only once, and replayed only once by each member of the group, just like a regular Snap.

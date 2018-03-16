@@ -1,1 +1,0 @@
-A new app called 'Double Dog' lets friends send and receive dares and win money if the dare isn't completed. On receiving a dare, a user sends a video proof of the dare being completed and gets paid by the person who dared. On the other hand, a user needs to pay double the bet money on declining a dare.

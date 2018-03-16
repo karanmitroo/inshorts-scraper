@@ -1,1 +1,0 @@
-According to research by Avast and Cisco's Talos security group, the CCleaner malware targeted technology firms to access their internal domains. The list of domains, published by Talos, contained at least 18 tech firms including Microsoft, Google, and Samsung. Researchers also said that about 7,00,000 computers were exposed by the CCleaner malware attack, earlier this month.

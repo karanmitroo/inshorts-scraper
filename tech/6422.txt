@@ -1,1 +1,0 @@
-Two Microsoft employees have created a new chatbot called 'LoveBot' which sends love, casual or motivational texts to the selected contacts. The users can designate certain timings at which the bot sends the text message. While love mode includes Shakespeare quotes and relationship messages, casual mode sends check-in messages or asks whereabouts of the user's friends. 

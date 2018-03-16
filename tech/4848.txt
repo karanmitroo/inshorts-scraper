@@ -1,1 +1,0 @@
-Cyanogen, the startup that aimed to build a better version of Android than Google and claimed it was "putting a bullet through Google's head," has announced the end of its services and operating system. This update means Cyanogen OS devices like the OnePlus One will have to transition to CyanogenMod ROM, which is managed by former Cyanogen Co-founder Steve Kondik.

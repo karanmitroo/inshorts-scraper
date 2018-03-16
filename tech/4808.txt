@@ -1,1 +1,0 @@
-Microsoft has filed a patent for augmented reality glasses that can scan a user's surroundings and track objects like keys, wallets or other things. If misplaced, the glasses will then guide the user to where they saw the object last. In case the lost items are covered or hidden from view, the system will "highlight [them] on the see-through display."

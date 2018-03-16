@@ -1,1 +1,0 @@
-Palo Alto based technology startup, Knightscope has developed a crime-fighting robot 'K5'. Equipped with 360-degree high definition and infrared cameras, the robot can move through open areas, halls and corridors. With an inbuilt audio-detection system, the robot can also alert the security system by picking up activities like breaking of glass.

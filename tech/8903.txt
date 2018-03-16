@@ -1,1 +1,0 @@
-Hungarian open source electrocardiography startup MobilECG has built a business card that displays a user's pulse and beats per minute on a built-in screen. Users need to place their thumbs on two touch pads for the screen to show the pulse. The device which will cost around $29, uses a button cell which lasts for an hour of continuous use.

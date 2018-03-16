@@ -1,1 +1,0 @@
-Google Maps on iOS has reportedly been updated to finally include the feature of spoken traffic alerts while in navigation mode. The application will now give out information regarding any accidents or traffic congestions on the respective route before a user starts moving. The feature is already supported by the Android operating system.

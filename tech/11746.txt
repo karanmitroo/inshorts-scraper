@@ -1,1 +1,0 @@
-In the latest developer version of Mac OS X 10.10.3, Apple will now replace "iPhoto" and Aperture with "Photos" as the software which will provide tools for managing and editing pictures, and creating books and calendars. The app will be synced with iCloud Photo Library, enabling users to save images online. The public beta version is expected to release shortly.

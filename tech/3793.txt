@@ -1,1 +1,0 @@
-The Unique Identification Authority of India (UIDAI) has asked the Indian Computer Emergency Response Team (CERT-In) and Google India to act against websites and mobile apps providing unauthorised Aadhaar-related services. Such apps were said to be luring citizens to share their basic information and Aadhaar number under the pretext of getting them Aadhaar cards.

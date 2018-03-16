@@ -1,1 +1,0 @@
-In order to strengthen online transparency, Mozilla launched a new tool named Lightbeam, which can uncover the third-party companies that keep monitoring users' online activity. It is a free extension available for download on Firefox browser that aims to give web users control of their data and privacy by using interactive visualizations in the form of graphs, clocks and lists.

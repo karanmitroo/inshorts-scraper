@@ -1,1 +1,0 @@
-Microsoft has come up with a new website, How-Old.net, which lets users upload pictures images up to 3 MB and it detects the age and gender of the people in those pictures. The website, however, may not predict the exact age. According to Microsoft, it created the site to "test its newly released Face detection APIs".

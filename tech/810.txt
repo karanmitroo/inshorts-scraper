@@ -1,1 +1,0 @@
-NSA whistleblower Edward Snowden has created an app called 'Haven: Keep Watch' that uses phone's built-in sensors to detect intrusions into a user's environment. The app turns an Android phone into a motion, sound, vibration, and light detector, which can then be positioned to monitor the environment. The app saves images and sounds and stores them on the device.

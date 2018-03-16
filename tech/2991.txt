@@ -1,1 +1,0 @@
-A feature called 'Offload Unused Apps' on Apple's upcoming operating system iOS 11 can automatically delete unused apps on a user's iPad or iPhone to save space. However, the users' settings will be retained and their data and documents will be restored on reinstalling the app. The deleted apps appear as grayed-out icons and can be reinstalled with a tap.

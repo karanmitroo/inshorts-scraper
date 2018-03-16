@@ -1,1 +1,0 @@
-US-based startup Neodriven, founded by a former Tesla employee, has created a rearview mirror based on George Hotz's Comma.ai software that claims to transform any car into a self-driving car. Priced at $1,495 (approximately ₹1 lakh), the system tracks driving data, feeds it back into the company database and then instructs the car to emulate the driving habits.

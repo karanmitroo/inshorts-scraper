@@ -1,1 +1,0 @@
-A camera-equipped vest called 'The Posting Tail' has been created that can take pictures of a dog and automatically upload them to the pet's social media. The vest can sense when a dog is happy, based on the speed of tail wag, and clicks a picture. Fitted with GPS, it can track a picture's location and the favourite dog spots.

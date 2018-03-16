@@ -1,1 +1,0 @@
-A London student has created a Bluetooth-enabled 3D printed prosthetic called the 'Third Thumb'. The thumb is controlled using pressure sensors at the soles of a user's feet. For example, on pressing one foot the thumb makes a grasping movement. Made from a flexible plastic filament called Ninjaflex, the thumb also has two motors to pull it in various directions.

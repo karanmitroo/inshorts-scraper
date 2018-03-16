@@ -1,1 +1,0 @@
-Chemists at the Complutense University of Madrid have created a furfural-sensing polymer disk and an app that can determine whether a beer has a fresh or "stale" flavor. Furfural, a chemical related to beer's taste and smell, changes chemically and imparts a stale or cardboard-like flavor as the beer ages, causing the sensors to change its colour.

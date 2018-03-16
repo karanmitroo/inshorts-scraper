@@ -1,1 +1,0 @@
-Google has announced a new Chrome update called Chrome 64 Beta which allows users to mute autoplay videos on websites. The autoplay-mute setting is located in the beta version's permissions bar, which can reportedly be accessed from the icons next to the URL. The beta also includes pop-up blocker and protection from prompts which redirect users to other websites. 

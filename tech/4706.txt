@@ -1,1 +1,0 @@
-San Francisco-based BACtrack has developed a wearable device, Skyn that passively tracks the alcohol consumption of the user. The gadget shows actionable blood alcohol content (BAC) data and lets users know when it's time to slow down or stop drinking. BACtrack Skyn works by measuring the small amounts of alcohol, or ethanol molecules, secreted through the skin.

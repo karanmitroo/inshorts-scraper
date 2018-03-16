@@ -1,1 +1,0 @@
-Israeli researchers have figured out how to turn an air-gapped computer into a cellular transmitter using the GSMem malware, enabling it to leak data that can be picked up by a low-end mobile phone. This attack uses ordinary computer hardware to send out signals. Air-gapped computers are thought to be safer from attacks due to their isolation from the Internet.

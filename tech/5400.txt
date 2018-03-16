@@ -1,1 +1,0 @@
-Australian burger restaurant Mr. Burger has created a Google Chrome extension that replaces pictures of US President-elect Donald Trump with burgers. The 'Make Trump Burger Again' extension works only on images that have the word "Trump" or something similar in the image's alternative text. The extension can be downloaded from the Chrome web store.

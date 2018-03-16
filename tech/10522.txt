@@ -1,1 +1,0 @@
-Mozilla has claimed that hackers had stolen security-sensitive information from Bugzilla to attack its web browser, Firefox. Bugzilla is an open-source bug tracking tool but access to security sensitive information is restricted to trusted users. Mozilla said that the version of Firefox released on August 27 had been affected. Firefox is the world's second most used web browser.

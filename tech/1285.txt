@@ -1,1 +1,0 @@
-Germany-based researchers have developed an artificial intelligence (AI) system that can create a high-definition (HD) version of low resolution images. The team applied AI and an adaptive algorithm for upsampling the low resolution images to improve the result. The AI gives up on 'pixel-perfect reconstruction' and aims for faithful texture synthesis, the researchers said.

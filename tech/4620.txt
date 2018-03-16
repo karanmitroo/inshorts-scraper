@@ -1,1 +1,0 @@
-Microsoft is reportedly working on a new Windows 10 feature that will automatically lock and secure a computer when it detects the user has moved away from it. The feature will be called 'Dynamic Lock' once it is introduced by Microsoft. It will complement Microsoft's Windows Hello sign-in process that scans a user's face to provide access to a computer.

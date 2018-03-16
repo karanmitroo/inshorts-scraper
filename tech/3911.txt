@@ -1,1 +1,0 @@
-At least 137 crore email addresses, including real names, IP and physical addresses were leaked through a faulty backup of one of the world's largest spam operators. US-based spam operator River City Media, reportedly run by 12 individuals, sends a billion emails a day. "Chances are that you, or at least someone you know, is affected," said a security researcher.

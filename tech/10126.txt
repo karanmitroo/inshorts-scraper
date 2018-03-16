@@ -1,1 +1,0 @@
-Google Maps on Tuesday launched a new update that enables offline navigation and search of nearby places when the user is not connected to the internet. The new update will let users find locations, opening hours of places and contact details when offline. Currently launched for Android users, the new update will soon be rolled out on iOS, Google said.

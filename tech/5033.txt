@@ -1,1 +1,0 @@
-An online service named 'Commits.io' allows users to generate artworks from lines of code. Using code from codesharing platform Github, developers can render a rectangular frame with the lines of code inscribed within it, highlighted by a custom background image. The service also lets users print the artwork they generate at $100 for a 24-inch by 18-inch frame.

@@ -1,1 +1,0 @@
-Security analysts have said that hackers used internet-connected home devices, such as CCTV cameras, webcams, and printers, to take down websites like Twitter and Spotify in the US and some parts of Europe on Friday. The attackers used hundreds of thousands of devices that had previously been infected with a virus to attack servers of internet provider Dyn.

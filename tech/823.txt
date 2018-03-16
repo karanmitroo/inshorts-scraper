@@ -1,1 +1,0 @@
-Researchers from the University of Tokyo have developed a humanoid robot called Kengoro which is designed to sweat while doing push-ups. The robot is equipped with actuators that mimic the contraction of human muscles while producing heat. It can also move its head from side to side like it's cracking its neck and can even stand on its toes.

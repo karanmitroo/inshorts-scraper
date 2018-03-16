@@ -1,1 +1,0 @@
-Researchers from the University of Illinois claim to have set a new record by transmitting 57 Gbps of error-free data through fiber optic lines at room temperature. This was done using a new laser breed that creates a sharper, more efficient pulse of light to push the speed of data transmission. Further, the speed drops to 50 Gbps at 85°C.

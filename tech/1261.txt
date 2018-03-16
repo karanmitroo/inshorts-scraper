@@ -1,1 +1,0 @@
-Chipmaker Qualcomm has sued Apple in the US alleging that the technology giant misused its "unprecedented access" to Qualcomm's code to help Intel. Qualcomm accused Apple of failing to abide by the terms of a software license. It added, Apple emailed Qualcomm to request confidential information about how its chips work and copied an Intel engineer in the email.

@@ -1,1 +1,0 @@
-Roboticists from South Korea's SNU Biorobotics Lab and UC Berkeley's Biomimetic Millisystems Lab have developed 'JumpRoACH', an insectoid robot which can mimic the behavior of insects. Weighing 59.4 grams, the robot can jump to a height of over five feet while stable or in motion and has the ability to stand itself back up on its legs.

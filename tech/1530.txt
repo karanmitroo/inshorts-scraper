@@ -1,1 +1,0 @@
-Engineers from the University of Nebraska-Lincoln, Harvard and MIT have developed a smart bandage which releases medication on command. The bandage is made of fibers with a core electrical heater covered with drug carriers. It also has a stamp-sized microcontroller attached to it which releases the medication by connecting to an app or sensors woven into the bandage.

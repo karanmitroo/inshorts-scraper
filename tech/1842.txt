@@ -1,1 +1,0 @@
-A security loophole in Facebook has allowed over a million accounts to generate at least 100 million likes and comments. Researchers at the University of Iowa and the Lahore University of Management have found sites which bring together users' accounts in a network to generate more likes. Notably, Facebook posts receiving more likes are placed higher in users' News Feeds. 

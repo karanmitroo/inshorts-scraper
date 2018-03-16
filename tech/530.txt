@@ -1,1 +1,0 @@
-Belgium-based app developers have designed a chat app called Die With Me which can only be used when a user's smartphone has less than 5% battery left. The app allows users to connect to other users with low battery which it displays next to the sent texts. The app is available both on the App Store and Google Play Store.

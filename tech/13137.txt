@@ -1,1 +1,0 @@
-Motorola on Monday announced Project Ara  -a free, open hardware platform for creating modular smartphones. The idea is to allow a user to mix and match components  -like display, keyboard, battery, and processor-  from different suppliers to build a customized phone that meets a user's specific desires. This would allow users to upgrade their phone parts to keep them up-to-date.

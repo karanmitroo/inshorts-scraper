@@ -1,4 +1,0 @@
-A US-based startup has created a solar-powered device called FlipFlic that adjusts window blinds based on sunlight, temperature, or schedule set in the app. It can be attached to the blinds magnetically and the temperature sensor triggers opening and closing if it gets too hot or cold. The light sensor detects indoor light levels and manages daylight and night automations. 
-
-
-

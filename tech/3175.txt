@@ -1,1 +1,0 @@
-Food discovery and ordering platform Zomato on Thursday revealed that about 1.7 crore user records have been stolen from its database. The stolen information has email addresses and hashed passwords of users, that cannot be converted back to plain text. "No payment information or credit card data has been stolen or leaked," said Zomato in a blog post.

@@ -1,1 +1,0 @@
-Apple on Thursday introduced the first Siri-integrated apps which will arrive in the upcoming release of iOS 10. The company made this possible through a new toolkit, SiriKit, which will help developers build extensions to enable their apps communicate with Siri. Siri will be able to handle voice and text inputs to process users' requests like booking cabs through Uber.

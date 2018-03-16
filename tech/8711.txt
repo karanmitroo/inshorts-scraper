@@ -1,1 +1,0 @@
-Facebook Messenger app has an in-built game which lets users flick a basketball in a hoop to score points and beat their own high score. A user needs to send a basketball emoji to a messenger contact and tap the emoji once sent, to start a game. To compete with friends, the emoji must be sent on a group chat.

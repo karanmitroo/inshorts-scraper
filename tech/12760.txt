@@ -1,1 +1,0 @@
-Facebook's new software known as - DeepFace - performs facial verification, which distinguishes whether or not two images show the same face. When asked if the faces of two unfamiliar people are the same, the technology can answer correctly 97.25% of the time (25% more accurate than it was before), while humans generally have an average of 97.53% accuracy. 

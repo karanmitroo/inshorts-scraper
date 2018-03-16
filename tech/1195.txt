@@ -1,1 +1,0 @@
-Users have reported a screen flashing issue in Google's Pixel 2 XL in which the screen flashes briefly when the device is locked or unlocked. Users also claimed that restarting or even resetting the phone did not fix the issue. Earlier, users also reported of Pixel 2 XL's screen burn-in issue in which the screen turned partially grey. 

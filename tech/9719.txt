@@ -1,1 +1,0 @@
-Google confirmed on Tuesday that they will ditch the Java APIs' (application programming interfaces) implementation in android and will introduce the open source version of Java, OpenJDK, from the next versions. With this move, Google plans to simplify the code base for the developers. Notably, Google was sued by Oracle in 2010 over the use of Java APIs without permission.

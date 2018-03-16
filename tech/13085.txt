@@ -1,1 +1,0 @@
-The new Gmail update now allows users to preview and save attachments directly to Google Drive. The feature, already available to iOS and Android users, is now accessible from the desktop too. Files can still be downloaded to the computer directly, but the improved Google Drive integration allows for better file access across multiple devices.

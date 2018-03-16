@@ -1,1 +1,0 @@
-Last week, Facebook launched voice-calling functionality for Android users in India, after initially launching the service for US and Canada. The service provides a “Free Call” option, in which one will incur data charges on making the call, but only if the callers’ contact also has the ability to receive calls over data connection.

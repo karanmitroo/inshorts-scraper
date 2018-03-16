@@ -1,1 +1,0 @@
-A new smartphone app, SmartWallit Pro, that tracks the location of a lost wallet using a chip has been developed in the US. Primarily, whenever the wallet goes out of range of the app, the app throws a warning message, displaying the last location where the wallet was used. The app connects with the chip through Bluetooth.

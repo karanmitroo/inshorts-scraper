@@ -1,1 +1,0 @@
-While Gmail has offered HTTPS support since the day it launched, and Google turned the feature on by default back in January 2010, today’s change goes a step further: it can’t be turned off. Furthermore, Google said that now every single email message you send or receive is encrypted while moving internally on the company’s servers.

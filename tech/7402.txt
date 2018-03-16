@@ -1,1 +1,0 @@
-Researchers at the Georgia Institute of Technology in the US have built DURUS, a robot which has natural human-like heel strikes and push-offs. It has springs between its ankles and feet that act like elastic tendons in humans. The springs allow it to store mechanical energy from the heel strike to be used when the toe pushes off the ground.

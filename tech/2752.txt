@@ -1,1 +1,0 @@
-The Petya ransomware which hit over three lakh computers worldwide on Tuesday uses EternalBlue, a hacking tool used by the NSA to exploit a Windows vulnerability over five years ago, NSA whistleblower Edward Snowden said. The tool was also used in the WannaCry global ransomware attack in May which had hit 150 countries.

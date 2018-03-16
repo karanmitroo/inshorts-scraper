@@ -1,1 +1,0 @@
-In a bid to increase mobile traffic, Mozilla has introduced the first public preview version of its Firefox web browser for iOS in New Zealand. It is testing a feature called Firefox Accounts, that will allow users to transfer their history, passwords, and tabs from the desktop to the mobile. The complete version will reportedly be out by year end.

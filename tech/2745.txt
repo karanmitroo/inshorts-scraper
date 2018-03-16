@@ -1,1 +1,0 @@
-Victims of Petya ransomware, which has reportedly hit three lakh systems worldwide since Tuesday, are unable to unlock their files even after paying the ransom of about ₹19,000 in Bitcoin. This is because the email account being used by hackers to manage ransom payments has been blocked, leaving victims who had paid money with no way to contact the hackers.

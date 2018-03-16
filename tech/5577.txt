@@ -1,1 +1,0 @@
-Security researchers have created a tiny device called 'Icarus' that lets hackers take full control of drones remotely and make them crash. The device fetches the transmitter ID and technical details of a drone and shows it on an LED display attached to it. The device could potentially be used by law enforcement personnel to take down rogue drones.

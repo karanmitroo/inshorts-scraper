@@ -1,1 +1,0 @@
-While the world worries about the deadly online bug Heartbleed, experts have warned that after computers, smartphones will be the next big target - infected with worms that can not only steal personal information from your phone but can also infect your friend's phones. HTML-5, which is increasingly becoming popular in all types of moblis OS, makes the attacks feasible.

@@ -1,1 +1,0 @@
-Microsoft recently announced 'Software for Open Networking in the Cloud (SONiC)', a fully open-sourced collection of software networking components needed to build devices like network switches. The company claims that the new release can be run on any version of Linux. A network switch is a computer networking device that forwards data only to the devices that need it.

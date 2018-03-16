@@ -1,1 +1,0 @@
-Mozilla, the maker of Firefox web browser, has launched a cross-browser tool called 'Send' that lets users share self-destructing files of up to 1 GB. The tool generates a shareable link for the file which only work for a single download or for up to 24 hours, whichever comes sooner. The files are encrypted and non-accessible even to Mozilla.

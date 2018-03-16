@@ -1,1 +1,0 @@
-A QR code (Quick Response Code) is a two-dimensional, machine-readable label that contains information about the item to which it is attached. When customers scan a QR code and enter the transaction amount, it is transferred directly from the bank account without the need of a swiping machine. The system further eliminates the need for the merchant's ID or number.

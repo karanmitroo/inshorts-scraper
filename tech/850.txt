@@ -1,1 +1,0 @@
-Technology giant Google has announced that its Chrome browser will start blocking non-compliant ads on websites from February 15, 2018. The inbuilt ad blocker will filter out ads including pop-up ads, autoplay video ads with sound, and ads with a countdown. However, the ad-blocking feature on Chrome will not prevent the ads from tracking users. 

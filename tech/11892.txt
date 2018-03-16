@@ -1,1 +1,0 @@
-The researchers from the University of Maryland and the Austrian research center NICTA have found a way to make robots learn how to cook by watching videos on YouTube. The researchers have made it possible by using a 'deep learning' technique. The artificial intelligence called deep learning basically gathers data and turns it into commands.

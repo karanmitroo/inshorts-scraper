@@ -1,1 +1,0 @@
-Researchers have uncovered a Gmail phishing scam which uses a fake attachment to trick users into revealing their email passwords. The scammers send users an email with an image that looks like a PDF or Word attachment. Clicking on the fake attachment redirects users to a website that looks identical to Google's sign-in page, asking them to log in.

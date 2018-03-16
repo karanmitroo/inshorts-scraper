@@ -1,1 +1,0 @@
-Google has reportedly modified its search results page for queries related to mobile applications in Android devices. Instead of a one-by-one list with a short description of each app, the new interface displays them in colourful grids. With a look-and-feel of an app store itself, the grid displays the title, user rating, and the price of an app.

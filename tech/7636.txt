@@ -1,1 +1,0 @@
-Global security software company, Trend Micro has revealed that a family of mobile malware, named GODLESS, can target any device running on Android 5.1 or earlier, which cover around 90% of all Android devices. Apps associated with this malware have already affected over 8,50,000 devices around the world, with India capturing the highest share of affected devices at 46%.

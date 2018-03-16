@@ -1,1 +1,0 @@
-Google on Friday announced that it is open-sourcing its Linux-based load balancing platform, Seesaw. Load balancers help distribute the load of network applications across all the machines and servers connected to it to mitigate network congestion. Seesaw was created in 2012 and was coded in Google’s Go language. It is now available on GitHub under the Apache license.

@@ -1,1 +1,0 @@
-US-based app developer Hexa has designed an app called 'Nude' which uses artificial intelligence (AI) to scan a user's camera roll and lock private photos. The app uses either a PIN or Touch ID to secure photos, with an integrated camera to save them in the app. However, the on-device analysis is available only on devices supporting iOS 11.

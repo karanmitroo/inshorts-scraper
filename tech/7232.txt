@@ -1,1 +1,0 @@
-US firm Voyomotive has developed an app to help prevent vehicle hacking and theft. The Lockdown app uses two-step authentication to authorise vehicle entry and engine start via a hardware controller that can be installed inside any car. If an unauthorised user tries to enter the vehicle, the app re-locks the doors, honks the horn and flashes the headlights.

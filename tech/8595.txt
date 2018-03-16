@@ -1,1 +1,0 @@
-Apple has pulled back its latest iOS 9.3 software update for devices older than the iPhone 5s and the iPad Air. Users of such devices had to enter their Apple IDs and passwords to complete the software update, rendering them inactivated in cases they forgot the same. Apple said it will soon release an updated version that eliminates this step.

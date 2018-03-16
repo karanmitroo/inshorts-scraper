@@ -1,1 +1,0 @@
-US-based biometric technologies company Synaptics has developed 'Turnkey', a USB port compatible fingerprint scanner to secure laptops and computers. Users need to put the scanner into a USB port in their systems after registering their fingerprints. Once registered, fingerprint becomes the primary way to access a system through a single touch of a finger.

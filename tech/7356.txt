@@ -1,1 +1,0 @@
-Facebook on Monday launched a new tool called App Event Optimization, which will enable advertisers to target those users who will not only install their applications but will use them as well. The tool works by letting developers choose their targeted in-app events, which lets them reach those who are more likely to use the services offered in the apps.

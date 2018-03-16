@@ -1,1 +1,0 @@
-Google on Monday published a blog warning users of a previously unknown security vulnerability in Microsoft Windows 10. Google went public about the bug just 10 days after reporting it to Microsoft, before a patch could be deployed. According to Google, a similar vulnerability was reported to Adobe and the company has since issued a patch for the same.

@@ -1,1 +1,0 @@
-In one of the biggest Unified Payments Interface (UPI) frauds till date, state-run Bank of Maharashtra lost ₹25 crore after a few people moved money illegally exploiting a bug in government's UPI app. The bug allowed people to send money without having the necessary funds in their accounts. As many as 44 banks are registered on UPI's platform.

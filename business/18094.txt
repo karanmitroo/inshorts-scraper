@@ -1,1 +1,0 @@
-After 12-year of free technical support for Windows XP, Microsoft has decided to end the free services on 8-Apr-2014, thereby putting 34,115 public sector bank branches in India at risk. Government offices have been asked to upgrade from XP immediately to avoid any problem, as 30% of Indian commercial market and 50% of Indian banking sector still use XP.

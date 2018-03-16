@@ -1,1 +1,0 @@
-Moscow-based artist Dmitriy Morozov has created the 'Collector', a machine that records ambient noise and plays back a remixed version of it. The device consists of speakers and a stereo microphone which rotates toward the loudest sounds near it. When it hears a noise, it records samples and creates an algorithmic composition from them, cutting out silent pauses in between.

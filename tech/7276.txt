@@ -1,1 +1,0 @@
-Google has introduced a new Play Store algorithm that would let developers reduce the size of their apps' updates. It said that 98% apps make changes only to their APK files while updating, and added that the algorithm will make such updates up to 50% smaller. Moreover, Google Play will start displaying actual download sizes, instead of APK file sizes.

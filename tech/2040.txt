@@ -1,1 +1,0 @@
-According to Russian cybersecurity firm Kaspersky, hackers are spreading malicious links via Facebook Messenger. Users are sent a message with the name, a shocked face emoji and shortened Bit.ly link to a blurred out video in the Messenger chat box. The malware could be the result of stolen passwords, hijacked web browsers or a technique known as "clickjacking", experts said. 

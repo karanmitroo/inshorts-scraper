@@ -1,1 +1,0 @@
-Google Photos, the service that allows users to back-up media content, has rolled out support for Live Photos on iOS. These images will be designated with a ‘Live Photo’ icon at the top of the screen, which users will be able to activate through 3D touch. However, if Live Photos are downloaded back to Apple devices, they will become static.

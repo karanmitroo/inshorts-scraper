@@ -1,1 +1,0 @@
-Ukrainian police have seized the servers of one of the largest accounting software firms in the country after it was suspected that the 'Petya' malware virus, which hit over 60 countries last week, had spread via its malicious update. An investigation has been launched against the firm over the cyberattack which Ukraine has blamed on Russia.

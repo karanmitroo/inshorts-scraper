@@ -1,1 +1,0 @@
-The civil servant responsible for Sweden's largest-ever data leak was punished with a fine equivalent to just half a month's salary or about ₹5.5 lakh. Discovered nearly 18 months ago, the leak has affected private data of every Swedish citizen with a driver's license. The data was exposed after Sweden's transport agency outsourced the management of its unencrypted database.

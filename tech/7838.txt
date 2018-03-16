@@ -1,1 +1,0 @@
-Google on Tuesday launched a new iOS app, called 'Motion Stills', that stabilises blurry live photos and allows its users to turn live photos into shareable GIFs. The new app tries to determine the photo's background and foreground to isolate them for better stabilization and then tries to determine the best starting and ending point for the loop.

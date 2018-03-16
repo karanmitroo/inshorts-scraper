@@ -1,1 +1,0 @@
-Former NASA engineer Mark Rober has built a moving dartboard that detects the dart's movement to guarantee a bullseye each time as long as it is thrown within the board's diameter. The board, mounted on sliders, tracks the dart with six cameras and uses trigonometry to calculate where the bullseye needs to move in order to catch the dart.

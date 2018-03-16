@@ -1,1 +1,0 @@
-A virtual drum kit called 'Freedrum' lets users play music just by air drumming with a pair of drumsticks. The kit includes motion-sensitive sensors that detect motion using gyroscopes and can be connected to a smartphone via Bluetooth to produce the sound of actual drums. Priced at $89 (₹6,000), the sensors can run for seven hours on an hour's charge.

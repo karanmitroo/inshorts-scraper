@@ -1,1 +1,0 @@
-Google on Thursday launched a feature which will load light pages four times faster and will consume 80% lesser data on detecting slower data connections like 2G on mobile devices. The feature will be available to users when they will search on a Chrome or Android browser. The new feature intends to benefit users in Brazil, Indonesia, and India. 

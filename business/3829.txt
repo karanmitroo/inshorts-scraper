@@ -1,1 +1,0 @@
-The second largest US telecom company Verizon has confirmed that personal data of 60 lakh customers has been leaked online. Reportedly, a 'human error' led to customer numbers, names, and PIN codes being publicly available on the Internet. Verizon data stored in a misconfigured cloud was visible to anyone who had the public link for a short period, reports added.

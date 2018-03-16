@@ -1,1 +1,0 @@
-Hackers who were invited by the US government under the 'Hack the Pentagon' pilot program, discovered 138 security vulnerabilities in the five Pentagon websites, US Defense Secretary Ash Carter said on Friday. More than 1,400 hackers took part in the bug bounty program, which ran from April 18 to May 12, with the payouts ranging from about $100 to $15,000.

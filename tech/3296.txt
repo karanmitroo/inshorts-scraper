@@ -1,1 +1,0 @@
- Facebook is rolling out a new feature called 'Latest Conversations' in its search results to show the most recent public posts from people about trending topics. The feature also includes live-update counter showing how many people are talking about a topic at one time. The feature doesn’t appear for all searches, but only for those that are trending.

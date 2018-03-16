@@ -1,1 +1,0 @@
-A group of students at the Rice University have created TrumpScript, a Donald Trump inspired version of Python programming language. The language does not support numbers less than one million, and does not support importing any code. Also for every error in the code, the console will display a criticising message like "Trump doesn't want to hear it".

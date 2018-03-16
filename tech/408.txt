@@ -1,1 +1,0 @@
-Messaging service WhatsApp's recent update allows users to send messages on iPhone using Apple's digital assistant Siri. The service has been integrated into Apple's co-pilot called CarPlay which lets Siri notify users of WhatsApp messages, and offers to read them aloud one by one. Siri will also confirm the message with users before sending or editing the content.

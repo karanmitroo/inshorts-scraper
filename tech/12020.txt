@@ -1,1 +1,0 @@
-Telecom operator BSNL, in association with Beyond Evolution, has launched a mobile security application- Msecure- to remotely manage data contained in users' lost phone. It will help users to track location of their lost mobile phones, remotely lock the device and erase data. The application will send the location details through SMS to the emergency number fed in the phone. 

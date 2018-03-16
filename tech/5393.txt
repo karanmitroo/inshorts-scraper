@@ -1,1 +1,0 @@
-More Android-powered devices are running on the Gingerbread version than the latest Nougat, according to Android Developers Dashboard. While Gingerbread was launched in December 2010, Nougat made its debut on devices in August this year. Lollipop holds the largest share of the total Android devices, followed by KitKat and Marshmallow.

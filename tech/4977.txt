@@ -1,1 +1,0 @@
-Google on Tuesday launched 'Android Things', an Internet of Things (IoT) platform for smart connected devices like speakers, security cameras, and routers. Android Things is an update to Google's existing OS Brillo with the addition of Google Play Services and Google Cloud Platform. Google is also working on its Weave platform that lets devices connect to Google Assistant.

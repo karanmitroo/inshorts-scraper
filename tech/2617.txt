@@ -1,1 +1,0 @@
-Switzerland-based startup Sequent has made a ₹12,000 smartwatch that charges itself from the kinetic energy generated from the user's movements. It comes with a heart rate sensor, activity tracker, GPS, Bluetooth, and a notification system. Compatible with both iOS and Android, the smartwatch automatically displays the local time of any time zone that a user enters.

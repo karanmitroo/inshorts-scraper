@@ -1,1 +1,0 @@
-Google on Wednesday launched its latest project Google Handwriting Input which lets users handwrite text on their Android mobile device and draw emojis on their own. The new app recognizes 82 languages and 20 distinct scripts. Google Handwriting Input is available on Google Play Store and can be installed on Android 4.0.3 and up.

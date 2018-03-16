@@ -1,1 +1,0 @@
-An Irish developer on Thursday tweeted that he had discovered an inactive code for a one-handed keyboard in the iPhone that has been there since iOS 8. The feature brings character keys together and expands copy and paste buttons for easy access with one hand. The developer also created a way to activate the feature on jailbroken iPhones.

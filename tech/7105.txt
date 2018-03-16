@@ -1,1 +1,0 @@
-Researchers have unlocked a murder victim's Samsung Galaxy S6 smartphone phone by using a 2D image of his fingerprint. The researchers had earlier attempted to unlock the man's phone by using a 3D-printed replica of one of his fingers, which was found not to be accurate enough. An image enhancement algorithm was later used to fill the fingerprint's broken lines.

@@ -1,1 +1,0 @@
-SWIFT is a messaging network used by financial institutions to securely transmit information and instructions using a system of codes. It is only a messaging system and does not hold funds or manage client accounts. PNB officials allegedly issued fraudulent Letters of Undertaking (LoUs) to overseas branches of Indian banks through SWIFT on behalf of Nirav Modi and Mehul Choksi.

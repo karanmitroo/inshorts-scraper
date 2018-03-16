@@ -1,1 +1,0 @@
-Over 250 apps across the Apple App Store and Google Play Store have been programmed to listen for audio through a phone's microphone, according to a report by The New York Times. Using a software from a company called Alphonso, the apps would listen for audio from TV to target advertisements. However, Alphonso said its software doesn't record personal conversations.

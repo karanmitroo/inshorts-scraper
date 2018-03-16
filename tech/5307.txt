@@ -1,1 +1,0 @@
-In the wake of the government's demonetisation move, Google India has added an 'Find an ATM near you' feature on its homepage that tells users the nearest ATMs from their location. The feature, available just below the Google Search bar, only tells users the directions to reach the nearest ATM and does not provide any information on the cash availability.

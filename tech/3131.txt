@@ -1,1 +1,0 @@
-A hacking group has demonstrated how Samsung Galaxy S8's iris scanner, which Samsung claims provides "airtight security", can be fooled. The group took a photo of the target from five metres away and printed a close-up of the eye. They successfully unlocked the S8 after placing a contact lens on the eye's printout to replicate the curve of an eyeball.

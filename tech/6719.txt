@@ -1,1 +1,0 @@
-Google is killing off the native Device Assist app that it had launched in 2014 to offer troubleshooting tips on Nexus and Android One devices. Users are being notified of the app's removal via a "detected issue" card that directs them to Google's online tips site. The app is no longer displayed in Play Store searches.

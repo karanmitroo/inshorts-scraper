@@ -1,1 +1,0 @@
-Samsung has rolled-out an update for its 'Samsung+' app, which allows it to troubleshoot users' smartphones, provide assistance and fix software issues remotely. The feature is available only for Galaxy S7 and S7 Edge handsets as of now. The app will also keep track of the state of the device, log diagnostic information and will offer an archive of FAQs.

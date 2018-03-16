@@ -1,1 +1,0 @@
-Researchers from Harvard's Wyss Institute have created a small hexagonal robot called Root to get children interested in coding. Children can make simple if-then statements using icons on an accompanying app, Square, and make the robot draw doodles and erase them afterwards. Root, that can crawl on a white board, aims at showing what coding can do in real-time.

@@ -1,1 +1,0 @@
-Engineers at the University of Washington have developed a technology to charge a smartphone wirelessly using a laser. The laser delivers charge via a thin power cell mounted to the back of the smartphone. The charging laser offers a range of about 14 feet and is surrounded by 4 low-power guard beams which, if interrupted, shut down the charging.

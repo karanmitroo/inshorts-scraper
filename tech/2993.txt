@@ -1,1 +1,0 @@
-Twitter users have complained that searching for 'ginger', which means a red-headed person, on Google's Gboard emoji keyboard for iOS shows middle fingers. However, searching for the same in Android shows various hand gestures like two fingers up or a flat palm. Google explained that Gboard assumes users mean 'finger' when they type 'ginger' and is working to correct this.

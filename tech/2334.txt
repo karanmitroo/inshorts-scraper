@@ -1,1 +1,0 @@
-Marcus Hutchins, a security researcher who prevented the WannaCry ransomware from spreading, was arrested by the Federal Bureau of Investigation for allegedly selling a malicious software that targeted bank accounts. According to reports, US Department of Justice revealed he is facing charges for creating the Kronos malware that stole banking and credit card credentials. 

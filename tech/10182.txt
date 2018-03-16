@@ -1,1 +1,0 @@
-An application to identify unknown numbers and block spam calls, Truecaller on Tuesday launched a new feature 'Transliteration' to let users have caller information in Hindi. According to the company, the new feature adds real-time Hindi transliteration to the caller ID. The feature is currently available on Truecaller's Android app version 6.10 and above.

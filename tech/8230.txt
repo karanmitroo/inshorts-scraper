@@ -1,1 +1,0 @@
-Twitter has shut down Magic Recs, a bot account that recommended viral accounts and tweets to users via Direct Messages. The account, launched in 2013, was run by an algorithm that measured how many people one knew were following an account or tweet in quick succession. Twitter said that recommendations previously shared via Magic Recs are now delivered via push notifications.

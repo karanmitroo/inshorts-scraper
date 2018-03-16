@@ -1,1 +1,0 @@
-A New York-based startup has developed an app called 'Tailor' that suggests users what to wear every day. It uses miniature sensors called ‘TailorTags’ which are embedded in the user's clothes to detect and track the garments worn on a daily basis. The app learns the user's style and gives suggestions based on the day's weather and occasion. 

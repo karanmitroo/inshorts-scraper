@@ -1,1 +1,0 @@
-Mozilla on Wednesday rolled out an update for its open-source web browser Firefox for Windows, Mac, Linux, and Android platforms, featuring a new free cross-browser video chat app called 'Firefox Hello'. The new app doesn’t require its users to sign up to receive calls, but the same would be needed for adding contacts and calling the contacts directly.

@@ -1,1 +1,0 @@
-A German technology company has built the 'BratWurst Bot', a robot that can cook and serve sausages. The robot uses embedded cameras to locate the sausages on the tray or grill and monitor their colour to decide when to flip them. A dedicated app for the robot lets users place their orders and know the status in real-time.

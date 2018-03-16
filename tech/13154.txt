@@ -1,1 +1,0 @@
-Li-Fi, developed by Chinese scientists, is a new method to access Internet by using signals sent through LED bulbs instead of radio frequencies as in Wi-Fi. This cost-effective technology claims to produce data rates of 150 Mbps and one-watt LED bulb can connect up to four computers. To inaugurate, 10 Sample Li-Fi kits will be displayed on Nov-5 in Shanghai.

@@ -1,1 +1,0 @@
-The voting system used to choose an Oscar winner is designed to ensure that the choice with the broadest support wins. Under the system introduced in 2009, the choice with the least number of votes is eliminated and the eliminated votes are counted according to their second preference. This is repeated until a choice receives over 50% of the vote.

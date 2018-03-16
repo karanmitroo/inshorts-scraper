@@ -1,1 +1,0 @@
-Dutch physicists have discovered a new way to make Magnetic Random Access Memory (MRAM) more efficient by using a current pulse. MRAM is faster and more efficient than other kinds of data storage but requires high volume of electrical power. The new concept uses current pulse to bend the electrons in an MRAM bit, making it faster and more energy-efficient.

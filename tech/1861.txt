@@ -1,1 +1,0 @@
-Around 40% of the targets of new malware Xafecopy Trojan which steals money through victims' mobile phones have been detected in India, according to cyber security firm Kaspersky. The malware disguises itself as useful apps and then secretly loads malicious code onto the device. The users' money is then stolen by charging costs directly to their phone bill. 

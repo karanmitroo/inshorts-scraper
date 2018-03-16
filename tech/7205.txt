@@ -1,1 +1,0 @@
-Blackberry on Tuesday unveiled its second Android smartphone, DTEK50, which it claims is the world's most secure Android device. The $299-phone lets users automatically monitor their OS and apps to know when their privacy could be at risk. It also offers full disk encryption and secure boot process, wherein each stage of boot chain will verify the next stage's status.

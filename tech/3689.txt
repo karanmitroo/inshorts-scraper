@@ -1,1 +1,0 @@
-The test location of Amazon's Go, a store which detects items picked and charges customers through an app, reportedly breaks down if more than 20 people are in it. The technology has trouble following a large number of people with its cameras, sensors and algorithms, the report said. Amazon has been planning to publicly launch the store by March end.

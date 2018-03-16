@@ -1,1 +1,0 @@
-Microsoft is planning to add eye-tracking support for Windows 10 to help users suffering from neuro-muscular diseases and other disabilities. Its features involve gazing at apps to launch them or using an onscreen keyboard to glance at characters and type out words. Microsoft said the feature had its origin in a company hackathon in 2014.

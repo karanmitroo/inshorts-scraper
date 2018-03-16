@@ -1,1 +1,0 @@
-Technology major Google on Wednesday announced an optimised version of the Android operating system for entry-level phones with 1 GB RAM or less. Called 'Android Go', the OS will use less memory, storage, and data than normal Android versions. Further, Google Play Store will highlight apps which take up under 10 MB space and can run on cheaper devices.

@@ -1,1 +1,0 @@
-A researcher has claimed Apple gave access to a code to Uber that could let the cab-hailing startup record users' iPhone screens. Uber said the code was removed with previous improvements to its app and was used to improve the rendering on its Apple Watch app. The researcher also claimed Uber was the only third-party app to gain the access.

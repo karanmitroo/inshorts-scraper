@@ -1,1 +1,0 @@
-Hackers behind the Petya ransomware attack, which hit computers in over 60 countries in late June, have wiped out nearly ₹7 lakh worth of bitcoins from the digital wallet used to receive ransoms. After reports suggested that the hackers may be state-sponsored actors, they left a message offering to decrypt every infected computer for a one-off payment of ₹1.7 crore.

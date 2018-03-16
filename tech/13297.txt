@@ -1,1 +1,0 @@
-Facebook on Thursday rolled out embedded posts feature to everyone. Anyone using a third party website, including users who post to personal blogs, can now embed a public Facebook post directly into their own site. Users can find the line of code needed to embed a post or video by clicking on the arrow in the post's upper right-hand corner.

@@ -1,1 +1,0 @@
-Honda Motor had to shut down its Sayama plant in Japan on Monday after it was found that WannaCry ransomware had hit its computer network. The plant, which produces around 1,000 vehicles each day, resumed its production on Tuesday. The WannaCry ransomware exploits a Windows vulnerability and locks up files on computers until demanded ransom is paid in bitcoins.

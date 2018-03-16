@@ -1,1 +1,0 @@
-Locket, a US-based start-up which recently received VC funding, plans to take over an underutilised part of a smartphone, the lock-screen. Locket will place what they call a targeted, 'first glance' ad on the device's lock-screen and will pay the user. The company promises to pay 1 cent/unlock (limited by a built in algorithm), which expectedly comes out as $10/month.

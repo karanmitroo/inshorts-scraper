@@ -1,1 +1,0 @@
-Russians sent infected messages to more than 10,000 US Defense Department Twitter accounts in an attempt to hack them, according to a report sent to US counterintelligence officials. Each malware was tailored to the individuals' interests and tastes. The attached malware connected users to a server that gave Russia access to the victim's Twitter account, the report said.

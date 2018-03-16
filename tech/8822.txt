@@ -1,1 +1,0 @@
-Fingerprint scanners on smartphones can be fooled by using an inkjet-printed paper with the required scan on it, according to a study by Michigan State University researchers. In the study, researchers revealed that they were able to unlock Samsung Galaxy S6 and Huawei Honor 7 by using 2D fingerprints on a special 'AgIC' paper printed with a special conductive ink.

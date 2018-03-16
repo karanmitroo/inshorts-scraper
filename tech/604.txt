@@ -1,1 +1,0 @@
-Intel has warned the big firms against installing security patches for vulnerabilities that became public last week, the Wall Street Journal reported. It comes after it was reported that the new patches also have bugs which are causing reboot problems for some systems. However, end-users should continue to apply updates recommended by their system, Intel said in a blog post.

@@ -1,1 +1,0 @@
-Microsoft on Monday announced its acquisition of Israel-based security company Secure Islands. Following this, the company’s data protection technology will reportedly be integrated into Microsoft’s Azure Rights Management Service. This is Microsoft’s fifth Israeli acquisition of the year. Microsoft was earlier rumoured to acquire Secure Islands for $150 million.

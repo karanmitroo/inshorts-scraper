@@ -1,1 +1,0 @@
-Google on Wednesday announced it has partnered with VMWare to bring Windows access to Chrome OS. VMware Horizon DaaS is broadly meant for customers looking to manage desktop environments as a cloud service. A person owning a Chromebook can use VMware Horizon DaaS to manage Windows desktop, data, and applications.

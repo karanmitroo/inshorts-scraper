@@ -1,1 +1,0 @@
-An Israeli startup has made a smart gun lock 'Zore X' that allows quick access and provides tampering alerts to users. While the tampering alert is sent on the user's phone through an app, the lock prevents the gun from being loaded. It features a rotating dial to set a code that allows unlocking the gun even in the dark.

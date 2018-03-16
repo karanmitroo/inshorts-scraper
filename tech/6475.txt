@@ -1,1 +1,0 @@
-Technology giant Google on Thursday announced the acquisition of cloud software company Apigee in a deal valued at $625 million. Google will pay Apigee shareholders $17.40 per share, at a premium of 6.5%. Apigee has worked with companies like Walgreens, AT&T, and Burberry to build digital products with open application programming interfaces (APIs).

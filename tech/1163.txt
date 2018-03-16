@@ -1,1 +1,0 @@
-After asking users to share their private pictures with it to prevent 'revenge porn', Facebook clarified it is not going to store the images. Users can send their picture to themselves on Messenger to create an unreadable numerical fingerprint of the image, Facebook added. If someone tries to upload those pictures, Facebook will detect the fingerprint and block such uploads.

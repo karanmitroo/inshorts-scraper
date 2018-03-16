@@ -1,1 +1,0 @@
-Google is using its DeepMind Artificial Intelligence (AI) subsidiary to cut down the power consumed by its data centers, a DeepMind Co-founder said. The AI controls how equipment runs inside the data centers to get the most efficient electricity consumption. The technique showed to cut the overall energy consumption by 15% and cooling cost by 40%, the company said.

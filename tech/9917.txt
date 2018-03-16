@@ -1,1 +1,0 @@
-Google on Monday added the long-awaited ability to add reminders in its Google Calendar app on Android and iOS. The feature can be added through Gmail, Google Keep, and Google Now and will be synced to Google Calendar. Reminders, that use Google's knowledge graph to become detailed, keep appearing at the top of the Calendar until users swipe them away.

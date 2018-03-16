@@ -1,1 +1,0 @@
-Amazon has decided to no longer accept advertisements that use Flash after September 1, citing the increasing number of ways they're blocked at the browser as its reason. Amazon reportedly wants to avoid its users getting irritating browser messages about the plugin. Flash’s run of security vulnerabilities has made users, security experts, and browser vendors hostile to it.

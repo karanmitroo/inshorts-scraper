@@ -1,1 +1,0 @@
-A couple with the last name 'Null' recently revealed the problems they face while accessing online services that require users' last name. When 'null', which is a word in computer programming to indicate that there is no value, is entered in a particular field, it generates error messages such as "field cannot be left blank".

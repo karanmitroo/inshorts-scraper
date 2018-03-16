@@ -1,1 +1,0 @@
-Researchers at Massachusetts Institute of Technology have developed a robot that can plan and execute its mission in deep oceans. "These vehicles (robots) could plan their own missions, and execute, adapt, and re-plan them alone, without human support," an official said. At present, much of an engineer's time is spent in directing a robot to carry out a mission plan.

@@ -1,1 +1,0 @@
-Chipmaker Qualcomm on Tuesday announced that it has completed its first test of 5G connection on a mobile device. In the test, Qualcomm's Snapdragon modem chipset achieved speeds of up to 1,000 megabits per second which is faster than the 4G LTE. Qualcomm also announced its first 5G smartphone reference design to test 5G modems, radios, and networks.

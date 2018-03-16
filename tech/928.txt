@@ -1,1 +1,0 @@
-Google is testing a feature for Google Maps that notifies users when to get off a train or bus in real time. The feature offers a "start" button at the bottom of the screen with the journey details, which provides users with live updates on tapping. Notifications will appear within the app as well as on the Android lockscreen.

@@ -1,4 +1,0 @@
-Apple on Tuesday launched a new version of its Mac operating system called 'macOS Sierra'. The new operating system will automatically push old files — videos watched, pictures which the user hasn't looked at in a long time — into the cloud. It also auto unlocks when it detects the connected iPhone or Watch nearby.
-
-
-

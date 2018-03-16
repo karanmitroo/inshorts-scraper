@@ -1,1 +1,0 @@
-Pune Regional Transport Office has developed a ‘School Bus Safety Pune’ app which can help parents track the details of their child’s school bus, driver and attendant as well as the school committee, formed under the school's transport policy. It also includes contact numbers of the drivers, registration number of the vehicle and details of every member of the committee. 

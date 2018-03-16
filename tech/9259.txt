@@ -1,2 +1,0 @@
-
-Google has pulled Adblock Fast, the partner app for Samsung's ad blocking feature, from the Play Store. The app (made by Rocketship Apps) allegedly violates Google Play's policies by interfering with other apps and services. Samsung had started blocking ads, four days ago, on its Android web browser using Adblock.  

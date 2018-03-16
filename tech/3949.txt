@@ -1,1 +1,0 @@
-Researchers at the University of Washington have demonstrated how Google's troll-detecting tool 'Perspectives' can be fooled using misspelt words or wrong punctuation. The tool assigns a 'toxicity score' to comments, for example, "It's stupid and wrong" was rated 89% toxic. However, "It's stuipid and wrong" was rated only 17% toxic by the tool, researchers said. 

@@ -1,1 +1,0 @@
-Israel-based 3D imaging startup Vayyar has developed a $200 device called 'WalabotDIY' that lets users see at least four inches through walls. Using algorithms which detect radio emissions and reflections of different objects, the device and its app figure out what is behind a wall in real-time. The device helps find out wires, studs and pipes behind walls.

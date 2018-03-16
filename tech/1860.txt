@@ -1,1 +1,0 @@
-Massachusetts Institute of Technology has created a map called RiskMap to track real-time flooding by hurricane in the US. RiskMap is a crowdsourced platform which can be updated by users through contacting its chatbot. It allows users to submit their location, depth of water, a picture and description of the scenario which can be seen by others in real-time.

@@ -1,1 +1,0 @@
-French smart device maker Netatmo has launched 'Presence', a security camera with built-in artificial intelligence (AI) that helps it distinguish between people, cars, and animals. Priced around $300, the WiFi enabled camera can be set up to record only when it detects a specific object, like a car, and send a notification to the user's phone via an app.

@@ -1,1 +1,0 @@
-Google at its I/O developer conference on Wednesday announced 'Instant Apps', a new Android feature that lets users run apps instantly without downloading. It will let users access a specific piece of information on an app by simply tapping on a URL, without installing or logging into it. The new feature will be rolling out to users later this year.

@@ -1,1 +1,0 @@
-Over 660 blacklisted cryptocurrency apps which help hackers steal money and users' personal data were found across 20 app stores, according to a report by cybersecurity firm RiskIQ. Google Play had the highest number of such apps at 272. About 3% of the apps with "Bitcoin exchange" and 2.6% using "Bitcoin wallet" in the title were blacklisted.

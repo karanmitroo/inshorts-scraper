@@ -1,1 +1,0 @@
-A Cambridge study has found that user data is retrievable from Android devices that have been wiped via the built-in factory reset feature. Twenty-one android devices running android were examined of which 80% yielded the master token, used to access Google account data like Gmail and Google Calender. Multimedia files and login credentials were also recovered from wiped phones.

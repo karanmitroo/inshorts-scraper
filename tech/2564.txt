@@ -1,1 +1,0 @@
-Google's self-driving car spinoff Waymo has announced it's teaching its driverless cars how to respond to emergency vehicles like fire trucks, ambulances, and police cars. Waymo has developed sensors that let cars see flashing lights from far off and detect where sirens are coming from. The cars can make way for ambulances or stop to let them pass first.

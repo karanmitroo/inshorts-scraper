@@ -1,1 +1,0 @@
-A flaw in the boot entry of the computer operating system Linux reportedly lets anyone access a password-secured computer by hitting the backspace key 28 times. The flaw was first reported by two researchers from the Polytechnic University of Valencia. The flaw persists in the Linux version introduced in December 2008, and will affect loader versions till December 2015.

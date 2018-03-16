@@ -1,1 +1,0 @@
-A hacker known as Sprite_TM has built a fully functional miniature Game Boy that fits on a keychain. Based on a 96 X 64 pixel colour OLED screen, the mini Game Boy includes direction pad, buttons, and a built-in speaker encased within a custom 3D-printed case. It also allows users to load new games via WiFi. 

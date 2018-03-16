@@ -1,1 +1,0 @@
-Researchers at mobile security firm Lookout have discovered malware, 'Dark Caracal', designed to look like WhatsApp texts to steal user data. Hackers sent WhatsApp messages or Facebook group links for users to click in order to gain access to their Android phones and computers. Reports suggest that the malware targeted military personnel, activists, journalists, and lawyers.

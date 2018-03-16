@@ -1,1 +1,0 @@
-Security firm Zerodium is offering a $1.5 million (nearly ₹9.9 crore) bounty to anyone who can provide a working zero-day hack for iOS 10. To claim the award, the participants need to submit a previously undocumented security flaw that enables remote jailbreaking of Apple's mobile platform. The security firm had earlier announced a $1 million bounty for iOS 9.

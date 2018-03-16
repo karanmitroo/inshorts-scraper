@@ -1,1 +1,0 @@
-Yahoo has revealed that all of its three billion users' accounts were hacked in the 2013 data theft, tripling its earlier estimate of one billion. However, the stolen data didn't include passwords in clear text, payment card data, or bank account information. Notably, Verizon had cut down its Yahoo acquisition offer from $4.83 billion to $4.4 billion over the breaches.

@@ -1,1 +1,0 @@
-A report by the US Government Accountability Office has revealed that the FBI has built a facial recognition software using 411.9 million images. For compiling the database, the FBI used the driver's license, passport and visa photo databases. However, the FBI reportedly didn't make public disclosures required by the law about how they harvested and used personal information.

@@ -1,1 +1,0 @@
-Electric carmaker Tesla has hired Apple's Senior Director and Architect Chris Lattner as its Vice President of Autopilot software. During his 11-year stint at Apple, Lattner led the creation of Swift, the programming language for building apps on Apple platforms. Tesla claims Autopilot is a full self-driving capability at a safety level substantially greater than that of a human.

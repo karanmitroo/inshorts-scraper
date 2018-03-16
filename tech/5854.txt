@@ -1,1 +1,0 @@
-US-based company, Airspace has unveiled a 'drone bounty hunter', a quadcopter that is designed to capture other stray drones that infringe on private airspace. The drone uses machine vision and deep learning to detect unwanted drones in the sky and lock onto them. It then uses a net-like mechanism to capture the stray drones without damaging them.

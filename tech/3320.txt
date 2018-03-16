@@ -1,1 +1,0 @@
-A Malaysian architecture student, Haseef Rafiei, has designed the concept of a skyscraper called 'Pod Vending Machine' that would 3D-print houses. The skyscraper will have a 3D printer installed on its top that will print and dispense houses room-by-room. The building will get taller and the 3D printer will move upwards with the increasing number of houses.

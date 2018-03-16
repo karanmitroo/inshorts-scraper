@@ -1,1 +1,0 @@
-Social media giant Facebook has launched a feature that supports a standard 3D file format (gITF 2.0) which allows users to share 3D posts in the News Feed section. The feature also allows users to drag-and-drop 3D objects into the feed. The developers can also build 3D modelling apps or 3D cameras that directly share to the News Feed.

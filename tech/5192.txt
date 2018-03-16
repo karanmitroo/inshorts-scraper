@@ -1,1 +1,0 @@
-The European Organisation for Nuclear Research (CERN) has introduced a robotic inspector to ensure fail-safe operations at the Large Hadron Collider, world's largest and most powerful particle collider. The Train Inspection Monorail is a vehicle built to transport instruments along suspended tracks. It can help monitor figures like oxygen level and temperature in real time.

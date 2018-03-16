@@ -1,1 +1,0 @@
-Microsoft Research has released a video demonstrating a technology called "pre-touch sensing" which can recognize user's grip around the phone and their hovering fingers immediately above it. This would allow the phone to anticipate users' interactions based on the number of fingers involved, their orientation and how far they are from the screen.

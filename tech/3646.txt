@@ -1,1 +1,0 @@
-Apple has fixed an iOS vulnerability that an 18-year-old had exploited in October last year to trick iPhones into dialing US emergency service number 911. The teenager shared a link on Twitter, tapping on which dialled 911 non-stop till the iPhone was shut down. However, tapping on the link on Android devices redirected users to a site that said "LOLOLOLOLOLOLOL."

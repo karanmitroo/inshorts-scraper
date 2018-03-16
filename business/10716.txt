@@ -1,1 +1,0 @@
-All mobile carriers failed to meet the call drop rate benchmark of under 2% in a test conducted by the Telecom Regulatory Authority of India (TRAI) in Darjeeling and Sikkim this year. State-run BSNL was the worst performer in both Darjeeling and Sikkim with a call drop rate of 21.05% in 2G and 17.11% in 3G respectively.

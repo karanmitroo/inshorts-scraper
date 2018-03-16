@@ -1,1 +1,0 @@
-Researchers from the University of North Carolina have demonstrated how facial recognition systems can be hacked using publicly available photographs of individuals. The researchers created 3D models of the volunteers' faces using three to 27 photos of each individual from social networks like Facebook and LinkedIn and edited their eyes to direct them towards the camera.

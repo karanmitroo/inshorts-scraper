@@ -1,1 +1,0 @@
-In an update, Google Maps has started displaying whether a location, like a building or restaurant, is accessible by wheelchair. The information is available under the Amenities section when looking up a place in Maps. The feature was built by Google Drive product manager Rio Akasaka in the 20% time that Google offers employees to work on their own projects.

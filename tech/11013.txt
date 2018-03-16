@@ -1,1 +1,0 @@
-Samsung Galaxy phones could be hacked by exploiting a problem with the Samsung IME keyboard, a re-packaged version of SwiftKey. Hackers can look through the phones’ camera, listen to the microphone, read incoming and outgoing texts and install malicious apps, researchers said. Over 600 million users using Galaxy S6, Galaxy S5 and Galaxy S4 among others have been left exposed.

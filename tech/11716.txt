@@ -1,1 +1,0 @@
-Facebook handsomely rewarded Indian techie Laxman Muthiyah with $12,500 for discovering a potent, malignant bug that could destroy anyone's pictures on the site arbitrarily. The bug was then fixed by Facebook in about two hours. Muthiyah gave a detailed breakdown of how the bug worked, and anyone with moderate technical know-how could have easily misused the bug.

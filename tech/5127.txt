@@ -1,1 +1,0 @@
-Online food ordering startup Just Eat has started delivering food to its customers in London using self-driving robots. Developed by Starship Technologies, the six-wheeler robots use GPS and various sensors to deliver food by rolling along pavements. The robots can carry up to 9 kg and can only be accessed using a code sent to the user via text.

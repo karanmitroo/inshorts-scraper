@@ -1,1 +1,0 @@
-Technology giant Google has rolled out the "Hey Google" voice command for its Assistant in the latest Google app update. The update asks users to re-setup the voice model and allows them to choose either "Ok Google" or "Hey Google" to activate Google Assistant. The voice command will work even if a device's screen is locked. 

@@ -1,1 +1,0 @@
-Instant messaging service WhatsApp has launched its voice calling feature for BlackBerry 10 devices. The feature will, however, allow BlackBerry users to make VoIP calls for free as long as they are on Wi-Fi, not a cellular network. Earlier in BlackBerry, the voice calling feature was available only to those users who had the beta version of the app.

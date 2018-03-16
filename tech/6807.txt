@@ -1,1 +1,0 @@
-Stock photo service 500px on Thursday launched a search engine to discover photos based on drawings instead of text queries. Called Splash, the engine lets users draw the image they are looking for on a blank space with colour brushes of selectable size. 500px’s algorithm then scans through its database in real-time and returns images resembling the user's sketch.

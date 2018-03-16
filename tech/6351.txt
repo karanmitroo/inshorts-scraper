@@ -1,1 +1,0 @@
-Search giant Google runs on two billion lines of code, which is 5,000 times more than the code required by one of the earliest space shuttles launched in 1982, which required 400,000 lines of code. While social media giant Facebook requires 61 million lines of code to run, Android operating system needs 1.18 million lines of code. 

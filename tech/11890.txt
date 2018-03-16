@@ -1,1 +1,0 @@
-As per reports, Microsoft is working on a project codenamed "Spartan", under which it aims to launch a brand new browser that's more like Chrome and Firefox and less like Internet Explorer. However, Microsoft won't completely kill off IE in Windows 10, sources said, adding that it will be included for sites that have been fine-tuned to function with IE.

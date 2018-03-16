@@ -1,1 +1,0 @@
-Researchers from MIT have created smart temporary tattoos called 'DuoSkin' that can interact with smartphones and even store data. DuoSkin tattoos can change colour according to skin temperature, transmit data through NFC, or be used as 2D trackpads. The tattoos, which are applied to the skin through water-transfer, use gold leaf as the conductor and can also contain LED lights.

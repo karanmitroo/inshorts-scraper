@@ -1,1 +1,0 @@
-Former Samsung engineers have come together to form a startup that builds smart umbrella 'Opus One' which tells the weather report before a user leaves home. Connected to the user's smartphone through an app, the umbrella vibrates to notify of any incoming call or text. If the user forgets the umbrella somewhere, the umbrella's handle alerts the user through Bluetooth.

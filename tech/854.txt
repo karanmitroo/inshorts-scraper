@@ -1,1 +1,0 @@
-Researchers using Google's artificial intelligence (AI) and NASA's Kepler Space Telescope have found the eighth planet around a Sun-like star, making it the first to tie with our solar system in number of planets. The AI was trained to look for changes in the star's brightness, which suggests a planet passing in front of it, to find the previously-missed planet.

@@ -1,1 +1,0 @@
-A team of researchers has developed a new light effect transistor that does not rely on the semiconductor doping process. According to the team, this device is simpler than a field effect transistor, where the amount of electricity depends on the amount of voltage applied. In a light transistor, the amount of current depends on the amount of incident light.

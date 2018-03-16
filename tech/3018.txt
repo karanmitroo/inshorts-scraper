@@ -1,2 +1,0 @@
-Japanese authorities on Monday reportedly arrested a 14-year-old boy for creating a malware similar to the WannaCry ransomware which hit 150 countries last month. According to reports, the boy learned how to create the ransomware through free encryption programmes. The malware was designed to demand payment from infected computers via digital currency, but no financial losses have been reported.
-

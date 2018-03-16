@@ -1,1 +1,0 @@
-Melissa Levine, an American television researcher, has filed a class-action lawsuit against Glassdoor for revealing her email address. Last week, Glassdoor began emailing its users to tell them about an update to its terms of service. The company put all the email addresses in the CC field instead of the BCC field in the email, effectively revealing over 6,00,000 users.

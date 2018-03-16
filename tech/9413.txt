@@ -1,1 +1,0 @@
-Walmart on Tuesday launched a new open source platform for cloud and application lifecycle management called OneOps that will help developers in writing, launching and maintaining their apps. The new platform would also allow the users to work with multiple public and private cloud platforms such as Microsoft Azure, Rackspace and AWS, the company said.

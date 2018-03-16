@@ -1,1 +1,0 @@
-Tech giant Google has launched a new tool called Google Cloud Search for its business customers. The tool will allow users to search across G Suite products, including Drive, Gmail, Sites, Calendar, Docs, Contacts and more. Cloud Search is designed for use in larger companies where different groups and individuals have access to different files.

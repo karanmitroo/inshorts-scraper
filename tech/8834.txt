@@ -1,1 +1,0 @@
-Mobile security firm Lookout has launched a new app for Apple Watch that lets users locate a lost or stolen iPhone by pointing them to its last known location. The app triggers a loud 'scream' or sound alert on iPhone which lets the user find a misplaced phone. It also alerts the users when they leave their iPhone behind.

@@ -1,1 +1,0 @@
-Germany's Daniel Kaesmacher(33) and Falk Wolsky(36), have developed a hi-tech pen called Lernstift that gently vibrates every time it senses a spelling mistake or sloppy handwriting. The pen has a special motion sensor and a small battery-powered Linux computer with a WiFi chip which helps the pen  to recognise a spelling mistake or sloppy handwriting.

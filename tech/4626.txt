@@ -1,1 +1,0 @@
-Social media giant Facebook has said that it has fixed a bug in the Messenger app for Android which was causing battery issues. Users complained that the app was making their phones heat up in addition to draining the battery, even when running in the background. A Facebook executive said that restarting the app should fix the issue for users.

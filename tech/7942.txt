@@ -1,1 +1,0 @@
-University of Michigan engineers have developed a new technology, dubbed ForcePhone, that can add the force-sensitive capabilities, found in the latest iPhone devices, to any phone. It causes the phone to emit an 18-24 kHz sound wave through the phone's speaker and detects the changes in the wave through the microphone when a user presses a finger against the screen.

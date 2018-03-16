@@ -1,1 +1,0 @@
-The Yo-Yo test evaluates an athlete's aerobic endurance fitness, requiring him to run between two lines, 20 metres apart, and turn when signaled by beeps. After every minute, the pace gets quicker and he's given two more beeps to catch up on not reaching the line in time. The test is stopped when he fails to catch up with pace.

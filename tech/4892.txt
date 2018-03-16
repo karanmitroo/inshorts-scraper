@@ -1,1 +1,0 @@
-Some users of Google's Pixel and Pixel XL smartphones have complained of their devices freezing randomly, making them unusable for a few minutes. The issue is reportedly caused by third-party apps which do not conform to the latest Android Nougat update. Clearing the phone's cache has been suggested as a fix on Google's product forum.

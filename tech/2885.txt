@@ -1,1 +1,0 @@
-A cybersecurity researcher has claimed that Samsung left lakhs of users vulnerable to hackers after it failed to renew a domain which was used to control a popular stock app on older models. Hackers could potentially take control of the domain to install a backdoor or distribute malware-laced apps directly to Samsung users. However, Samsung has denied any such risk.

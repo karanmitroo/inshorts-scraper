@@ -1,1 +1,0 @@
-Tech giant Google has hired Apple micro-architect Manu Gulati who worked on the company's chip development for nearly eight years. Google currently relies on third-party chips for all their products, with Pixel smartphones using Qualcomm. The company hired Gulati with the goal of designing its own CPUs for Pixel phones, according to reports.

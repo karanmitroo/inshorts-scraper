@@ -1,1 +1,0 @@
-The VLC media player has started supporting 360° videos on its desktop app and released a technical preview of the feature on its website. The preview of 360° video-watching is currently available for Windows and Mac computers. The full support of the feature is expected to launch by the end of the month.

@@ -1,1 +1,0 @@
-Google Maps uses the location services function on devices to track the coordinates of a place. It combines real-time data from all enabled devices to determine the number of cars on roads and predict the trip time. Google has also compiled information to create traffic histories and uses it to determine whether traffic is running slower or faster than usual. 

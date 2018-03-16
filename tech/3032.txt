@@ -1,1 +1,0 @@
-Researchers have discovered a type of malware that spreads through PowerPoint files and can infect computers as soon as the user hovers over a link in the document without clicking on it. The file has names like "order.ppsx" or "invoice.ppsx" and is sent as an attachment through email to victims with the subject line or "Fwd:Confirmation".

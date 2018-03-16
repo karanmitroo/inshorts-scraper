@@ -1,1 +1,0 @@
-Twitter on Tuesday launched a mobile application on the Android and iOS platforms for its mobile development toolkit Fabric. The app, which uses push notifications rather than sending mails, provides the health and all the important data of an app to the user. Fabric is currently centered around Crashlytics, Twitter’s tool for discovering issues with apps.

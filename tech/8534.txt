@@ -1,1 +1,0 @@
-Microsoft on Friday unveiled the 'Skype Web SDK' and 'Skype for Business App SDK', that would allow developers to integrate Skype's capabilities into their own applications. The Web SDK allows building a real-time collaboration of chat, audio and video among others into their browser-based apps, while the Business App SDK will bring Skype into a business's iOS and Android apps.

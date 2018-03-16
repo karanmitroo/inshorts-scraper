@@ -1,1 +1,0 @@
-Google has released a new update regarding its snooze feature in Gmail. When a user now snoozes an e-mail, he gets a one-tap option to snooze it to an exact time which makes it appear at the top of his inbox when it is most critical. This option covers e-mails like package tracking updates, event reservations, and calendar invites.

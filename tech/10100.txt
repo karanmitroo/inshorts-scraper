@@ -1,1 +1,0 @@
-Google has announced that its Chrome browser will stop supporting Windows XP, Windows Vista, and Mac OS X 10.6, 10.7, and 10.8 by April 2016. Stating that “these platforms are no longer actively supported by Microsoft and Apple”, Google will continue running Chrome on the said operating systems but it won’t receive updates and security fixes.

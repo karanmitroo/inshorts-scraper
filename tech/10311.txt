@@ -1,1 +1,0 @@
-Apple on Thursday said that it has removed "a few" apps from its App Store, due to concerns about the privacy of users’ data. The company said the concerned apps install "certificates which enable the monitoring of customer network data that can in turn be used to compromise" their security. The removed apps include ad-blocker ‘Been Choice’.

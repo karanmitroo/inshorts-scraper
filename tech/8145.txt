@@ -1,1 +1,0 @@
-Opera web browser today launched a developer version of its power-saving mode for Windows and OS X computers. It claims to extend the battery life of the laptops by up to 50% compared to Google Chrome, depending upon their hardware. The mode can be activated by clicking a 'battery icon' on the search and address field of the browser.

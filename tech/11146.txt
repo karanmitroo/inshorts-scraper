@@ -1,1 +1,0 @@
-Massachusetts Institute of Technology researchers have trained their robotic Cheetah to jump over hurdles while running, making it the first four-legged robot to do that autonomously. The Cheetah "sees" with LIDAR, a visual-system that uses laser reflections to map terrain. It can plan its path, detect obstacles' height and leap over 18-inch objects at a speed of 8kmph.

@@ -1,1 +1,0 @@
-Google is reportedly looking at bringing augmented reality (AR) to its camera app. This will be leveraged through Google Goggles, an image recognition app that is used for searching information based on pictures. The technology of the standalone AR app will be merged with the camera, and will also enable outlining "specific areas of the image” for targeted search results.

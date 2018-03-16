@@ -1,1 +1,0 @@
-Technology giant Apple has rolled out iOS 11.1.1 software update to fix keyboard autocorrect issue. This comes after users reported that on typing the letter 'I', the iPhone's keyboard switched it to another letter followed by a symbol. The software update will also fix the bug that could stop 'Hey Siri' from functioning.

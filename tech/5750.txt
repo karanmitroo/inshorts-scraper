@@ -1,1 +1,0 @@
-A Michigan-based Indian-origin researcher and his team have created life-size 3D hand models, complete with fingerprints, using a high-resolution 3D printer that can produce the same ridges and valleys as a real finger. The team created the 'fake hands' to test the robustness and reliability of commercial fingerprint scanners used at banks and airport immigration counters.

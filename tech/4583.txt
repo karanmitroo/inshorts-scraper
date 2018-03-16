@@ -1,1 +1,0 @@
-A 22-year-old graduate from Oklahoma, USA claims to have spent 9 hours and 36 minutes to reach the bottom of a Microsoft Excel spreadsheet. Hunter Hobbs pressed the down arrow key till he reached row number 10,48,576. As per Microsoft's support page, the maximum size of an Excel spreadsheet is 10,48,576 rows by 16,384 columns.

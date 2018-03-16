@@ -1,1 +1,0 @@
-Video-sharing platform YouTube had to update its video view counter after views on the 'Gangnam Style' music video by South Korean singer Psy exceeded the previous limit. In a 2014 post, YouTube said, "We never thought a video would be watched in numbers greater than a 32-bit integer (=2,147,483,647 views)." The updated limit allows over 9 quintillion views.

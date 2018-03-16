@@ -1,1 +1,0 @@
-Search giant Google on Monday revealed that the M in Android M stands for ‘Marshmallow’. Along with the name, the company released a final developer preview of Marshmallow, and SDKs for Android 6.0 - Marshmallow’s official build number. The Android 6.0 Marshmallow will be available to the public later this fall.

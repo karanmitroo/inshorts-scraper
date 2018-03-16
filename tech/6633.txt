@@ -1,1 +1,0 @@
-Online file hosting service Dropbox recently revealed that login details of over 60 million users were stolen in 2012 by hackers who reused an employee’s password from a LinkedIn breach. Dropbox last week had asked its users to reset their passwords and took steps to ensure that its employees do not reuse the passwords on their corporate accounts.

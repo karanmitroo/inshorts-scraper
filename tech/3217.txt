@@ -1,1 +1,0 @@
-A Reddit user has spotted a WhatsApp URL that redirects users to a fake website to download a spam application. The fake website's domain name uses characters from the Cyrillic alphabet that look like English letters. The site promises to let users install WhatsApp in different colours, and then further leads them to a Google Chrome extension called 'BlackWhats'.

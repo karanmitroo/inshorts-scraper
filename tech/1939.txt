@@ -1,1 +1,0 @@
-Google's Search app on iOS has introduced the 'What's New' feature to show user searches that are trending when they tap into the search box. The feature also provides 'instant answers' as a user types his query. Google included an opt-out option after users gave negative reviews when the feature was introduced to Android last year. 

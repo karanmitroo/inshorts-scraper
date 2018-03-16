@@ -1,1 +1,0 @@
-A Chinese malware named 'Fireball' has hit 25 crore computers worldwide, infecting them with malicious code designed to change the default search engine. The malware further tracks the infected computer's web traffic on behalf of a Beijing-based digital marketing firm called Rafotech. The malware also has the ability to remotely run any code on the victim's machine.

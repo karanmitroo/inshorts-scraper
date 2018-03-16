@@ -1,1 +1,0 @@
-Google has announced that it is rebranding its Chromecast app to Google Cast app this week. The app allows video and audio streaming from Android devices to not just Google’s own thumb-sized Chromecast dongle, but also other third-party devices. The name change has occurred to better reflect this recent expansion of the platform, which also supports TVs, displays and speakers.

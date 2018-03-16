@@ -1,1 +1,0 @@
-A 14-year-old Hungarian student named Daniel Kiss has developed Bloxx, a physics-based game for Android devices. The 3D game is focussed on users controlling a sphere from start to end point across various obstacles without letting it fall, over 30 levels of gradually increasing difficulty. The game is available on the Google Play Store at $0.99.

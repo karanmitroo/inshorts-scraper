@@ -1,1 +1,0 @@
-Oracle on Wednesday announced that they will ditch the Java web browser plugin in the next year's release of Java development kit (JDK 9). The news comes after Chrome and Firefox developers announced their plans to remove plugin support. Notably, antivirus maker Kaspersky had previously claimed that the Java plugin was responsible for half of all cyber attacks in 2012.

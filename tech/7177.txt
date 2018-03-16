@@ -1,1 +1,0 @@
-An 'All-in-One Messenger' app for Google Chrome was launched on Wednesday that lets users use different chat applications without opening multiple windows. It currently supports 29 messaging services including WhatsApp, Skype, WeChat, and Slack. The app, which can be downloaded from the Chrome Web Store, is compatible with computers running Windows, Mac, Linux or Chrome OS.

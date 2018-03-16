@@ -1,1 +1,0 @@
-Nvidia CEO Jen-Hsun Huang announced on Tuesday that the company has created a new chip, 'Tesla P100', with 15 billion transistors for deep-learning computing. The chip, which takes up 600 square millimeters, is the biggest chip ever made, Huang said. He also showed a demo where a neural network was trained to recognize paintings and then create its own painting.

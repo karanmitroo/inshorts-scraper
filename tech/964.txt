@@ -1,1 +1,0 @@
-Google has banned Android apps from the Play Store if they show ads on a phone's lockscreen. According to the technology giant, Android apps "may not introduce features or ads that monetise the locked display of the specific device in which they are introduced". However, this does not apply to the apps that are exclusively for lock screens.

@@ -1,1 +1,0 @@
-The calibration of ATMs refers to the adjustment of the machine to enable it to dispense the valid currency notes. Every ATM has currency cassettes, which hold different notes. As the new ₹500 and ₹2000 notes have different dimensions than the notes in circulation, both the cassette and the ATM software have to be readjusted to dispense new notes.

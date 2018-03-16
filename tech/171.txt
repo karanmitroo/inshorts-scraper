@@ -1,1 +1,0 @@
-Researchers at Google have discovered a method to predict risks of heart diseases through eye scans using artificial intelligence. By analysing retina scans, the software is able to deduce data such as age, blood pressure, and whether a user smokes. The data can then be used to predict any heart disease risk with roughly the same accuracy as current methods.

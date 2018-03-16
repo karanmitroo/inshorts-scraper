@@ -1,1 +1,0 @@
-California-based James Vlahos has created a chatbot called 'Dadbot' using voice recordings of his father, who died in February. After being diagnosed with cancer, Vlahos' father recorded the story of his life. Using 91,970 words-worth of recording, Vlahos taught the AI chatbot to mimic how his father used to talk, including his catch phrases like "hotter than a four-dollar fart".

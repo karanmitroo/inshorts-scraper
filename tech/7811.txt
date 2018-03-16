@@ -1,1 +1,0 @@
-A UK-based startup has made 'Meem', a charging cable that automatically backs up a device every time it is charged. The app-connected cable compatible with both Android and iOS devices includes a small physical device to store a device's data backup. Users can retrieve their backed up data by entering a four-digit PIN on the cable's app.

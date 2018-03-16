@@ -1,1 +1,0 @@
-A new Android app called 'PokeNotify' claims to notify Pokémon Go mobile game players of the Pokémon around them. The app lets users select the Pokémon they are looking for, and be notified automatically on their phone when those Pokémon are near their location. It also allows users to filter out the Pokémon they have already caught.

@@ -1,1 +1,0 @@
-Gmail is working on a warning message to alert users when e-mails arrive through unencrypted connections, that can possibly be prone to snooping and tampering. This comes after a study, that assessed the evolution of e-mail security since 2013, showed that end-to-end encryption was rising. Gmail’s security team said, “These warnings will begin to roll out in the coming months”.

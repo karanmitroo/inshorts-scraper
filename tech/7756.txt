@@ -1,1 +1,0 @@
-Apple announced that all apps in its App Store should switch to its security feature called App Transport Security (ATS) by January 1, 2017. When enabled, ATS forces an app to connect to web services over an HTTPS connection rather than HTTP, which keeps user data secure by encrypting it. ATS feature is enabled by default on iOS 9.

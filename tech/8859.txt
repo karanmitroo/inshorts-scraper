@@ -1,1 +1,0 @@
-A developer has posted a web-based approximation of dyslexic reading in a bid to highlight what it is like to read with the disorder. The webpage actively scrambles letters using JavaScript, forcing readers to concentrate on each word to make sense of what they are reading. The source code for the same is also available for users to see how this applies on other websites.

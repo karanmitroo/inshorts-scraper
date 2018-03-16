@@ -1,1 +1,0 @@
-Hewlett Packard(HP) has admitted that its StoreVirtual storage area network contain a 'backdoor' that allows remote access, which was discovered by Technion, a blogger, who said that these accounts have existed since 2009. Anyone with a username and password meant for backdoor access will be able gain access to the operating system. HP promises to deliver a fix by July-19.

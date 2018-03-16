@@ -1,1 +1,0 @@
-An initiative led by Microsoft has successfully eliminated the 'Superfish' malware from 250,000 Lenovo PCs worldwide. Superfish was pre-installed on Lenovo PCs manufactured between Sep'14-Feb'15 to serve ads to users in their browsers. The adware had some security loopholes that hackers could exploit to gain login credentials and other secure data. 

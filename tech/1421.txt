@@ -1,1 +1,0 @@
-Technology major Microsoft hit back at Google in a blog post after discovering a Chrome security bug and criticised its approach to security patches. According to Microsoft, Google patched the problem in Chrome's beta versions, but the public channel "remained vulnerable for nearly a month." Last year, Google disclosed a major Windows bug before Microsoft was ready to patch it.

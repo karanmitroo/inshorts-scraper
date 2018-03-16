@@ -1,1 +1,0 @@
-Students from a Dutch university have created a smart suit to monitor and analyse the movements of recovering stroke patients. The suit, which is to be worn underneath the clothes for several months, contains 41 sensors that track strength, flexibility, gait and other relevant metrics. The suit aims to improve the recovery process and cut healthcare costs.

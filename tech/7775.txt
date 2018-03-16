@@ -1,1 +1,0 @@
-A digital products maker has developed an app called 'Popflake' which suggests movies to its users based on their interests. Users need to select 'tags' of their interests such as action, drama or science, based on which the app suggests movies from its database. The app claims to have a database of 820 tagged movies.

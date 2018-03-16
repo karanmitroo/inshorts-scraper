@@ -1,1 +1,0 @@
-On-call cab service Uber has upgraded its app, enabling the SOS button to send real-time information on the cab's location and driver's details to a Police Control Room (PCR) instead of dialing 100 for the user. The SOS button on the app was introduced with the aim of putting users' security on the forefront, in the aftermath of Uber-rape case.

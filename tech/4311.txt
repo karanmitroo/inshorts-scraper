@@ -1,1 +1,0 @@
-A hacker recently took control of over 1,50,000 printers worldwide, accidentally left accessible via the internet. Printers from major brands including HP and Canon were hit by the attack, making them print, "For the love of God, please close this port". "I'm helping people fix their problem, but having a bit of fun at the same time," the hacker said.

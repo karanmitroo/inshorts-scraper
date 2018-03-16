@@ -1,1 +1,0 @@
-Project Loon is an experimental 'moonshot' by Google which aims to beam internet to the ground from helium balloons floating 20 km up in the Earth's stratosphere. The GPS-enabled balloons will carry lighter versions of a cell tower's components and have a coverage area of 5,000 square kilometers each. The project aims to extend connectivity in rural and remote areas.

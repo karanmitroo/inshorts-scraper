@@ -1,1 +1,0 @@
-The Bluetooth Special Interest Group, the not-for-profit corporation that oversees the development of Bluetooth standards, introduced its next major version 'Bluetooth 5', slated for late 2016 to early 2017 release. The new version will quadruple the range and double the speed of low energy connections. It will also increase the connectionless data broadcasting capacity by 800%.

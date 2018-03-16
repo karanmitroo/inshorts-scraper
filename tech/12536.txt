@@ -1,1 +1,0 @@
-The Yo app, which lets users say a single word - "Yo" - to their friends, sending them a text notification accompanied by a recorded voice shouting the greeting, has raised $1 million in two months. "People think it's just an app that says 'Yo'. But it's really not. We like to call it context-based messaging," said co-founder Or Arbel.

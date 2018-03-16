@@ -1,1 +1,0 @@
-The US Geological Survey along with several university partners are testing an earthquake early warning system called ShakeAlert for the US west coast including the states of California, Oregon and Washington. The system uses an underground network of seismic sensors to detect an approaching earthquake 10 seconds in advance, sending people a warning notification on their phones.

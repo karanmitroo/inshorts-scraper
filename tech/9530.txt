@@ -1,1 +1,0 @@
-Twitter on Friday updated its polling feature, giving users the ability to customize how long their polls can last for. Earlier, the time duration for Twitter polls was set for 24 hours by default, but it can now be modified to run from five minutes to seven days. Launched last October, the polling feature has been used 1.7 billion times since.

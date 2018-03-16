@@ -1,1 +1,0 @@
-Comment hosting service Disqus earlier this week revealed that it had suffered a major security breach in 2012 which affected 17.5 million users. Data exposed included email addresses, sign-up dates, Disqus user names, and login dates in plain text. Disqus also confirmed that a snapshot of its user database was leaked in 2012 which included information dating back to 2007.

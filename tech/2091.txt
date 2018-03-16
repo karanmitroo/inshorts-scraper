@@ -1,1 +1,0 @@
-Cybersecurity research firm IOActive has demonstrated how industrial robots can be hacked in ways that could harm humans. The hack disables key safety measures put in place to ensure robots can work alongside humans. The hacked robots can penetrate human skin using sharp tools, or cause bruises and fracture bones using force.

@@ -1,1 +1,0 @@
-American package delivery company FedEx has confirmed that it was hit with a breach which reportedly leaked passports, driving licences, and other security IDs of over one lakh customers. The data belonged to Bongo International, which was bought by FedEx in 2014, and was located on a server hosted by a third-party. FedEx claimed that no information was misappropriated.

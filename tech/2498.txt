@@ -1,1 +1,0 @@
-Researchers at MIT have developed a system called 'Pic2Recipe' that claims to determine the ingredients and recipes of food items based on photos from social media. Pic2Recipe was made using a food-identifying algorithm built by Swiss scientists in 2014 with a database of 1,01,000 food images. The system currently has an accuracy rate of about 65%.

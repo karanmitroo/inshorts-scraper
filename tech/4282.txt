@@ -1,1 +1,0 @@
-A video mixing app called 'DJ Trump' lets users create clips of US President Donald Trump delivering different messages. The app stitches together words Trump has said before to form the sentence typed by users. The app currently has a vocabulary of approximately 4,500 words and the maximum length of a single message is 50 words.

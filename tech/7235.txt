@@ -1,1 +1,0 @@
-A security researcher who goes by the name 'avicoder' claims that the source code of Twitter's six-second video app Vine was accidentally made public for five minutes. The researcher said that he found a subdomain on Vine's website, which helped him to discover the app's entire source code. He was paid $10,080 bug bounty by Twitter for finding the code.

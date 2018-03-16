@@ -1,1 +1,0 @@
-Google is working on a new feature that will allow the users to download android applications directly from the Google search, as reported by Android Police on Tuesday. As of now the new feature has been rolled out to a few users for testing while for others, clicking on install button will take them to the Google Play store.

@@ -1,1 +1,0 @@
-A US Appeals Court upheld the 2013 dismissal of claims that Google invaded user privacy by placing "cookies" in browsers to track Internet use. Four users had claimed Google supplied advertisers with data from cookies to target potential customers. However, Google only broke its public promise to respect cookie blockers which can be bad conduct, the court ruled. 

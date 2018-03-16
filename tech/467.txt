@@ -1,1 +1,0 @@
-US-based engineers have developed a Harry Potter-like clock called 'Stata Clock' (formerly Eta Clock) which tracks user location via GPS. The clock allows users to check up on exactly where their friends and relatives are and even track them to different countries. Users can connect to the clock by adding locations in Eta Clock mobile app.

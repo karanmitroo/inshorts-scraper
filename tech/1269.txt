@@ -1,1 +1,0 @@
-Users have claimed that their Google Pixel 2 XL smartphones have been shipped without an installed Android operating system, preventing them from booting. They reported that on being turned on, the device displayed a message which read, "Can't find valid operating system. The device will not start." The device also provided a link to a support page.

@@ -1,1 +1,0 @@
-French security startup Zerodium has announced a contest, The Million Dollar iOS 9 Bug Bounty, inviting hackers to submit an "exclusive, browser-based, and untethered jailbreak” for Apple’s iOS 9 before October 31. CEO Chaouki Bekrar, known for selling security exploits to intelligence agencies, has promised a reward of $1 million each to three individuals or groups of people.

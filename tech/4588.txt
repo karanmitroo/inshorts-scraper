@@ -1,1 +1,0 @@
-Non-profit digital library Internet Archive has created a Chrome extension called 'The Wayback Machine' which will let users avoid webpages with the "Page not found" or "404" error. If a user reaches an invalid webpage, the extension will automatically search for an archived version of the same. Internet Archives has been maintaining screenshots of webpages since the mid-1990's.

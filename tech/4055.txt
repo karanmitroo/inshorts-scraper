@@ -1,1 +1,0 @@
-Technology major Google has issued an apology to users of Google Wifi and OnHub routers after inadvertently resetting some devices to factory setting. Google claimed the issue was caused by a problem in Google Accounts engine, which erased users' saved settings on their devices. Users had earlier taken to social media to complain that their routers may have been bricked.

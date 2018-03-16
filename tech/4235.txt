@@ -1,1 +1,0 @@
-After launching the Android version of the mobile payments app BHIM in December 2016, the National Payments Corporation of India (NPCI) on Saturday released the application on iOS devices. The app has a limit of ₹10,000 per transaction and ₹20,000 per day for transfers through a bank account. Features of the app include Pay to Aadhaar number and SPAM report.

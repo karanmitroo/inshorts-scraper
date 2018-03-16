@@ -1,1 +1,0 @@
-A lip-reading software by researchers from Google's artificial intelligence division DeepMind and the University of Oxford successfully beat a human professional in terms of accuracy. The software correctly annotated 46.8% of the test video, while the professional was only accurate 12.4% of the time. The program was trained using over 5,000 hours of footage from British TV shows.

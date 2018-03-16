@@ -1,1 +1,0 @@
-Photo editing app Prisma has launched an offline mode for its iOS app that allows the users to edit their photos without any internet connection. The time taken to process images in the offline mode is quicker than the standard time taken, depending on the phone's hardware. The offline mode on Android may be launched in the next two weeks.

@@ -1,1 +1,0 @@
-Mobile travel marketplace ixigo has launched a PNR prediction feature for Indian Railways to determine if waitlisted passengers will be able to secure a confirmed berth. The company mined data from over 10 million PNR checks over two years for the service. Co­-founder & CTO Rajnish Kumar said they expect to go from their current 90% accuracy to 95% soon.

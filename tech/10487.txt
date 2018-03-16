@@ -1,1 +1,0 @@
-The Bangalore traffic police is launching an app to allow citizens to register complaints against drivers who refuse hire or charge excess fare. After boarding the auto-rickshaw, passengers can submit the details of the driver and the vehicle and it will start tracking the journey through GPS and alert the passenger if the driver is taking a longer route.

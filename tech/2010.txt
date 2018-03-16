@@ -1,1 +1,0 @@
-China-based technology startup DJI has launched a bug bounty programme to pay up to ₹20 lakh to find bugs in its drones. The DJI Threat Identification Reward Program aims to identify threats to users' private data, videos, and logs. The move came after a ban by the US Army grounded DJI's drones after unspecified "cyber vulnerabilities" were discovered.

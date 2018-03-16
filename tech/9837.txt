@@ -1,1 +1,0 @@
-Micro-blogging site Twitter on Tuesday rolled out its 'Highlights' feature for Android app users in India. The new feature lets users get a summary of top tweets from the day or events discussed on Twitter on their timeline. These tweets are being presented in the form of cards on the app, which can be scrolled horizontally.

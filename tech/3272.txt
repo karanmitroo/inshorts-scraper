@@ -1,1 +1,0 @@
-Images of the user interface of Google's under-development operating system 'Fuchsia' have surfaced online. Unlike Google's Android OS for smartphones and Chrome OS for PCs, which are based on Linux, Fuchsia is based on Google's own platform called 'Magenta'. Google has previously said Magenta will be for "modern phones and modern personal computers with fast processors."

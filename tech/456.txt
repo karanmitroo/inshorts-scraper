@@ -1,1 +1,0 @@
-Researchers at Israel-based security firm Checkmarx have discovered a bug in the dating app Tinder which allows hackers to access a user's photos and matches. Researchers said the app lacks basic HTTPS encryption, letting hackers see a user's Tinder photos or add their own in the photostream just by connecting to the same WiFi as the user. 

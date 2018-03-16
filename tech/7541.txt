@@ -1,1 +1,0 @@
-A London-based startup has developed a smart sensor called 'Mogees Play', that turns any surface into a musical and gaming device. The sensor needs to be plugged into a smartphone or a tablet and then attached to any object. It senses vibrations in the objects when they are touched and converts them into sound or displays action on a screen.

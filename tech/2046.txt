@@ -1,1 +1,0 @@
-A function in iPhone's settings lets users check how much time they spend on every particular app on their phone. The 'Battery' option on the Settings tab shows apps sorted by the amount of energy they've used over the past 24 hours. Clicking on the accompanying clock icon, the screen displays the time spent on each specific app.

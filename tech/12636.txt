@@ -1,1 +1,0 @@
-A recent update to Canary browser - the experimental version of Chrome - added a feature that hides long URLs. Instead, when users view web pages, the browser only reveals the website name and domain, not the entire URL. This is similar to the mobile version of Safari, which already hides the full URL in iOS 7 by default.

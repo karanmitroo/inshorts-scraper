@@ -1,1 +1,0 @@
-The popular URL shortening service Bitly says it has "reason to believe that its account credentials have been compromised." As a security precaution Bitly has disconnected all users' Facebook and Twitter accounts from the service. Moreover, the company is asking its users to take certain steps like resetting passwords, changing API key and OAuth token, to secure their accounts.

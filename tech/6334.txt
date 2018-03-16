@@ -1,1 +1,0 @@
-A Finnish startup has developed an Augmented Reality (AR) system that turns climbing walls into interactive surfaces, enabling users to play games like 'Whack-A-Bat' and 'Climball'. The AR setup monitors users as they move across a climbing wall through a depth sensor, computer vision technology and a video projector. The mobile setup can be installed on existing climbing walls.

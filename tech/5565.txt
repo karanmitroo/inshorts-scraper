@@ -1,1 +1,0 @@
-MIT researchers have devised a new training technique that would reveal the basis for a computer's decision-making process, enabling the neural networks to explain the rationale behind their decisions. Researchers trained the neural nets on textual data to rank beers and found that they rated beers based on aroma and appearance, in almost the same way as humans.

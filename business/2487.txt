@@ -1,1 +1,0 @@
-Gratuity is a benefit offered to an employee for serving an organisation continuously for at least 5 years. For each year of service, the organisation pays an amount equalling 15 days of last drawn salary. To calculate gratuity, the salary is multiplied by 15 and divided by 26, which is then multiplied by the number of years in service.

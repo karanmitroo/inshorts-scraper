@@ -1,1 +1,0 @@
-Following the announcement made by Google last week, its Android Device Manager, which can track your phone's location on Google maps, has now been made available for all Android devices. It also enables you to ring the device at full volume for 5-minutes and even erase all the data. Apple, Microsoft and BlackBerry have already been offering similar services.

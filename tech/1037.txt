@@ -1,1 +1,0 @@
-US-based developer Rashid Osmannuri has developed an app called 'L&F' which lets users find lost items by scanning and tracking them via a map. The app allows users to list their lost items, including the location where they lost them. L&F also sends notification of the items which have been claimed by the users.

@@ -1,1 +1,0 @@
-WhatsApp rolled out a new feature allowing users to backup their conversations on Google Drive, making the process speedier as compared to offline backups. Currently available only on Android, users will have to download the 2.12.45 version from the company's official website. The online backup can be done simply by connecting the Gmail account associated with Drive to WhatsApp.

@@ -1,1 +1,0 @@
-Intel on Tuesday announced it is working on a wireless Virtual Reality (VR) headset called Project Alloy. It contains its own processing power, graphics, batteries and Intel RealSense cameras, and doesn't need to be connected to a phone or computer​, unlike other headsets like Oculus Rift and HTC Vive. The company said it will open-source the project's hardware in 2017.

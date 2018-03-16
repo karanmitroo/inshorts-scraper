@@ -1,1 +1,0 @@
-A robotic surgical system known as The Smart Tissue Autonomous Robot (STAR) outperformed humans and robot-assisted human operators in a soft-tissue procedure on Wednesday. The robot used advanced computer vision tech that worked with fluorescent markers and 3D cameras to get a detailed view of the surgical site. The robot was reportedly superior to humans on a number of metrics.

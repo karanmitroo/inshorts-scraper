@@ -1,1 +1,0 @@
-A road safety application called 'Safely Home' was launched in Gurgaon on Sunday. The application, built by an IIT-D student, is reportedly programmed to automatically send an alert message to the police, ambulance and the user’s family if the phone is detected to be damaged. It will be made publically available on Gurgaon's next Car Free Day.

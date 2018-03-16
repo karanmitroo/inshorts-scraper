@@ -1,4 +1,0 @@
-Starting today, Google Maps users can directly get fare estimates and information on the nearest available cabs for ride-hailing services Ola and Uber. The ride information will be available within a new tab on the Maps app, alongside the existing car, public transport and walking options. Maps will further direct users to the Ola or Uber app to book cabs. 
-
-
-

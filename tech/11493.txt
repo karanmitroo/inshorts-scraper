@@ -1,1 +1,0 @@
-A group of researchers, led by Indian-American scientist Shree K Nayar, has developed world’s first self-powered video camera that runs without battery. The camera, that can produce an image each second, generates energy by converting the light falling on it into electric power. It can also produce power for other devices when it is not used to capture images.

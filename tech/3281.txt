@@ -1,1 +1,0 @@
-American researcher Andre DeMarre had published a post in 2011 detailing the phishing technique used this week to target 100 crore Gmail users. DeMarre claims Google awarded him a "modest bounty" for warning about the exploit, but refused to carry out his suggestion to mitigate the risk. The scam let attackers pose as a trusted contact to access users' emails.

@@ -1,1 +1,0 @@
-Scientists at EPFL University in Switzerland have created the world's first bio-sensor chip which is capable of measuring not just pH and temperature, but also metabolism-related molecules like glucose, lactate, cholesterol and drugs. The chip which is just 1 cm long, is powered by a patch on the skin's surface. The chip was successfully tested on mice.

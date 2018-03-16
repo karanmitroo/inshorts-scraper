@@ -1,1 +1,0 @@
-Over 800 Android apps on Google Play have been found infected with a "silent" data stealing and leaking malware called 'Xavier'. The malware is capable of downloading and executing other malicious codes, as well as stealing users' personal and financial data. The categories of infected apps include photo manipulators, utilities, and wallpaper apps among others.

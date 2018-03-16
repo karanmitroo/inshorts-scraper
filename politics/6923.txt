@@ -1,1 +1,0 @@
-A mobile application, Q4U, was launched for the voters in West Bengal, which will show them the number of voters in queue. The app is available for Android users and voters will have to enter their voter ID card details to know how long the queue is. Alternatively, voters can send an SMS to 7022192666 with their polling ID number.

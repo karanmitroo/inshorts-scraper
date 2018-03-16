@@ -1,1 +1,0 @@
-Alibaba-owned UC Browser's app has been removed from the Google Play Store for allegedly sending data to remote servers in China. The application could access user data even after its removal from the phone, according to Indian government officials. However, the browser, which is known for its data compression features, is still available for download on the Apple Store.

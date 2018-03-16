@@ -1,1 +1,0 @@
-Media software developer VideoLan has announced that the development of a VLC media player application for tvOS— the OS supported by Apple TV—is underway. The company claims to have video playback working on the OS already. The multimedia player is currently supported by Windows and OS X. Media streaming application Plex has also been recently included on Apple TV.

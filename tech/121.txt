@@ -1,1 +1,0 @@
-Microblogging site Twitter said it will no longer allow people to post identical messages from multiple accounts and will bar the use of automation for the same. It will also not allow using automation to do other actions such as liking or retweeting from multiple accounts. The company has offered third-party developers time until March 23 to comply.

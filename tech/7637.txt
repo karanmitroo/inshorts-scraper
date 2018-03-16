@@ -1,1 +1,0 @@
-IBM's machine learning platform Watson is set to scan facial expressions of audience members at the Wimbledon 2016 Tennis Championships. Cameras linked to Watson will work out the player being most supported during the tournament by the audience's facial scan data. The platform will additionally scan conversations on social media platforms to analyse relevant trending content.

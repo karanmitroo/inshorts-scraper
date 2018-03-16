@@ -1,1 +1,0 @@
-UC Berkeley researchers have designed a robot that can jump upward and then spring off a wall, resulting in the highest robotic vertical jumping agility ever recorded. The robot, named Salto, was inspired by animals known for agility, including the bush baby and the agama lizard. According to the researchers, the robot has applications in future search and rescue missions.

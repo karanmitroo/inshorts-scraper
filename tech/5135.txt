@@ -1,1 +1,0 @@
-The latest update to the Google Maps app for iOS has introduced a 'Nearby Traffic' widget that displays traffic updates on the user's home screen. It also sends notifications like "light traffic in your area." The updated app shows a red route when there is heavy traffic close to the user's location and a green route when traffic is light.

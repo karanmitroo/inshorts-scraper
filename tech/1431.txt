@@ -1,1 +1,0 @@
-Technology giant Google is launching a bug bounty program and will pay hackers $1,000 (₹65,000) to find bugs in top Android apps including Dropbox, Snapchat, and Tinder. The hackers have to submit the research to the developers before turning in a report for the reward. The program aims to get researchers to work with Android app developers to find vulnerabilities. 

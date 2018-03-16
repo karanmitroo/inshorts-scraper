@@ -1,1 +1,0 @@
-At least four offices of West Bengal State Electricity Distribution Company Ltd (WBSEDCL) that cater to around 8,00,000 households, were hit by ransomware WannaCry on Monday. Employees at these offices were unable to access the contents of their computers as a demand of $300 in bitcoins flashed on the screens. The electricity bill payment process remained affected till 4 pm.

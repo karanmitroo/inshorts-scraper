@@ -1,1 +1,0 @@
-The San Bernardino county government said on Friday that the FBI told them to tamper with the attackers' Apple account. Previously, the Department of Justice had filed a motion forcing Apple to access data on the attacker's iPhone. Apple then responded by saying that the back door would be unnecessary as the account was tampered with, while in government's possession.

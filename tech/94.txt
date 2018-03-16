@@ -1,1 +1,0 @@
-In its iOS 11 Security guide, Apple has revealed that it is using Google's Cloud Platform to store user information for its iCloud services. Apple had previously used remote data storage systems provided by Amazon Web Services as well as Microsoft's Azure. However, it is not confirmed as to when the technology giant switched to Google's service.

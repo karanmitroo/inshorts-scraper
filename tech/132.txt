@@ -1,1 +1,0 @@
-Canadian password management startup 1Password has created a proof-of-concept feature that will allow a user to check if their password already exists. 1Password created the feature by integrating it with a database of over 500 million leaked passwords collected from various breaches. The users can check the password by clicking on 'Check Password' icon.

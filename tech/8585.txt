@@ -1,1 +1,0 @@
-Chinese company Baidu has claimed to predict potential crowd gatherings across the world by analyzing its map searches. The company reportedly hosts around 302 million monthly users for its map services. A machine-learning system was trained to analyze the company's map queries data, and found that the time and place of huge gatherings can be predicted three hours in advance.

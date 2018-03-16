@@ -1,1 +1,0 @@
-In order to benefit guests reserving seats on its mobile app, Jet Airways has integrated Google Now for flight bookings, a feature that delivers updates without having to search for them, into its booking system. This feature is available via the Google Search app for iOS devices on Apple’s App Store, and is built into Android 4.1+ devices.

@@ -1,1 +1,0 @@
-Google is all set to launch a service called Android Device Manager by this month's end to locate or securely wipe a lost Android phone. The service will locate the device on map along-with its real-time motion if it is switched-on. Moreover, the service will allow users to make their misplaced phone ring even if it is in silent mode.

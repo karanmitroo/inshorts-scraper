@@ -1,1 +1,0 @@
-Researchers at University of Washington have developed an app called 'BiliScreen' which claims to detect pancreatic cancer through selfies. The app uses computer vision algorithms to detect levels of chemical bilirubin in the whites of a person's eyes using the smartphone's camera. It can be used with a box that blocks out ambient light and gives around 90% accurate result. 

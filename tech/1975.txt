@@ -1,1 +1,0 @@
-The National Payments Corporation of India-backed BHIM (Bharat Interface for Money) app has been updated with features like splitting bills and collecting payments. The app allows users to send or receive money from other users through a mobile number or payment address and is available on Android app store. Launched in 2016, the app is a rebranded version of UPI.

@@ -1,1 +1,0 @@
-Technology giant Google on Tuesday shared a YouTube video to showcase its PhotoScan app that lets users turn printed photos into high-quality digital copies. The mobile app scans the photos and automatically crops, rotates, and colour corrects them. The app further detects edges, straightens the image and removes glare from the prints before storing them in Google Photos. 

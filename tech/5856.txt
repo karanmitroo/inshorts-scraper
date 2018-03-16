@@ -1,1 +1,0 @@
-Seattle-based designers have created 'Ping Pong FM', a ping pong table that plays music and modifies the rhythm corresponding to the game's pace. For this, the designers embedded microphones in the ping pong paddles and fitted a microcontroller unit to relay information between the paddles and a music player. Once a player misses a hit, the music stops.

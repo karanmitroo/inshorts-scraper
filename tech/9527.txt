@@ -1,1 +1,0 @@
-Microsoft on Wednesday made the source code of ChakraCore engine available on the Github repository. The repository provides a fully supported and standalone JavaScript engine with the same characteristics as Microsoft's latest Edge browser. With this release, developers would be able to build ChakraCore on Windows 7 or above using Visual Studio 2013 or 2015 versions.

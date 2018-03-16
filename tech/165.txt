@@ -1,1 +1,0 @@
-A Chrome extension called 'View Image' has been found displaying the View Image button, exactly where it was before Google removed it from image search results. The extension, which already has more than 8,000 downloads, also displays 'Search by Image' button. Earlier, Google removed the button to show copyright information and improve attribution of Getty Images.

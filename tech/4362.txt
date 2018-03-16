@@ -1,1 +1,0 @@
-A beta build of Facebook-owned messaging app WhatsApp shows a real-time location-tracking option that can be used to track the live location of one's contacts. The feature allows users to turn on live location tracking for a certain period of time, during which select recipients will be able to follow the user's exact location in the app. 

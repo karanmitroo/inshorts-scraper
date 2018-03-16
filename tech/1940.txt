@@ -1,1 +1,0 @@
-Over 40 lakh user records of Time Warner Cable's MyTWC app were leaked on an Amazon server last month. The files, which were more than 600 GB in size contained users' information like transaction ID, user names, Mac addresses and account numbers. However, the information was removed immediately after the discovery, Time Warner Cable's parent company said in a statement. 

@@ -1,1 +1,0 @@
-Researchers have developed a technology that turns user's arm skin into a touchscreen for smartwatch. It consists of a ring, which emits high frequency signal, and a sensing wristband with electrodes. Users can swipe up and down to move between apps, and draw an "N" on the hand to open a news app, or an "S" to silence a call.

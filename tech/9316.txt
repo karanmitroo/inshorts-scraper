@@ -1,1 +1,0 @@
-Microsoft on Sunday unveiled a new research initiative 'Project Natick', under which it plans to build underwater datacenters. To study the feasibility of such datacenters, Microsoft took a year to deploy its own subsea datacenter in the Pacific Ocean. Microsoft is currently looking for low-cost, high responsive and environmentally sustainable cloud datacenter solutions.

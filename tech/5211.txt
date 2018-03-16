@@ -1,1 +1,0 @@
-Diabetic health tracking startup Siren Care has created smart socks that use temperature sensors to detect inflammation in real-time for diabetics. A connected app sends users alerts to check their foot when the sock detects a high-temperature difference. The battery in the socks is built to last for six months and they automatically go into sleep mode when taken off.

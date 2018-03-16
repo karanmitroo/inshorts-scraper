@@ -1,1 +1,0 @@
-A PhD student at MIT Media Lab in Massachusetts has created a wearable hoop called Halo that uses light to express a person's mood. The device contains 180 LEDs which are programmed to change the colour and pattern of the light, reflecting the mood, movement levels and the weather by getting the information via an app.

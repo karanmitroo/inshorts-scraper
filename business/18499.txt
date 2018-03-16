@@ -1,1 +1,0 @@
-ClearTrip has teamed up with IRCTC to help users book tickets. The option is available on the Android version of the app and users can see the new options after update. The app will not only let users book train tickets, it will also let them check their PNR status for a train reservation.

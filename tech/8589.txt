@@ -1,1 +1,0 @@
-In a first, Australian researchers have demonstrated the quantum Fredkin gate, also known as controlled SWAP gate. It is a universal logic gate wherein two qubits are swapped depending on the value of the third. This advancement could lead to a quantum computer with the ability to solve problems that a regular one might take millions of years to resolve.

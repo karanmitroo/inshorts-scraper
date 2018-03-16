@@ -1,1 +1,0 @@
-Google recently launched a new project called 'Chrome Music Lab' that offers an interactive music experience within its Chrome web browser. The website lets users explore topics such as chords, rhythm, sound waves, strings, melody maker and harmonics among others. The company has also made the source code of the project open source for other developers and musicians to use.

@@ -1,1 +1,0 @@
-Security researchers Robert Graham and David Maynor have created a device named HamSammich that can proxy data over a 900-mhz radio band from 20 miles away at up to 56 kbps. This came after a talk about their initial privacy device ProxyHam was pulled off at a hacking conference in Las Vegas, ordered likely by the National Security Agency.

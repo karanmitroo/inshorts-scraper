@@ -1,1 +1,0 @@
-US-based artificial intelligence startup Anki has created a palm-sized smart robot called 'Cozmo', that recognises and remembers people's faces. Anki claims that Cozmo can process more data per second than all the NASA Mars Rovers combined. It nudges users if they haven't played with it in a while, and its battery lasts up to two hours in a single charge. 

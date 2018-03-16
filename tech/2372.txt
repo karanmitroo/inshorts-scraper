@@ -1,1 +1,0 @@
-A hacker has demonstrated how magnets worth ₹1,000 can break into ₹1 lakh smart gun Armatix iP1 designed to only be fired by a person wearing paired smartwatch. The small electromagnetic system that unlocks the gun's firing pin was replicated with some magnets placed against the gun. The hacker also managed to disable the weapon by jamming its radio signals.

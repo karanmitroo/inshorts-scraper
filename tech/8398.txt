@@ -1,1 +1,0 @@
-The US government has recommended that Windows PC users should uninstall Apple's QuickTime video player after software security firm Trend Micro discovered new bugs in the software that could be exploited by hackers. The firm, however, said that it did not know of any cases where the bugs had been exploited. Reportedly, Apple has ended the support for the player.

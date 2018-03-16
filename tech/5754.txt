@@ -1,1 +1,0 @@
-Microsoft has annouced updates to its Windows Ink Workspace, and one of them allows Insider users who install the latest Windows 10 Preview for PC and Mobile, to doodle and write on their photos with Ink. Tapping the Draw option while viewing a picture in the Photos app brings up Workspace's toolbar, where users can choose from calligraphy pen tools.

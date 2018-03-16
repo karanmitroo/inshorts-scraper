@@ -1,1 +1,0 @@
-San Francisco-based Manuel Ebert has designed a writing app, called ‘The Most Dangerous Writing App’, that deletes all of the users’ progress if one stops typing. Writers can choose how long they want to write for, after which the web-based tool expects one to write non-stop until the clock runs out. Users can take a maximum pause of five seconds.

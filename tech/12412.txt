@@ -1,1 +1,0 @@
-Kochi based innovator, Arvind Sanjeev says he was able to replicate Google Glass in less than a month for just Rs 4,500. Sanjeev even posted a blog explaining how his Google Glass replication called 'Smart Cap', can be built by anyone using opensource hardware such as a Rasberry Pi computer, an Arduino board and Android software.

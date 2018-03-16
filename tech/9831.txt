@@ -1,1 +1,0 @@
-A repository hosting service GitHub has partnered with an online educational startup Udacity to offer three new nano degrees in Ruby programming language. The first course would be on the Ruby language followed by two courses on Ruby on Rails framework. The fees for the courses is set at $200 per month with a minimum of 10 hours per week.

@@ -1,1 +1,0 @@
-Cornell University assistant professor, Ashutosh Saxena, has jointly developed an algorithm which can predict if the driver is going to commit an error. The software will warn, in the form of light, sound or even a vibration, after analyzing both the head movement and road ahead. The internal monitoring can be a big leap in automobile safety, said the professor.

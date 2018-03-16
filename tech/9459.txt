@@ -1,1 +1,0 @@
-Google on Thursday launched a new three-month long free course, titled 'Deep Learning', to explain the machine learning technique which is being used in many of its services. The free course, which is available on the Udacity website, would require experience in basic machine learning, GitHub, Python, linear algebra and calculus.

@@ -1,1 +1,0 @@
-US-based Intel has revealed that its artificial intelligence (AI) technology has been used in the creation of Chinese singer Chris Lee's music video. The technology added effects such as trickles of water on the singer's face. The effects were added by training a machine learning system to reconstruct a face in 3D and track its movements in real time.

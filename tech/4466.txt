@@ -1,1 +1,0 @@
-Apple has released a beta version of iOS 10.3 to developers with a feature to let users locate their missing wireless AirPods. Incorporated within 'Find My iPhone' app, the feature can sound an alarm on the AirPods if they're within range of the user's iPhone. If not, Apple will show the approximate last known location of AirPods' case.

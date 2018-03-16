@@ -1,1 +1,0 @@
-New York-based startup Hero has developed a smart pill dispenser that automatically alerts a user to take medication and dispenses the pills. Controlled through an app, the dispenser can hold 10 different pills at a time and alerts the user whenever a dose is taken or skipped. The device always asks for a user's approval before dispensing a dose.

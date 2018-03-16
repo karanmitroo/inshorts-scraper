@@ -1,1 +1,0 @@
-Vietnamese security firm Bkav Corporation's researchers have claimed they bypassed the iPhone X's Face ID by using a $150 specially-built mask. The researchers used handcrafted "skin" made specifically for Face ID, and 3D printed the face model. The firm said that it started working on the mask on November 5, two days after iPhone X was officially launched.

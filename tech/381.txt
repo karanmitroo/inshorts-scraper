@@ -1,1 +1,0 @@
-Former engineers at Google's self-driving car project Waymo, Dave Ferguson and Jiajun Zhu, have developed a self-driving vehicle to transport local goods. The electric vehicle can read traffic signals, identify pedestrians, and can handle errands such as dry cleaning. It was unveiled on Tuesday by Ferguson and Zhu's startup Nuro, which was founded in 2016.

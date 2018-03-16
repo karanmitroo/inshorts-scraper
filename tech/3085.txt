@@ -1,1 +1,0 @@
-An AOL web developer has discovered a Google Chrome bug that allows websites to record video of users without their knowledge. The developer found that after a user grants permission to a particular tab to record video, any new pop-up can also start recording. The new tab won't show the red dot which is typically displayed when Chrome records video.

@@ -1,1 +1,0 @@
-According to a new study conducted by the Beihang University (China), anger is the most influential emotion online, spreading faster and inciting more responses than any other sentiment. The research, conducted by computer scientists Rui Fan, was based on a data of about 70-million tweets of over 200,000 users from Chinese Twitter-like service Weibo.

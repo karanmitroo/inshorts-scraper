@@ -1,1 +1,0 @@
-Coca-Cola has developed a 'Selfie Bottle' which comes with an integrated camera that automatically clicks the selfie of a person drinking from it. The bottle clicks a selfie whenever it detects a 70-degree tilt. Selfies from the bottle can be transferred to any device through a USB port provided at the bottom.

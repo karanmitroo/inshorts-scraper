@@ -1,1 +1,0 @@
-NASA, in collaboration with Microsoft, has created ‘Destination: Mars’, a mixed-reality project that will offer visitors at the Kennedy Space Center a guided tour of Mars using the HoloLens headset. Further, the virtual tour will be conducted by a hologram of Apollo 11 astronaut Buzz Aldrin. NASA’s Curiosity rover, stationed on Mars since 2012, provided the data for the project.

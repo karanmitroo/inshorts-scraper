@@ -1,1 +1,0 @@
-A WhatsApp feature that marks messages which are forwarded from another chat has been spotted in beta version of its Android application. The feature shows a message which reads 'Forwarded message' on the chat bubble.  The move is said to be a part of Facebook-owned messaging service's effort to prevent spam circulation.

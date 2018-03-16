@@ -1,1 +1,0 @@
-Superflex, a spin-off company from the American nonprofit research organization SRI International, has developed a new wearable robotic suit that offers support to the body parts to reduce the load burden. The onboard sensors enable the suit to learn the wearer's movement and then use that information to turn on the power exactly when the wearer needs it.

@@ -1,1 +1,0 @@
-Jack Whitton, a British security researcher earned a $20,000 reward from Facebook for uncovering a bug which allowed anyone to hack into others' accounts. He found that he could trick Facebook into sending him a password reset code for another user's account, potentially allowing him to hijack the account of anyone who had a profile linked to their cellphone number.

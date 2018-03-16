@@ -1,1 +1,0 @@
-Russia's central bank has revealed that hackers, whose identities remain unknown, stole 339.5 million Roubles ($6 million) from a bank last year. The hackers took control of a computer at one of the country's banks and used the payment transfer facility to move the amount to their accounts. The hackers used financial messaging service SWIFT's system to transfer the money.

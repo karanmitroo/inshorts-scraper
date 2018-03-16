@@ -1,1 +1,0 @@
-Five programmers have developed an app called 'SafeZone' that guides users to safe places during crisis situations like terrorism, natural disaster or mass shooting. The app shows users a map with directions to safe zones, including police stations or hospitals in the event of a crisis. The makers are planning to integrate 911 emergency services and Facebook to the app.

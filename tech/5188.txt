@@ -1,1 +1,0 @@
-Israeli cyber security researchers have discovered a variant of known malware Locky that uses images from sites like Facebook and LinkedIn to hijack users' computers. The malware forces web browsers to download maliciously coded image files that infect the system when opened. All files in the computer are then locked up till the user pays a ransom to the hackers.

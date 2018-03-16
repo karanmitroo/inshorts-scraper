@@ -1,1 +1,0 @@
-A team of designers have created a prototype device that gives off a metallic scent called 'Smell of Data' when users visit an unprotected website on an unsecured WiFi network or hotspot. Users can connect their smartphone, tablet or computer to a specially designed scent dispenser via WiFi which releases the scent on detecting a potential data leak.

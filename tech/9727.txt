@@ -1,1 +1,0 @@
-Twitter on Wednesday updated its OS X Mac app to add several features that have otherwise been available on the web for months. It now supports Twitter's Highlight feature, the ability to view GIFs, mute users, quote tweets and play videos online. It also features a dark colour theme. However, the app does not support the recently introduced poll feature.

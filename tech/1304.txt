@@ -1,1 +1,0 @@
-WhatsApp has globally launched a feature that allows deleting sent messages from other chat members' phones on both Android and iOS platforms. Called 'Delete for Everyone', the feature allows users to revoke the messages within 7 minutes of sending them. Once the user deletes a message, its receivers will see the phrase 'This message was deleted' instead of the message.

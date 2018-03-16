@@ -1,1 +1,0 @@
-Chipmaker Qualcomm has launched a new all-in-one SoC chip, called the Snapdragon Wear 2100, that can power next-generation wearables. The new chip is 30% smaller than the Snapdragon 400 chip, which is currently used in most smartwatches, and has 25% lower power consumption. It features better sensors and is expected to be used by LG in its next generation wearables.

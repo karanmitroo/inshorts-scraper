@@ -1,1 +1,0 @@
-Indiana University scientists have released a set of free web-based tools called the Observatory on Social Media (OSoMe), that lets users analyze online trends, memes and other online viral activity. The team behind OSoMe had also launched another tool called BotOrNot in 2014, which predicts the likelihood of a Twitter account being operated by a "social bot" or a human.

@@ -1,1 +1,0 @@
-Apple on Monday announced in a blog post that the upcoming operating system iOS 10 will allow its users to uninstall built-in apps like Contacts, iTunes Store, Mail and Maps. All such apps, which also include Music, Videos, Calendar and Stocks, account for under 150 MB of space. The removed apps can later be installed from the App Store.

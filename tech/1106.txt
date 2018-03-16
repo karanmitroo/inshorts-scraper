@@ -1,1 +1,0 @@
-Apple has rolled out iOS 11.1.2 software update to fix an issue where iPhone X's screen becomes temporarily unresponsive to touch after a rapid change to a cold environment. This comes after users reported that the touch was inconsistent in cold but functioned normally in warmer environment. The update will also fix distortion of Live Photos in the iPhone X.

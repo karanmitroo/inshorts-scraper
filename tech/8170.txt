@@ -1,1 +1,0 @@
-Siri creator Dag Kittlaus gave the first public demo of Viv, an AI virtual system at TechCrunch Disrupt in New York. Viv works on “dynamic program generation,” which allows the AI-powered assistant to understand intent and generate a code to best answer the query. The company has raised $12.5 million and has been working on the product for four years. 

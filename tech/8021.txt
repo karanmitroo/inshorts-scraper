@@ -1,1 +1,0 @@
-Researchers from MIT and Harvard University have designed a bee-like flying robot called RoboBee, which can stop in mid-flight and momentarily cling to surfaces before taking off again. It uses static electricity, emitted through a foam patch on its head, as electrostatic adhesion to stick to surfaces. Perching allows it to conserve energy, thereby increasing the flight time.

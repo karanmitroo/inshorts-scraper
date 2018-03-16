@@ -1,1 +1,0 @@
-IBM researchers have created the world's smallest magnet using a single atom and managed to store data on it. One data bit was written by passing an electrical current through a Holmium atom freezing its magnetic orientation up or down referring to states 1 or 0. Current hard drives use about 1,00,000 atoms to store a single bit.

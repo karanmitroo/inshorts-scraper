@@ -1,1 +1,0 @@
-An Android device called Blitab with a smart Braille surface for visually impaired people has been presented at the CES 2017. The top half of the device turns into a Braille reader on pressing a button on the side of the device and the users can read the content using Braille. Blitab also has Wi-Fi and Bluetooth connectivity.

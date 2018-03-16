@@ -1,1 +1,0 @@
-Taxi aggregator app Uber plans to deploy disguised phone number technology in India, which will ensure that mobile numbers of its customers do not get revealed to the drivers while coordinating a pick up. Anonymous phone numbers would be used to connect calls between riders and drivers. Uber is the second such company to introduce this feature after Ola.

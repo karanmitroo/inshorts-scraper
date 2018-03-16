@@ -1,1 +1,0 @@
-Messaging service Slack earlier this week announced a new feature called Shared Channels that allows employees of different companies to work together. The feature allows business companies to create group chats with customers as well as other companies. The channels will be available to paid users of Slack and can be accessed through a beta program. 

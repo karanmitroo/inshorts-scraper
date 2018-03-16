@@ -1,1 +1,0 @@
-The world's most talented developers belong to China and Russia, according to a recent study by HackerRank, a platform that ranks programmers based on their coding skills. Based on accuracy and speed, the Chinese were found to excel in maths and functional programming, while the Russians dominated in algorithms. India's and the US' overall ranks were 31 and 28 respectively.

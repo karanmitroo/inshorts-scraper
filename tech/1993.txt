@@ -1,1 +1,0 @@
-Founder of 360-degree video startup Svrround Abhishek Singh has created a polaroid camera Instagif which 'prints' animated GIFs. The 3D printed camera ejects a passport-sized LCD that plays back a recorded GIF on a loop. Singh said he built the camera in four weeks using a Raspberry Pi processor in both the camera and display.

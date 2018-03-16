@@ -1,1 +1,0 @@
-North Korean hacking group Andariel seized a server at a South Korean company to mine 70 Monero coins worth $25,000, according to a South Korean government-backed hacking analysis team. The team's head claimed Andariel was able to take control of the server undetected by its operator. According to the team, the hackers had first seized the computer earlier in 2017.

@@ -1,1 +1,0 @@
-The world's first computer, ENIAC (Electronic Numerical Integrator and Computer), was designed during the World War II in the United States, to compute artillery range tables, aiming to make targeting by weapons easier. However, the computer was completed only in 1946, the year after the end of the war. It occupied over 1800 square-feet of space and weighed 30 tons.

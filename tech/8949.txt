@@ -1,1 +1,0 @@
-Students from three US universities and Volvo Group have created a drone-guided robot which automatically collects and empties garbage bins. Under the project named 'ROAR', a drone atop a garbage-collecting truck scans areas and helps robot find the bins. It also has an emergency stop button that stops the robot if a child or a dog comes in front.

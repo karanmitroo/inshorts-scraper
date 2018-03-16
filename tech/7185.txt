@@ -1,1 +1,0 @@
-CERN scientist Sir Tim Berners-Lee, inventor of the World Wide Web, submitted the proposal to develop a distributed information system for laboratories at CERN on March 12, 1989. The project, which later came to be known as World Wide Web, completed 10,000 days on July 28, 2016. Berners-Lee's supervisor called the project "vague, but exciting" and agreed to its development.

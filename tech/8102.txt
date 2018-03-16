@@ -1,1 +1,0 @@
-A Poland-based non-profit organisation has developed 'Parsee' a pair of 3D printed glasses that recognise text on objects and translates them to the user through an earphone. With an inbuilt camera, the glasses can recognise text, shapes, colours and faces through a dedicated mobile application and turn them into sounds. The battery-run glasses can be recharged through micro USB.

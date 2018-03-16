@@ -1,1 +1,0 @@
-Apple on Monday announced a dedicated app to control home devices, called the Home app, for iOS 10. It will enable homeowners to perform several actions like controlling lights, viewing doorbell cameras, or triggering multiple actions using a single command. The new app is part of Apple's HomeKit platform, which helps in pairing iPhones with different smart home devices.

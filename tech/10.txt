@@ -1,1 +1,0 @@
-A robot named 'Flippy' has started working at a US restaurant, alongside other human employees. The robot, which has an arm fitted with a spatula, can flip burgers and place them on buns once they have been cooked. Further, its software allows it to distinguish between various types of meats and alert other employees to add toppings. 

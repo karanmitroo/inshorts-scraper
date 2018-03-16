@@ -1,1 +1,0 @@
-Researchers from the Cardiff University have developed a needleless glucose monitor that doesn't require the users to prick their finger to keep track of their blood glucose levels. Instead, it uses microwaves to gather the data and then sends that data to an accompanying app. The device features an adhesive which lets its users stick it on their arm.

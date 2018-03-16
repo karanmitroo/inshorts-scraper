@@ -1,1 +1,0 @@
-A free Google Chrome web browser extension called 'Off The Record' records the browsing history of the user in the incognito mode. The recorded browsing history is, however, available only as long as the windows are open in the browser. When the users are done with browsing, it wipes out the incognito visits to remove track of their activities.

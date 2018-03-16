@@ -1,1 +1,0 @@
-After offering in-app content directly on its search engine, Google has brought its app streaming technology to mobile ads. The company will now embed 60-second app trials right within their respective ads letting users get a quick hands-on before deciding to install the respective app. Developers will also be able to create custom APK files for use with these ads.

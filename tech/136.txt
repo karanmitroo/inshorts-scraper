@@ -1,1 +1,0 @@
-Elon Musk-led electric car maker Tesla's cloud account was hijacked and used to mine cryptocurrency, security research firm RedLock has reported. The hack also exposed some of Tesla's proprietary data related to mapping, telemetry, and vehicle servicing. According to Tesla, the hack was limited to the company's test cars and did not affect any vehicles owned by its customers.

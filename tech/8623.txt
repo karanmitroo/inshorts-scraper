@@ -1,1 +1,0 @@
-A San Francisco-based startup has created a smartphone-powered 3D printer 'OLO', which uses the light from a smartphone's screen to harden resin solution for printing 3D objects. Priced at $99, it is compatible with smartphones of any size or brand. It can print both soft and hard objects from designs stored in a smartphone or any other 3D printing software.

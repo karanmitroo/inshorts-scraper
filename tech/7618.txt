@@ -1,1 +1,0 @@
-Researchers claim to have found a vulnerability in Google's Chrome browser which could allow illegally saving copies of content being streamed on it through sites like Netflix. The researchers have created a proof-of-concept file demonstrating how it can exploit the vulnerability. Google was alerted about the problem, however, it is yet to issue a patch for the same.

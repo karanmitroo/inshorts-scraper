@@ -1,1 +1,0 @@
-Nick Lee, CTO of the US-based mobile development firm Tendigi, has developed a proof-of-concept mobile case that can run Android Marshmallow on an iPhone 6s handset. Lee, known for another recent hack where he installed Windows 95 operating system on an Apple Watch, also included HDMI and USB ports, and an SD card slot in the mobile case.

@@ -1,1 +1,0 @@
-A security researcher has revealed a flaw in social networking platform Myspace that allowed any account to be hijacked just by entering the user's birthday. The flaw came from Myspace's now-defunct account recovery page that asked for the account holder's name, username, email address, and birthday. However, Myspace didn't check if the correct email address had been entered.

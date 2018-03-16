@@ -1,1 +1,0 @@
-MIT engineers have devised an analog memory storage system to record complex histories in human cell DNA, allowing cells to retrieve information about the duration and intensity of past events. Based on a principle that programs cells to flip DNA sections when certain events occur. The system could help scientists study genetic impacts of diseases like cancer.

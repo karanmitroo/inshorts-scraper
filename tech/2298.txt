@@ -1,1 +1,0 @@
-US-based company Eccrine Systems has developed body sensors which makes the users sweat to collect vitals. The device is a non-invasive, electronic wearable that measures and transmits real-time data about human sweat. It uses a tiny electrical current (0.2mA) to send chemicals into the upper layer of the skin. The band-aid sized sensors also predict the amount of sweat produced.

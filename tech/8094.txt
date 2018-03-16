@@ -1,1 +1,0 @@
-Chicago-based game developer Robomoto has developed a VR photography demo for the HTC Vive headset that lets users click photographs in VR. Titled ‘VR Photography Experience’, it lets users raise their cameras in VR and click zoomed-in action photos from any position and angle they want. Notably, the VR environment goes from 3D to 2D when the camera is raised.

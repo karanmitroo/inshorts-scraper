@@ -1,1 +1,0 @@
-Microsoft India on Thursday announced that it is introducing a new safety app named Guardian, which is aimed at protecting women. The app enables users to switch on a 'track me' feature that lets people track them in real time using Microsoft Windows Azure cloud services and Bing Map APIs. It is available exclusively for Windows phone users in India.

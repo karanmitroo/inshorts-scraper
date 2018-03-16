@@ -1,1 +1,0 @@
-The UK government has announced the development of a new technology that can automatically detect terrorist content on online platforms. The government claimed that the tool can detect 94% of ISIS propaganda with 99.995% accuracy. The technology uses advanced machine learning to analyse the audio and visuals of a video to determine whether the content is propaganda.

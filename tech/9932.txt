@@ -1,1 +1,0 @@
-Google has launched 'Cardboard Camera', a VR app that lets Android users take 360° images. To take a picture, users have to hold their phones vertically and take a full 360° turn after tapping the camera button. When viewed through a VR device, the panoramic image turns into a 3D-like picture. Sound can also be embedded into the images.

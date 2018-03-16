@@ -1,1 +1,0 @@
-A citizen group in Mumbai has developed an app, called Spothole, that allows people to report the potholes in the city. Users can click pictures of potholes and the app automatically geotags them and saves the information for others to view. The group is also requesting civic authorities to collaborate with them and use the app to track and fill the potholes.

@@ -1,1 +1,0 @@
-Boston-based food-tracking app 'Lose It' has launched a new feature called 'Snap It', that lets users track their calorie intake by clicking a picture of their food. The feature, which is still in the testing phase, uses a neural network algorithm that improves over time and currently has a claimed accuracy of up to 97.1%.

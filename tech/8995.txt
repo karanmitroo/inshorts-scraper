@@ -1,1 +1,0 @@
-WhatsApp on Tuesday opened a beta testing program on Google Play for an unreleased version of its Android messenger app. The testers of the program will receive an update that will include a testing version of the app. Previously, the testers had to manually install an apk file directly from the WhatsApp website for the same purpose.

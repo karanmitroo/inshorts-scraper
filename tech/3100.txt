@@ -1,1 +1,0 @@
-Google has banned or updated Android apps on the Play Store which were found to be secretly tracking users through ultrasonic sounds that cannot be heard by humans. A research team sponsored by the German government had presented a report on 234 such apps. The technology was reportedly being used to track users' whereabouts and send them targeted ads.

@@ -1,1 +1,0 @@
-Some Stanford University scientists have developed a 'smart' lithium battery which gives a warning before overheating or exploding. The new technology uses a nanolayer of copper, on one side of a polymer separator, which plays the part of a sensor, enabling the voltage difference between the anode and the separator to be measured. The technology can rout safety issues. 

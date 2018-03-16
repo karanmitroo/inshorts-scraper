@@ -1,1 +1,0 @@
-Opera recently said that its web browser's developer version consumes less battery than Microsoft's web browser 'Edge'. This came shortly after Microsoft claimed that Edge browser is more energy-efficient than rivals including Opera, Chrome and Firefox. Opera also said that it created its own battery life tests as it wasn’t able to replicate the results of Microsoft's tests.

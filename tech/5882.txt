@@ -1,1 +1,0 @@
-Yahoo on Friday re-enabled its email forwarding feature which automatically redirects incoming emails to another account. Disabling the service was seen as an attempt to make it more difficult for Yahoo Mail users to transition to another email service. However, Yahoo clarified that it was part of a pre-planned maintenance to improve functionality. 

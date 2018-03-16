@@ -1,1 +1,0 @@
-Microsoft has launched a stand-alone application for iOS called Invite, designed to set up meetings with ease by enabling users to see everyone else’s calendar. Through the application, one can suggest various times for a meeting and invite attendees to vote on the same or specify their own time slots. He can then pick the best-suited time based on preferences.

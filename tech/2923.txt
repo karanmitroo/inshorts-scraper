@@ -1,1 +1,0 @@
-Photo-sharing application Instagram has rolled out a new feature called 'archive', which lets users hide any of their photos from their followers indefinitely. After being archived, these photos move into a special section of the app located at the top right corner of users' profile. The users will have the option to unarchive a photo and 'show on profile'.

@@ -1,1 +1,0 @@
-Technology giant Google has added Hindi language support for its digital assistant for users on Allo messenger in India. The feature can be enabled by setting "English (India)" as the primary language on Android phones. Google Assistant then translates the Hindi voice commands to English and displays the answer in Hindi on the screen. 

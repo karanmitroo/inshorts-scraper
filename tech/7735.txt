@@ -1,1 +1,0 @@
-A new feature coming to Apple Maps in iOS 10 will help users to remember where they parked their cars. The feature will automatically pin the car's stationary location when a journey terminates somewhere other than the user’s home address. Further, a parked car icon will apparently appear in the map with directions and estimated time to reach the car. 

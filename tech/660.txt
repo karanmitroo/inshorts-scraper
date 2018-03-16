@@ -1,1 +1,0 @@
-Microsoft said on Tuesday that security patches for flaws present in most processors may slow down certain servers and personal computers. The company also said the systems running on older Intel processors will experience noticeable decrease in performance. Earlier this month, researchers disclosed flaws affecting nearly every device containing chips from Intel, AMD and ARM.

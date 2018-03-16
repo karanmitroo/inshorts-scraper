@@ -1,2 +1,0 @@
-According to a test conducted by Australian journalist Chris Griffin, Windows Hello, a Windows 10 feature that uses your face as your login password, cannot be broken in even by identical twins. Griffin brought in six pairs of identical twins to test the feature and in each case, Windows Hello kept one twin from logging in as their sibling.
-

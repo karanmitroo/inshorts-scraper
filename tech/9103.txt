@@ -1,1 +1,0 @@
-Silk Labs, a startup co-founded by a former Mozilla CTO has developed a smart home sensor 'Sense', that can learn a user's behaviour and pattern. It uses facial recognition to identify who’s entering the house, then turn on lights, set the thermostat to the desired temperature and play music. Sense can distinguish between people and keeps a tab on pets.

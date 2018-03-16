@@ -1,1 +1,0 @@
-Israel-based security firm Perception Point on Tuesday reported a bug in the Linux kernel version 3.8, released in 2013, which can affect around 66 percent of all Android devices worldwide. The bug could allow unauthorized access into Android devices running KitKat and later versions. However, the company has said that it hasn’t yet noticed instances of the bug being exploited.

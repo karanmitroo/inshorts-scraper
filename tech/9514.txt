@@ -1,1 +1,0 @@
-Researchers from the Georgia Institute of Technology are developing a new laboratory that would allow remote access to robots. With an estimated capacity of 100 robots, the Robotarium is expected to be fully operational by 2017. Researchers and students would be able to upload their own programming code and observe the results through a streamed video feed.

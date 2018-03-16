@@ -1,1 +1,0 @@
-The Spanish National Research Council (CSIC) has made an exoskeleton to help children with spinal muscular atrophy walk. Made with telescoping supports that get taller with the child, it uses five motors in each leg with sensors to detect the intention of movement. An onboard computer follows the child's steps to provide mobility. It currently has a five-hour battery life.

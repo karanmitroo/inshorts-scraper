@@ -1,1 +1,0 @@
-According to Facebook, every month over a million people use the social networking website through 'Tor', a free software that lets users to communicate anonymously on the internet. However, about 525,000 people were accessing Facebook through Tor in June 2015. Facebook in October 2014 had created a special address to let users privately access the website through Tor.

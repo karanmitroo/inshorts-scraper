@@ -1,1 +1,0 @@
-A BBC reporter's non-identical twin brother duped HSBC's voice recognition security system this week to gain access to his bank account. Users are simply required to say "my voice is my password" to verify their identity and the reporter's brother got the access on his eighth try. HSBC later said it will modify its system to allow only three attempts.

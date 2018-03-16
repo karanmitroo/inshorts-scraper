@@ -1,1 +1,0 @@
-Technology giant Google has said it took down seven lakh apps from its Play Store that violated its policies, marking a 70% increase in the total removals from 2016. Google added that 99% of apps with abusive content were identified and rejected before the users could install them. The improvements were made through using new machine learning models, Google highlighted.

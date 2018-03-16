@@ -1,1 +1,0 @@
-Google has pulled back and apologised for its Gmail 'mic drop' feature that it launched on the April Fools' day. The new feature added a secondary 'Send' button to the web interface, which would exchange a humorous GIF with the thread's participants. It also muted the chain so that the user could not see any follow-up emails in the thread.

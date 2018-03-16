@@ -1,1 +1,0 @@
-Microsoft has finally fixed a bug that plagued its Windows operating system undetected for the last 19 years. The bug was present in every version of the OS from Windows 95 onwards, and allowed a remote user to take over and control a computer.  The IBM cyber-security team,  said it was a “significant vulnerability” in the operating system.

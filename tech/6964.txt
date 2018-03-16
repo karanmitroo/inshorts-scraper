@@ -1,1 +1,0 @@
-After Apple launched its first-ever bounty program with rewards up to $200,000 last week, a US-based firm Exodus Intelligence has launched a similar program. The firm will pay a reward of up to $500,000 to find vulnerabilities in iOS 9.3 and above. It will also pay for attacks targeting Google Chrome ($150,000), Microsoft Edge ($125,000) and Mozilla Firefox ($80,000).

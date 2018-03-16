@@ -1,1 +1,0 @@
-The iOS bug that was discovered earlier this week, on Saturday expanded to both Twitter and Snapchat iOS apps. If notifications are turned on for Twitter, any direct message or public mention that includes the string of characters will cause the recipient's phone to crash immediately. A similar situation occurs when sending text chat via Snapchat.

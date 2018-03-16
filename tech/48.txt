@@ -1,1 +1,0 @@
-Photo-sharing app Instagram is reportedly working on a feature which allows users to voice or video call other users using the platform. Analysis of Instagram's code revealed files labeled 'call' and 'video call' with phone and camera icons present in the app's Android application packages. The new feature is expected to be integrated within Instagram's Direct messaging system.

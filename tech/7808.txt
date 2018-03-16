@@ -1,1 +1,0 @@
-In a recent theft of Twitter usernames and passwords involving 32 million users, '123456' was the most commonly used password, according to security firm LeakedSource. It was followed by passwords like '123456789', 'qwerty' and 'password'. Notably, more than 1,20,000 people whose credentials were hacked had used '123456' as their Twitter password. 

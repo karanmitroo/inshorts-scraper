@@ -1,1 +1,0 @@
-In a brand new field of interaction, Apple has patented hovering gestures for iPhone displays. The company is thinking about integrating tiny infrared sensors inside a multi-touch display that would sense if a finger is above the screen. This proximity sensor layer would add a second level of pressure-sensitive interaction to iPhones after 3D Touch.

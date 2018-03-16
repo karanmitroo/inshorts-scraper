@@ -1,1 +1,0 @@
-WikilLeaks has published a user manual of an alleged CIA hacking tool that allowed SMSes on Android phones to be spied on or redirected. The tool has been described as an application called TideCheck that ran on smartphones running Android 4.0 to 4.4 and used 'inshallah' as the password. Once activated, it would run in the background listening for "events".

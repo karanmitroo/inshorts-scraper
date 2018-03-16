@@ -1,1 +1,0 @@
-A South Korea-based startup has developed 'Wonder Wallet' with e-paper technology that lets users change the wallet's design to any image they want. In case the wallet gets lost, it will display a help message with the user's contact information. The wallet connects to users' phones through Bluetooth and sends alerts if the users are ever separated from it.

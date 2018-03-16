@@ -1,1 +1,0 @@
-Four students in just 36 hours have created a Google Chrome browser extension called 'FiB', which claims to filter fake news from websites. The extension scans a user's feed and verifies the sources of news stories, images and other links. It then tags the posts with either "verified" or "not verified" status for the users.

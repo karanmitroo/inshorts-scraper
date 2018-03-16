@@ -1,1 +1,0 @@
-Video game developer Valve Corporation has recently launched SteamVR Performance Test, a diagnostics tool that tests the virtual reality (VR) capabilities of a PC. The tool analyzes how smoothly a system runs VR content at 90 frames per second and reports back dropped frames percentage. It will also tell which component needs upgrading for a PC which is not VR-ready.

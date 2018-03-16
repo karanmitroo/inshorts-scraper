@@ -1,1 +1,0 @@
-The guests of an Austrian luxury hotel were locked out of their rooms after hackers took over the central key management system, demanding a ransom of ₹1 lakh in Bitcoin last week. While the key cards of the guests stopped working, the hotel was unable to issue the new ones. The systems began running once the hotel paid the ransom.

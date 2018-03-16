@@ -1,1 +1,0 @@
-A Tinder-style app that allows dog owners to connect, as well as find their dogs a match, has been developed. Called Tindog, the app has been developed by Holidog, a London-based online marketplace for pet services. The app would allow animal lovers to find a partner by using GPS location data to suggest nearby matches. 

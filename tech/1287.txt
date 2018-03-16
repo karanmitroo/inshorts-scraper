@@ -1,1 +1,0 @@
-Google's self-driving unit Waymo has decided to drop the autopilot driving feature which allows drivers to take control of the vehicle in emergency cases. It follows after test users were shown napping behind the wheel during experiments. Waymo's CEO John Krafcik said that it was unsafe to allow drivers to intervene "because they have lost contextual awareness."

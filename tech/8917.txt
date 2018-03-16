@@ -1,1 +1,0 @@
-US-based productivity and messaging app Slack on Thursday started the beta roll-out of its voice calling feature on desktop and Chrome browser. Unpaid users can initiate a one-to-one voice chat while paid Slack users can start group calls by clicking the phone icon. Notably, the voice calling feature will not restrict third-party Slack integrations with Skype and Google Hangouts.

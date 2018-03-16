@@ -1,1 +1,0 @@
-A three-person team from Massachusetts Institute of Technology has created an algorithm called 'Nightmare Machine' that generates Halloween-inspired 'scary' images from pictures of faces and places. In order to train the algorithm, participants are asked to vote whether or not different sets of images are scary, thereby helping to refine the process.

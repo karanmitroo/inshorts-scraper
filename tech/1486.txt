@@ -1,1 +1,0 @@
-US bank Wells Fargo has upgraded over 5,000 ATMs that allow customers to withdraw cash with a smartphone instead of debit or credit cards. The ATMs have near-field communications (NFC) module that allows customers to tap a phone configured with mobile wallet systems like Apple Pay and Android Pay. However, customers still need to enter their PIN into the machine.

@@ -1,1 +1,0 @@
-A San Francisco-based team was awarded over ₹3 lakh (£4,000) at a hackathon for creating 'Emotion Journal', a voice journaling app that analyses users' stories in real-time. It detects emotions like joy, fear and disgust. Emotion Journal also stores and colour-codes logs over time so users can see at a glance what their recent emotions have been.

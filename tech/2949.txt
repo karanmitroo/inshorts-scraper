@@ -1,1 +1,0 @@
-Canadian technology company BlackBerry has released an Enterprise SDK (software development kit) for its messaging app BBM, which will be available to developers who want to include the messenger's technology into their Android or iOS apps. The move is aimed at leveraging BBM to compete with Twilio and other companies that provide messaging services for developers.

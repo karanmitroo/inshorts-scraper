@@ -1,1 +1,0 @@
-A team led by a Stanford University alumnus has developed an iOS app called Mathpix, which the team claims is the first technology that can solve handwritten math problems by pointing the phone's camera at it. The app, which uses image recognition to process the problems, provides a step-by-step guide to reach the solution and also a graph wherever needed.

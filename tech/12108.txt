@@ -1,1 +1,0 @@
-Security firm FireEye has warned of a bug ‘Masque Attack’ that impacts iOS 7 and iOS 8 devices. Masque Attacks can replace authentic apps, such as banking and email apps, using attacker's malware through the Internet. The attack allows iOS app with the same file name, regardless of developer, to replace the legitimate app while keeping the user’s data in-tact.

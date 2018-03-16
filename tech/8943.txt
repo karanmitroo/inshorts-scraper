@@ -1,1 +1,0 @@
-A team of MIT engineers has developed a new prediction tool that acts as an early warning system for the incoming rogue waves. For this, the team simulated every wave in the surrounding water body using the length and height of each wave to predict their future interactions that could result in rogue waves.

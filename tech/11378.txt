@@ -1,1 +1,0 @@
-Facebook has introduced an anonymous login feature that allows users to log into various apps without sharing any personal data with them. The new version of Facebook Login lets users choose what personal information the apps should receive, by checking or un-checking categories. Besides ensuring greater privacy, the login restricts apps to post to Facebook without permission.

@@ -1,1 +1,0 @@
-Facebook Messenger's new update features Apple Music as a chatbot which recommends music to users based on the emojis they send. The bot also gives music suggestions when the users type a genre of music, specific artists or albums. For every recommendation, the bot links the song or playlist to Apple Music and lets user listen to songs within Messenger.

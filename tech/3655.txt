@@ -1,1 +1,0 @@
-Researchers have detailed a vulnerability in Mobile Safari browser in iOS devices that let hackers extort money from people who were watching pornography by pretending to be from a law enforcement agency. The malware locked users out of their Apple phones or tablets on viewing porn and redirected them to a fake police website, asking them to pay a fine.

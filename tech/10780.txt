@@ -1,1 +1,0 @@
-Major security concerns have come to the fore after the launch of Windows 10, one of them being that the software uses an individual's internet connection to share updates with other users on the internet. The feature is called Windows Update Delivery Optimisation and is enabled by default in the software. This works similar to the way torrents does. 

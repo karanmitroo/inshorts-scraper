@@ -1,1 +1,0 @@
-A faster and better version of the credit card-sized Raspberry Pi computer, the Raspberry Pi 2 Model B has been unveiled at $35 - the same price as that of the previous Model B+. The new model has updated its CPU from single-core to quad-core, and its processor now runs at 900MHz rather than 700MHz.

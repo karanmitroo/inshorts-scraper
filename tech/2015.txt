@@ -1,1 +1,0 @@
-Cybersecurity reporter Zack Whittaker claimed that he found a hidden job listing on Apple's website for a technical engineer. The listing said, "Hey there! You found us. We are looking for a talented engineer to develop a critical infrastructure component." Whittaker found the website, which has now been taken down, while analysing data sent between iPhone apps and advertisers.

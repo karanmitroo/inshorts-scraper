@@ -1,1 +1,0 @@
-Facebook on Friday announced that it has started testing end-to-end encryption for its Messenger service with a new feature called 'Secret Conversations'. It will allow controlling the length of time each message remains visible within the conversation. The new feature, which is available on a limited basis as of now, cannot support rich content like GIFs and videos.

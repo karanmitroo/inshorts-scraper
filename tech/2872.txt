@@ -1,1 +1,0 @@
-Two engineers of YouTube robotics channel Hacker House have created a 'Follow Me Cooler' that can travel around with the owner. The device uses Bluetooth to create GPS coordinates to track the location of the user's smartphone. The device can also be sent to a particular location by entering the GPS coordinates.

@@ -1,1 +1,0 @@
-Technology major Google has collaborated with Swedish fashion brand H&M to develop an Android app called 'Data_Dress' that learns about the users and design a personalised garment for them. The app monitors a user’s daily activity, lifestyle, location and weather in the area to design a dress. The personalised dress can then be purchased via H&M's digital fashion unit Ivyrevel.

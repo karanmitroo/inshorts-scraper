@@ -1,1 +1,0 @@
-Researchers from the University of California, Santa Barbara, have revealed that a WiFi signal can be used to count the number of people in a given place. Their approach can estimate the number of people walking in an area using WiFi-link power measured between the two Wifi-cards deployed in the area. It can useful to applications like energy efficiency, search-and-rescue.

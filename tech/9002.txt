@@ -1,1 +1,0 @@
-Google has updated its Docs service on the web to enable users to edit and format text by voice. Users can now say commands like “select all,” “align center,” “bold,” “go to end of line,” and “increase font size” and Google Docs will execute them. So far, the platform allowed users to only dictate text into a document.

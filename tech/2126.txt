@@ -1,1 +1,0 @@
-Researchers from Israel have demonstrated how a replacement screen can be altered to embed a malicious chip to hack smartphones. The team of researchers were able to manipulate the communications system of the smartphone to record keyboard inputs, take pictures of the user and forward them via email without the users' knowledge. Reportedly, these chips cost as less at ₹640. 

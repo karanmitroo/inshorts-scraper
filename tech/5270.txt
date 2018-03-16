@@ -1,1 +1,0 @@
-A five-minute YouTube video explores the applications of Lenovo's Phab 2 Pro smartphone, the first phone to ship with Google's augmented reality Tango camera. The camera uses depth detecting and motion tracking sensors to recognise physical objects like walls and tables. For example, users can measure how long the curtains need to be by pointing the camera towards a window.

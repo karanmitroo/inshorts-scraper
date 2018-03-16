@@ -1,1 +1,0 @@
-A team from Lancaster University has developed a technology for use in smartphones that can detect fake aerospace parts, luxury goods or medicines. The researchers created atomic-scale IDs which are considered impossible to counterfeit and can fit any surface or product. A connected smartphone app can scan the tag on the products to match the ID with the manufacturer's database.

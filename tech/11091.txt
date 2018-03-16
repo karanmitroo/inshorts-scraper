@@ -1,1 +1,0 @@
-Twitter will remove the 140-character limit for direct messages July onwards, the company announced on its website for developers on Friday. The users will now be able to send longer direct messages as in typical instant messaging and group chat services like Whatsapp and Facebook Messenger. However, the limit of 140 characters for the tweets will stay.

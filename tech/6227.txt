@@ -1,2 +1,0 @@
-Security researchers from Moscow-based ElcomSoft have claimed that password-protected backups on Apple's latest iOS 10 can be bypassed 2,500 faster than iOS 9. The team said it had discovered an alternative password verification mechanism in iOS 10 which skips certain security checks used earlier. The flaw makes it possible to test 6 million passwords per second, the researchers added.
-

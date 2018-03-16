@@ -1,1 +1,0 @@
-Israeli researchers have developed a malware that steals data by forcing a computer's LED hard drive indicator to blink up to 6,000 times a second. The light would reportedly be unnoticeable by humans at this rate. Information can be encoded and leaked over the fast LED signals, which are received and recorded by remote cameras or light sensors. 

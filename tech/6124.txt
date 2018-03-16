@@ -1,1 +1,0 @@
-Technology firm HP has apologised to its customers for not explaining a software update which made its printers unusable with third-party ink cartridges. HP cited quality and security reasons for the change which displayed "damaged cartridge" when cartridges by other companies were used. The company has said it will offer an option to remove the security update.

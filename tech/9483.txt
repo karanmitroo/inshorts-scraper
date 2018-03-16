@@ -1,1 +1,0 @@
-Microsoft has rolled out Skype's call scheduling feature for the Android platform in its latest update. This feature will add the scheduled call to Microsoft Outlook and will generate a shareable link for joining the call. The new update will also allow the users to open an Office document, spreadsheet or a presentation during Skype calls.

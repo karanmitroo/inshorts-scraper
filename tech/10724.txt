@@ -1,2 +1,0 @@
-Google, Facebook, and Twitter have joined forces with UK's Internet Watch Foundation to remove millions of indecent child images from the internet. The anti-abuse organisation takes down inappropriate images of children and allocates a unique code, "hash", to them. These "hash lists" of inappropriate content will let the websites identify and prevent their upload.
-

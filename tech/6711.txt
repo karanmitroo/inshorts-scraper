@@ -1,1 +1,0 @@
-Facebook on Friday announced that human editors would no longer write descriptions for the Trending Topics stories in its news feed. The editors will now only select the topics, while a special algorithm pulls excerpts from the articles themselves. The number of people discussing about a topic will be visible below it, while the description will be visible on clicks.

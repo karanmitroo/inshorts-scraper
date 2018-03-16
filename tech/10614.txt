@@ -1,1 +1,0 @@
-Software company Mesosphere gave its first public demo of an allegedly container-centric operating system for the datacenter, Mesos, with the help of Microsoft on Friday. The OS ran on the preview version of Windows Server 2016. With Mesos, operators will reportedly be able to run tasks on both Linux workloads and Windows Server workloads using the same container management tool.

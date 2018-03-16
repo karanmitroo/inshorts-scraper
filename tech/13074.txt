@@ -1,1 +1,0 @@
-A report has declared Apple Maps to be a huge success on iOS devices like the iPad and iPhone in the US, moving ahead of Google maps. Introduction of a new search API by Apple, earlier this year, offering map-based addresses (location) and points of interest (POI), is considered to be a factor contributing to its increased usage .

@@ -1,1 +1,0 @@
-A new Android malware that targets over 232 banking apps, including those of SBI, HDFC, and IDBI, has been discovered. The 'Android.banker.A9480' malware is distributed through a fake Flash Player app on third-party stores, anti-virus company Quick Heal said. It is designed to steal login credentials, hijack SMSes, and upload contact lists on a malicious server. 

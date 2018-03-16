@@ -1,1 +1,0 @@
-A massive ransomware dubbed 'WannaCry' hit computers in 150 countries including India on Friday. The malicious software locks up the files on infected computers till the hackers' demand of about ₹38,000 is met in Bitcoin. The ransomware exploits a Microsoft Windows vulnerability which was exposed in a US spy agency report leaked online last month.

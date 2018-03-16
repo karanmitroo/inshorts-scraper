@@ -1,1 +1,0 @@
-Micro-blogging site Twitter Tuesday updated its iOS and Android app with Instagram-style adjustable photo filters to give users more control over how filtered images look. User will have to double tap after making a selection, after which an adjustable slider will appear to let the user adjust filter density. The option is exactly like Instagram's filter selector.

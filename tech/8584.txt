@@ -1,1 +1,0 @@
-Google has updated Gmail to add two new security improvements to the platform. First, Google has turned on its Safe Browsing service for Gmail that will alert users if they click on potentially dangerous links in messages. Second, Gmail has gained a full-page warning with instructions about how users suspected to be targeted by state-sponsored attackers can stay safe.

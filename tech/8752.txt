@@ -1,1 +1,0 @@
-Google has patented a technology to enable its self-driving cars to detect school buses on road to avoid accidents. Google uses a specific image recognition technology that picks up the colour and size of the school bus and triggers extra caution to the self-driving car. Notably, a Google self-driving car hit a public bus in California in February this year.

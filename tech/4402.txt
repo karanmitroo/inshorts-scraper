@@ -1,1 +1,0 @@
-Gap in collaboration with Google has developed 'DressingRoom', an app that uses virtual reality to let users try the fashion brand's clothes at their homes. The app asks users information like their height and weight and creates a virtual 3D model on which clothes can be tried on. Garments that fit the user can be purchased from the app itself.

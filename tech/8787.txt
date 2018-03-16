@@ -1,1 +1,0 @@
-Craig Federighi, Apple's Senior VP of Software Engineering has said quitting all the recently used apps in an iPhone does not save the phone's battery power. Apple's iOS ensures that the apps running in the background do not consume unnecessary power or battery. The iOS puts most of the apps in the frozen mode when they quit from home menu.

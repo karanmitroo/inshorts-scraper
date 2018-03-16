@@ -1,1 +1,0 @@
-Facebook on Friday confirmed that a bug in its code had locked some users out of their profiles. "An error in one of our systems designed to help prevent suspicious account access sent a small set of people to our account recovery flow unnecessarily," said Facebook's spokesperson. Earlier, users were asked to confirm their identities to access their accounts. 

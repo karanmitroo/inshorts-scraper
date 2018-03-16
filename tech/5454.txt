@@ -1,1 +1,0 @@
-Google on Wednesday announced its Map Maker service, a tool that allows anyone worldwide to contribute data to Google Maps, is retiring in March 2017. The service offered an online tool and editor that lets anyone submit updates to Google Maps, which moderators could then approve. The crowdsourced contributions to Maps will now be transitioned to Google's Local Guides program.

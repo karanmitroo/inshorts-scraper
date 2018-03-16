@@ -1,1 +1,0 @@
-The first computer bug was an actual moth, found trapped in the computer Harvard Mark II, 69 years ago on September 9, 1947. Discovered by engineers working on the computer, the bug was pasted in a log book, with the caption 'First actual case of bug being found'. However, the term 'bug' was in use earlier as well.

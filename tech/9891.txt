@@ -1,1 +1,0 @@
-According to media reports, Instagram is testing a new 3D Touch-like feature on Android that lets users long-press image thumbnails to display a zoomed-in pop-up card of the same. Through this, users can directly like a photo, share it, comment on it, and follow others without actually opening the image. Instagram is also testing support for multiple accounts on Android.

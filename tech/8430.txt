@@ -1,1 +1,0 @@
-Blogging website WordPress has updated its platform to include share buttons for WhatsApp, Telegram and Skype. Users have to manually integrate the new buttons into their blogs by clicking on the 'My Site' and then the 'Sharing' options on their dashboards. The platform already features share-button support for Twitter, Facebook and Reddit.

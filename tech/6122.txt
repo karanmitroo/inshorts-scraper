@@ -1,1 +1,0 @@
-Many Android Wear smartwatches, including Moto 360, Fossil Q, and Tag Heuer Connected, are reportedly incompatible with Apple's latest phones iPhone 7 and iPhone 7 Plus. The Android devices are recognised by the iPhone when they are nearby, but the watches hang at the pairing stage of the Android Wear setup process.

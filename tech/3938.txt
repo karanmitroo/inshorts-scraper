@@ -1,1 +1,0 @@
-Indian security researcher Anand Prakash has been awarded ₹3.3 lakh by ride-hailing app Uber for finding a bug that allowed users to take unlimited free Uber rides. Prakash received permission from Uber to test the bug in the US and India, where he was able to take free rides. Uber fixed the bug the same day Prakash reported it.

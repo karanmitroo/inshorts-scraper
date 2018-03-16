@@ -1,1 +1,0 @@
-Researchers at Spain's Universidad de Alicante have developed an app that can find people in areas which do not have mobile signals. The app generates WiFi signals, which contain a user's location, to ask for help within a range of several kilometres. Researchers also developed a portable receiver device, for rescue teams, that can detect signals to find the user.

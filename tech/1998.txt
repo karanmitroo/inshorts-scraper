@@ -1,1 +1,0 @@
-A video released by security company IOActive shows a hacked home assistance robot stabbing a tomato with a screwdriver. IOActive's researchers hacked the robot called 'Alpha 2', produced by UBTech by accessing a USB port at the back of its head. The port allowed hackers to install a malware that let them control the robot's functions and alter its voice. 

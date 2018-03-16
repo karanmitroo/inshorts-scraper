@@ -1,1 +1,0 @@
-Microsoft on Wednesday announced the Xbox Dev Mode, a feature which allows any Xbox One console to convert into a game development kit. The new mode allows developers to self-publish digital games onto the console, as they'll be provided access to SDKs, middlewares and other required documentation. Further, the company also announced the support of Cortana for Xbox One.

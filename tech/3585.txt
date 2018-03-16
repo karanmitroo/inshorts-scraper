@@ -1,1 +1,0 @@
-The creator of a malware called 'Rensenware' has apologised after his joke bug was used to infect people's computers and lock their files till they played a shooter game. Victims would have to score 0.2 billion points in Lunatic mode to break the encryption. The creator later removed the malicious code and published tool to let users bypass the malware.

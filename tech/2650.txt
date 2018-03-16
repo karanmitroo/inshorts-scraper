@@ -1,1 +1,0 @@
-The group responsible for Petya ransomware, which affected 65 countries, has demanded Bitcoins worth ₹1.7 crore in its first statement since the attack in late June. The hackers offered the private encryption key to unlock files that were locked by Petya in exchange for the amount. However, the virus deleted certain files which are impossible to recover from infected systems.

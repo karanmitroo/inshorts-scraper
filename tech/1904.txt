@@ -1,1 +1,0 @@
-Caller ID app Truecaller has added a new scanning feature to let users dial numbers and make UPI payments with a scan. The update allows the app to scan numbers, handwritten or in print just by pointing the camera at the numbers. The app also added the "Fast Track" numbers feature which lists toll-free numbers for emergency services.

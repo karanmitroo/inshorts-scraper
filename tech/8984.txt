@@ -1,1 +1,0 @@
-Vancouver-based company Bubbl has developed a social media keyboard called ‘Air’ that aims at making functions like ‘hashtagging’ and ‘@mention’ easier. Users can connect the keyboard to their social networks and it will automatically recognize their contacts, making it simpler to tag or mention them. It also surfaces common tags for easy one-tap insertion.

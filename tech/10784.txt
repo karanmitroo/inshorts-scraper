@@ -1,1 +1,0 @@
-Early Windows 10 adopters in the US have been reportedly receiving an unhelpful error message, ‘something happened,’ when trying to upgrade through the official ISO file from Microsoft’s website. Owing to its vagueness, the message has been making rounds on Twitter. However, the bug can be fixed by modifying certain language settings. Microsoft rolled out the new OS on Wednesday.

@@ -1,1 +1,0 @@
-Open-source software community Mozilla has released a new version of its Firefox browser to patch the Meltdown and Spectre vulnerabilities in microprocessors discovered earlier this week. The two bugs could allow hackers to steal data including a user's passwords, personal photos and messages. Apple also confirmed that Meltdown bug has been fixed in the December update of macOS.

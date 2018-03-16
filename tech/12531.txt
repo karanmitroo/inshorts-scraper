@@ -1,1 +1,0 @@
-Nexus 5, the official Android phone made by LG and sold by Google, seems to suffer from a significant flaw. Many users report poor GPS performance in their phone, with the device failing to latch onto satellite signals, acquiring signals after considerable delay or frequently losing the GPS connectivity. This affects the experience while using apps like Google Maps.

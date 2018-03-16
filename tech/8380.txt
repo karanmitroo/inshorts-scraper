@@ -1,1 +1,0 @@
-In an update to the User Data Policy for the Chrome Web Store, Google has asked developers to disclose privacy practices, be transparent about handling user data, post a privacy policy and use encryption when dealing with personal and sensitive information. Further, apps and extensions that violate any of these policies will be removed from the store on July 15.

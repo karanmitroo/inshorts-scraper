@@ -1,1 +1,0 @@
-Scotland-based company pureLiFi has unveiled the world's first Li-Fi dongle called LiFi-X. The dongle can be operated from any USB 2.0-enabled mobile device and has an access point which can connect to a light source such as an LED. Li-Fi uses light rays to transmit data and is a 5G technology that offers 100 times higher transmission rates than today.

@@ -1,1 +1,0 @@
-Technology giant Google has announced that it will be rolling out support for responsive emails this month,​ enabling email content to adapt to fit screens of all sizes. Claiming that most emails are generally formatted for desktop screens, Google has said it will intuitively enlarge text, links, and buttons to make reading and tapping easier on a smaller screen.

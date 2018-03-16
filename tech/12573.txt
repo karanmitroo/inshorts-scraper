@@ -1,1 +1,0 @@
-Apple on Monday announced a new programming language called Swift at WWDC 2014, which will replace Objective C as the language developers use for building iOS and OS X apps. Notably, the Swift code and C can live in the same app together. The company says that Swift apps are significantly faster than Objective-C apps, outperforming them by over 93x. 

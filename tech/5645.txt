@@ -1,1 +1,0 @@
-Microsoft unveiled 'Paint 3D' for Windows 10, an update to its 31-year-old graphics app, that lets users turn photos or doodles into 3D objects. The update includes a partnership with 3D creation community SketchUp, which lets users import 3D objects into original creations. Users can also import 3D content from the 'Minecraft' game, and print them using a 3D printer.

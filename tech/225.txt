@@ -1,1 +1,0 @@
-Facebook has integrated a 'Protect' tab in the navigation menu which redirects users to the Facebook-owned 'Onavo Protect-VPN Security' app, which the social media platform had acquired in 2013 reportedly for $200 million. The feature tracks user activities including the apps used, how often they are used, and the websites visited and then shares the information with Facebook.

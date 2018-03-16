@@ -1,1 +1,0 @@
-Uber on Tuesday announced a bug bounty of up to $10,000 to hackers who will find bugs in its system. Starting from May 1, it will last for 90 days and reward hackers who will find four issues accepted by Uber as genuine bugs. Uber last year held a private bug bounty program where 100 bugs were found and fixed. 

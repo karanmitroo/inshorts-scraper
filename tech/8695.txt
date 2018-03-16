@@ -1,1 +1,0 @@
-According to a survey by Q&A website Stack Overflow, JavaScript is the most popular development language with 55.4% of people using it. SQL was second on the list with 49.1% followed by Java (36.3%), C# (30.9%) and PHP (25.9%). Notably, the survey also revealed that Full-Stack Web Developer was the most popular developer job title. 

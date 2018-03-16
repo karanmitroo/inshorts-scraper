@@ -1,1 +1,0 @@
-A taxi driver from Punjab, Balwinder Singh's Jan Dhan account was mistakenly credited with ₹9,806 crore by the State Bank of Patiala earlier this month. While passing a credit entry of ₹200, a banker wrongly inserted the bank’s 11-digit internal general ledger account number in the amount column. However, the amount was debited from Singh’s account the very next day.

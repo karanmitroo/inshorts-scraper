@@ -1,1 +1,0 @@
-IBM is developing an Android app that will send emergency weather alerts on the phones even when an internet connection is not available. The app relies on 'Mesh Networking' technology to transmit data in areas where internet connectivity is weak. 'Mesh Networking' is a new technology that can transmit notifications from phone to phone via Bluetooth and Wi-Fi.

@@ -1,1 +1,0 @@
-Samsung has filed for a patent that intends to use palm scanning to help users remember forgotten passwords. It states that the users should take a picture of their palm to verify their identity, using previous records. If the palm lines match, the feature would display a password hint scattered across the palm lines to help user remember the password.

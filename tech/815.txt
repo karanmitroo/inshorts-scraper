@@ -1,1 +1,0 @@
-Developer Something Ideal has developed an app called fARTjacker which uses augmented reality (AR) to allows users to add fart effects to videos. The app uses the smartphone's camera and adds fart effects like a rainbow or cloud while recording the videos. The app is compatible with iOS 11.0 or later and is available only on the App Store.

@@ -1,1 +1,0 @@
-Researchers at Microsoft and MIT have created E-Ink post-it notes that do not require any charging. The device uses a small photovoltaic cell, which stores energy from ambient light to power E-Ink display and a low-energy Bluetooth chip. The note, which can be updated from a computer or a smartphone, can refresh its display every minute.

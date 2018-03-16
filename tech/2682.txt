@@ -1,1 +1,0 @@
-The Central Intelligence Agency in the US has fired contractors who were found guilty of hacking vending machines in its headquarters to steal snacks worth ₹2 lakh. The contractors unplugged the cable connecting the payments platform's server to the machine, making it impossible for the machine to verify payments. This allowed them to swipe unfunded cards and get the snacks.

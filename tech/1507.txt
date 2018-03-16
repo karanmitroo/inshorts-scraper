@@ -1,1 +1,0 @@
-Researchers at the University of Sussex have developed a food delivery system called TastyFloats which levitates food morsels directly to user's mouth. The system works through waves of ultrasound which allow small amounts of liquids and solids to float in the nodes between waves. As the phases change, the nodes move, transporting the food morsels with them.

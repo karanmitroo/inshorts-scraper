@@ -1,1 +1,0 @@
-The Decision Review System uses technology to review controversial decisions related to a batsman's dismissal. DRS has three components: the Hawk-Eye, Hot Spot and Ultra-edge. Hawk-Eye tracks the trajectory of the ball, while the Hot Spot judges where the ball has impacted the batsman. The Ultra-edge uses microphones to detect sounds as the ball hits the bat or pad.

@@ -1,1 +1,0 @@
-Google has announced that it will replace Adobe Flash Player content with HTML5 as the default option on its Chrome browser, over the next two months. This means that unless a website has an HTML5 content player, the Flash content will not display, and users will have to enable Flash manually on a site-by-site basis.

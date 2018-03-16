@@ -1,1 +1,0 @@
-Kerala boy Arun S Kumar has received ₹10.7 lakh ($16,000) in bounty after finding a bug in Facebook's code. An engineering student, Kumar found a bug that could help intruders harm the pages owned by other people in a new platform introduced by Facebook to help businesses. Facebook permanently fixed the bug within six hours after it was acknowledged.

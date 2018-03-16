@@ -1,1 +1,0 @@
-Swiss researchers have developed a technology that lets drones navigate forests indigenously and help find lost hikers. The software mimics the human brain to recognize man-made trails based on 20,000 images. The drones were able to identify the correct direction with an 85% accuracy rate. With this, drones will be able to assist in rescue missions and minimize response time.
