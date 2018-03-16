@@ -4,4 +4,5 @@ aws results
 *.pyc
 nohup.out
 min_news_id.txt
+*~
 
