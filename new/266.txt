@@ -1,1 +1,0 @@
-Former Tesla Autopilot engineers Andrew Kouri and Erik Reed and ex-iRobot computer vision engineer George Tall have launched a startup called 'Lvl5' to create high definition 3D maps for self-driving cars. Lvl5's method turns video collected from car cameras into maps that refresh constantly. Its method is a departure from LiDAR tech being used by companies like Google and Volvo.

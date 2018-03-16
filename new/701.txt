@@ -1,1 +1,0 @@
-Electric car manufacturer Tesla has rolled back a function that limited the speed of its cars in Autopilot mode according to traffic rules. Users will be able to set the speed limit of their self-driving cars at 8 kmph more than the limit on roads, while the limit for highways can be set up to 145 kmph.

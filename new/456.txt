@@ -1,1 +1,0 @@
-Technology giant Apple is using the same model of Lexus cars to test its self-driving car technology that rival Google had used before launching a separate entity for autonomous cars called Waymo. Apple's car is fitted with standard third-party sensors and hardware, two radar units, and a number of cameras. However, Waymo has now developed its own LiDAR self-driving technology.

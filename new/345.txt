@@ -1,1 +1,0 @@
-American electric carmaker Tesla's former Director of hardware engineering Satish Jeyachandran has joined Google's self-driving spinoff Waymo.  He will lead Waymo's hardware team, overseeing the development and integration of cameras, radar, lidar, and computer vision. Jeyachandran spent nearly seven years at Tesla before leaving in March this year.

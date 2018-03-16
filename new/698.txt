@@ -1,1 +1,0 @@
-A modified version of the Tesla's fastest electric car Model S, created for the Electric GT Championship, successfully accelerated from 0-100 kmph in only 2.1 seconds. While Tesla's original Model S accelerates from 0-100 kmph in 2.4 seconds, its rival Faraday Future's FF 91, the world's fastest electric car in production, achieves the same feat in 2.39 seconds.

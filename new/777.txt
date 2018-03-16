@@ -1,1 +1,0 @@
-Self-driving cars are those which can drive themselves without assistance from a human driver. Such vehicles are equipped with digital cameras, lasers and radar sensors which are embedded around the car, giving it a 360° view of its surroundings. Visual images are converted into code for the car's systems to interpret to control the steering, braking, and throttle.

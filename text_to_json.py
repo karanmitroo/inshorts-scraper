@@ -29,6 +29,6 @@ def text_to_json(data):
 		
 		data.append(this_news)
 
-	with open("result_automobile.json", "aw") as out_file:
+	with open("result.json", "aw") as out_file:
 		json.dump(data, out_file, indent = 4)
 		out_file.close()

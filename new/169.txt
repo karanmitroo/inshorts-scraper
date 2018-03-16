@@ -1,1 +1,0 @@
-Elon Musk-led electric car maker Tesla is working with US-based Advanced Micro Devices (AMD) to make its own chip for self-driving cars, according to reports. Tesla also recently hired the ex-AMD executive Jim Keller as head of its Autopilot hardware engineering effort. The carmaker reportedly has already received samples of the first implementation of its processor.

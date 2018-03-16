@@ -1,1 +1,0 @@
-Google spinoff Waymo has sued Uber for stealing its 'LiDAR' technology used by self-driving cars. LiDAR is a radar-like system that uses rotating lasers instead of radio waves to build 3D images of the surrounding landscape. Waymo claims it discovered the theft after it received an email from LiDAR components supplier meant for Uber with similar circuit board designs.
