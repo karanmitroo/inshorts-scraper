@@ -2,6 +2,7 @@
 aws results
 *.py~
 *.pyc
+*.json
 nohup.out
 min_news_id.txt
-
+*~
